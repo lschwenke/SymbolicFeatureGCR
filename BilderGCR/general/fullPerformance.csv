@@ -1,0 +1,2332 @@
+,classifier_name,dataset_name,accuracy
+0,"Our Model symbols 5, features 200, Transformer l3",ACSF1,0.754
+1,Random Forest,ACSF1,0.774
+2,AdaBoost,ACSF1,0.22999999999999998
+3,Rotational Forest,ACSF1,0.766
+4,"Assembly symbols 5, features 200, Transformer l3",ACSF1,0.81
+5,"Our Model symbols 5, features 200, Transformer l3",Adiac,0.7544757033248082
+6,Random Forest,Adiac,0.7938618925831202
+7,AdaBoost,Adiac,0.11355498721227622
+8,Rotational Forest,Adiac,0.8046035805626598
+9,"Assembly symbols 5, features 200, Transformer l3",Adiac,0.8005115089514067
+10,"Our Model symbols 5, features 200, Transformer l3",ArrowHead,0.6845714285714287
+11,Random Forest,ArrowHead,0.6891428571428572
+12,AdaBoost,ArrowHead,0.6502857142857141
+13,Rotational Forest,ArrowHead,0.6857142857142857
+14,"Assembly symbols 5, features 200, Transformer l3",ArrowHead,0.7828571428571428
+15,"Our Model symbols 5, features 200, Transformer l3",Beef,0.7533333333333333
+16,Random Forest,Beef,0.7133333333333334
+17,AdaBoost,Beef,0.5333333333333333
+18,Rotational Forest,Beef,0.7533333333333333
+19,"Assembly symbols 5, features 200, Transformer l3",Beef,0.7666666666666667
+20,"Our Model symbols 5, features 200, Transformer l3",BeetleFly,0.76
+21,Random Forest,BeetleFly,0.9400000000000001
+22,AdaBoost,BeetleFly,0.8700000000000001
+23,Rotational Forest,BeetleFly,0.8800000000000001
+24,"Assembly symbols 5, features 200, Transformer l3",BeetleFly,0.95
+25,"Our Model symbols 5, features 200, Transformer l3",BirdChicken,0.9200000000000002
+26,Random Forest,BirdChicken,0.93
+27,AdaBoost,BirdChicken,0.9
+28,Rotational Forest,BirdChicken,0.9099999999999999
+29,"Assembly symbols 5, features 200, Transformer l3",BirdChicken,1.0
+30,"Our Model symbols 5, features 200, Transformer l3",BME,1.0
+31,Random Forest,BME,1.0
+32,AdaBoost,BME,0.9946666666666666
+33,Rotational Forest,BME,1.0
+34,"Assembly symbols 5, features 200, Transformer l3",BME,1.0
+35,"Our Model symbols 5, features 200, Transformer l3",Car,0.8133333333333332
+36,Random Forest,Car,0.8233333333333335
+37,AdaBoost,Car,0.7133333333333333
+38,Rotational Forest,Car,0.8333333333333333
+39,"Assembly symbols 5, features 200, Transformer l3",Car,0.8166666666666667
+40,"Our Model symbols 5, features 200, Transformer l3",CBF,0.9926666666666666
+41,Random Forest,CBF,0.9813333333333334
+42,AdaBoost,CBF,0.9108888888888889
+43,Rotational Forest,CBF,0.9846666666666668
+44,"Assembly symbols 5, features 200, Transformer l3",CBF,0.9955555555555555
+45,"Our Model symbols 5, features 200, Transformer l3",Chinatown,0.9661807580174928
+46,Random Forest,Chinatown,0.963265306122449
+47,AdaBoost,Chinatown,0.9527696793002915
+48,Rotational Forest,Chinatown,0.9685131195335277
+49,"Assembly symbols 5, features 200, Transformer l3",Chinatown,0.9737609329446064
+50,"Our Model symbols 5, features 200, Transformer l3",ChlorineConcentration,0.6075
+51,Random Forest,ChlorineConcentration,0.6696354166666666
+52,AdaBoost,ChlorineConcentration,0.5707812499999999
+53,Rotational Forest,ChlorineConcentration,0.6916145833333334
+54,"Assembly symbols 5, features 200, Transformer l3",ChlorineConcentration,0.6520833333333333
+55,"Our Model symbols 5, features 200, Transformer l3",CinCECGTorso,0.9620289855072464
+56,Random Forest,CinCECGTorso,0.9540579710144927
+57,AdaBoost,CinCECGTorso,0.717536231884058
+58,Rotational Forest,CinCECGTorso,0.9639130434782608
+59,"Assembly symbols 5, features 200, Transformer l3",CinCECGTorso,0.9884057971014493
+60,"Our Model symbols 5, features 200, Transformer l3",Coffee,0.9785714285714286
+61,Random Forest,Coffee,0.9928571428571429
+62,AdaBoost,Coffee,1.0
+63,Rotational Forest,Coffee,1.0
+64,"Assembly symbols 5, features 200, Transformer l3",Coffee,1.0
+65,"Our Model symbols 5, features 200, Transformer l3",Computers,0.7584
+66,Random Forest,Computers,0.756
+67,AdaBoost,Computers,0.7416
+68,Rotational Forest,Computers,0.7831999999999999
+69,"Assembly symbols 5, features 200, Transformer l3",Computers,0.792
+70,"Our Model symbols 5, features 200, Transformer l3",CricketX,0.645128205128205
+71,Random Forest,CricketX,0.6538461538461539
+72,AdaBoost,CricketX,0.3025641025641026
+73,Rotational Forest,CricketX,0.6687179487179489
+74,"Assembly symbols 5, features 200, Transformer l3",CricketX,0.676923076923077
+75,"Our Model symbols 5, features 200, Transformer l3",CricketY,0.602051282051282
+76,Random Forest,CricketY,0.6738461538461538
+77,AdaBoost,CricketY,0.3815384615384615
+78,Rotational Forest,CricketY,0.7005128205128206
+79,"Assembly symbols 5, features 200, Transformer l3",CricketY,0.6538461538461539
+80,"Our Model symbols 5, features 200, Transformer l3",CricketZ,0.6117948717948718
+81,Random Forest,CricketZ,0.6482051282051281
+82,AdaBoost,CricketZ,0.30205128205128207
+83,Rotational Forest,CricketZ,0.6758974358974359
+84,"Assembly symbols 5, features 200, Transformer l3",CricketZ,0.6435897435897436
+85,"Our Model symbols 5, features 200, Transformer l3",DiatomSizeReduction,0.9267973856209151
+86,Random Forest,DiatomSizeReduction,0.8882352941176471
+87,AdaBoost,DiatomSizeReduction,0.3836601307189543
+88,Rotational Forest,DiatomSizeReduction,0.881045751633987
+89,"Assembly symbols 5, features 200, Transformer l3",DiatomSizeReduction,0.9411764705882353
+90,"Our Model symbols 5, features 200, Transformer l3",DistalPhalanxOutlineCorrect,0.7507246376811595
+91,Random Forest,DistalPhalanxOutlineCorrect,0.763768115942029
+92,AdaBoost,DistalPhalanxOutlineCorrect,0.7572463768115941
+93,Rotational Forest,DistalPhalanxOutlineCorrect,0.7681159420289856
+94,"Assembly symbols 5, features 200, Transformer l3",DistalPhalanxOutlineCorrect,0.7463768115942029
+95,"Our Model symbols 5, features 200, Transformer l3",DistalPhalanxOutlineAgeGroup,0.7338129496402878
+96,Random Forest,DistalPhalanxOutlineAgeGroup,0.7510791366906475
+97,AdaBoost,DistalPhalanxOutlineAgeGroup,0.7151079136690648
+98,Rotational Forest,DistalPhalanxOutlineAgeGroup,0.7640287769784173
+99,"Assembly symbols 5, features 200, Transformer l3",DistalPhalanxOutlineAgeGroup,0.7553956834532374
+100,"Our Model symbols 5, features 200, Transformer l3",DistalPhalanxTW,0.6546762589928058
+101,Random Forest,DistalPhalanxTW,0.6618705035971223
+102,AdaBoost,DistalPhalanxTW,0.49352517985611516
+103,Rotational Forest,DistalPhalanxTW,0.6575539568345323
+104,"Assembly symbols 5, features 200, Transformer l3",DistalPhalanxTW,0.6402877697841727
+105,"Our Model symbols 5, features 200, Transformer l3",Earthquakes,0.7395683453237408
+106,Random Forest,Earthquakes,0.7482014388489209
+107,AdaBoost,Earthquakes,0.7438848920863309
+108,Rotational Forest,Earthquakes,0.7510791366906475
+109,"Assembly symbols 5, features 200, Transformer l3",Earthquakes,0.7482014388489209
+110,"Our Model symbols 5, features 200, Transformer l3",ECG200,0.8239999999999998
+111,Random Forest,ECG200,0.8480000000000001
+112,AdaBoost,ECG200,0.8400000000000001
+113,Rotational Forest,ECG200,0.8540000000000001
+114,"Assembly symbols 5, features 200, Transformer l3",ECG200,0.83
+115,"Our Model symbols 5, features 200, Transformer l3",ECG5000,0.9378666666666667
+116,Random Forest,ECG5000,0.9404
+117,AdaBoost,ECG5000,0.9224444444444444
+118,Rotational Forest,ECG5000,0.9419555555555554
+119,"Assembly symbols 5, features 200, Transformer l3",ECG5000,0.9433333333333334
+120,"Our Model symbols 5, features 200, Transformer l3",ECGFiveDays,0.6524970963995355
+121,Random Forest,ECGFiveDays,0.8392566782810686
+122,AdaBoost,ECGFiveDays,0.9319396051103368
+123,Rotational Forest,ECGFiveDays,0.9481997677119628
+124,"Assembly symbols 5, features 200, Transformer l3",ECGFiveDays,0.7851335656213705
+125,"Our Model symbols 5, features 200, Transformer l3",ElectricDevices,0.7436648943068344
+126,Random Forest,ElectricDevices,0.757100246401245
+127,AdaBoost,ElectricDevices,0.5257943198028789
+128,Rotational Forest,ElectricDevices,0.7579302295422125
+129,"Assembly symbols 5, features 200, Transformer l3",ElectricDevices,0.7530800155621838
+130,"Our Model symbols 5, features 200, Transformer l3",EOGHorizontalSignal,0.49779005524861886
+131,Random Forest,EOGHorizontalSignal,0.4922651933701657
+132,AdaBoost,EOGHorizontalSignal,0.3049723756906077
+133,Rotational Forest,EOGHorizontalSignal,0.46685082872928174
+134,"Assembly symbols 5, features 200, Transformer l3",EOGHorizontalSignal,0.5469613259668509
+135,"Our Model symbols 5, features 200, Transformer l3",EOGVerticalSignal,0.4475138121546961
+136,Random Forest,EOGVerticalSignal,0.44088397790055245
+137,AdaBoost,EOGVerticalSignal,0.30939226519337015
+138,Rotational Forest,EOGVerticalSignal,0.44917127071823204
+139,"Assembly symbols 5, features 200, Transformer l3",EOGVerticalSignal,0.4889502762430939
+140,"Our Model symbols 5, features 200, Transformer l3",EthanolLevel,0.4584
+141,Random Forest,EthanolLevel,0.45879999999999993
+142,AdaBoost,EthanolLevel,0.39320000000000005
+143,Rotational Forest,EthanolLevel,0.4648
+144,"Assembly symbols 5, features 200, Transformer l3",EthanolLevel,0.47
+145,"Our Model symbols 5, features 200, Transformer l3",FaceAll,0.7511242603550295
+146,Random Forest,FaceAll,0.7312426035502958
+147,AdaBoost,FaceAll,0.37029585798816567
+148,Rotational Forest,FaceAll,0.741301775147929
+149,"Assembly symbols 5, features 200, Transformer l3",FaceAll,0.7597633136094675
+150,"Our Model symbols 5, features 200, Transformer l3",FaceFour,0.8613636363636363
+151,Random Forest,FaceFour,0.8159090909090908
+152,AdaBoost,FaceFour,0.30681818181818177
+153,Rotational Forest,FaceFour,0.8954545454545455
+154,"Assembly symbols 5, features 200, Transformer l3",FaceFour,0.875
+155,"Our Model symbols 5, features 200, Transformer l3",FacesUCR,0.6351219512195122
+156,Random Forest,FacesUCR,0.6799024390243902
+157,AdaBoost,FacesUCR,0.39834146341463417
+158,Rotational Forest,FacesUCR,0.7319024390243903
+159,"Assembly symbols 5, features 200, Transformer l3",FacesUCR,0.6697560975609756
+160,"Our Model symbols 5, features 200, Transformer l3",FiftyWords,0.5230769230769231
+161,Random Forest,FiftyWords,0.5371428571428571
+162,AdaBoost,FiftyWords,0.2602197802197802
+163,Rotational Forest,FiftyWords,0.5868131868131867
+164,"Assembly symbols 5, features 200, Transformer l3",FiftyWords,0.5648351648351648
+165,"Our Model symbols 5, features 200, Transformer l3",Fish,0.8845714285714287
+166,Random Forest,Fish,0.8331428571428571
+167,AdaBoost,Fish,0.6982857142857143
+168,Rotational Forest,Fish,0.870857142857143
+169,"Assembly symbols 5, features 200, Transformer l3",Fish,0.9142857142857143
+170,"Our Model symbols 5, features 200, Transformer l3",FordA,0.9954545454545455
+171,Random Forest,FordA,0.9968181818181817
+172,AdaBoost,FordA,0.9965151515151517
+173,Rotational Forest,FordA,0.9971212121212121
+174,"Assembly symbols 5, features 200, Transformer l3",FordA,0.9962121212121212
+175,"Our Model symbols 5, features 200, Transformer l3",FordB,0.7758024691358024
+176,Random Forest,FordB,0.8207407407407408
+177,AdaBoost,FordB,0.7632098765432098
+178,Rotational Forest,FordB,0.8241975308641976
+179,"Assembly symbols 5, features 200, Transformer l3",FordB,0.7765432098765432
+180,"Our Model symbols 5, features 200, Transformer l3",FreezerRegularTrain,0.98659649122807
+181,Random Forest,FreezerRegularTrain,0.9922105263157894
+182,AdaBoost,FreezerRegularTrain,0.9925614035087719
+183,Rotational Forest,FreezerRegularTrain,0.9933333333333334
+184,"Assembly symbols 5, features 200, Transformer l3",FreezerRegularTrain,0.9894736842105263
+185,"Our Model symbols 5, features 200, Transformer l3",FreezerSmallTrain,0.7364210526315789
+186,Random Forest,FreezerSmallTrain,0.8585263157894737
+187,AdaBoost,FreezerSmallTrain,0.8729122807017543
+188,Rotational Forest,FreezerSmallTrain,0.8790877192982457
+189,"Assembly symbols 5, features 200, Transformer l3",FreezerSmallTrain,0.8077192982456141
+190,"Our Model symbols 5, features 200, Transformer l3",GunPoint,0.9039999999999999
+191,Random Forest,GunPoint,0.9533333333333334
+192,AdaBoost,GunPoint,0.9573333333333333
+193,Rotational Forest,GunPoint,0.9573333333333333
+194,"Assembly symbols 5, features 200, Transformer l3",GunPoint,0.9666666666666667
+195,"Our Model symbols 5, features 200, Transformer l3",GunPointAgeSpan,0.9886075949367088
+196,Random Forest,GunPointAgeSpan,0.9873417721518987
+197,AdaBoost,GunPointAgeSpan,0.9689873417721518
+198,Rotational Forest,GunPointAgeSpan,0.980379746835443
+199,"Assembly symbols 5, features 200, Transformer l3",GunPointAgeSpan,0.990506329113924
+200,"Our Model symbols 5, features 200, Transformer l3",GunPointMaleVersusFemale,1.0
+201,Random Forest,GunPointMaleVersusFemale,0.9968354430379748
+202,AdaBoost,GunPointMaleVersusFemale,0.9949367088607595
+203,Rotational Forest,GunPointMaleVersusFemale,0.9968354430379748
+204,"Assembly symbols 5, features 200, Transformer l3",GunPointMaleVersusFemale,1.0
+205,"Our Model symbols 5, features 200, Transformer l3",GunPointOldVersusYoung,1.0
+206,Random Forest,GunPointOldVersusYoung,1.0
+207,AdaBoost,GunPointOldVersusYoung,1.0
+208,Rotational Forest,GunPointOldVersusYoung,1.0
+209,"Assembly symbols 5, features 200, Transformer l3",GunPointOldVersusYoung,1.0
+210,"Our Model symbols 5, features 200, Transformer l3",Ham,0.7561904761904762
+211,Random Forest,Ham,0.7371428571428572
+212,AdaBoost,Ham,0.699047619047619
+213,Rotational Forest,Ham,0.761904761904762
+214,"Assembly symbols 5, features 200, Transformer l3",Ham,0.7619047619047619
+215,"Our Model symbols 5, features 200, Transformer l3",HandOutlines,0.8800000000000001
+216,Random Forest,HandOutlines,0.8913513513513512
+217,AdaBoost,HandOutlines,0.8724324324324325
+218,Rotational Forest,HandOutlines,0.8902702702702703
+219,"Assembly symbols 5, features 200, Transformer l3",HandOutlines,0.8972972972972973
+220,"Our Model symbols 5, features 200, Transformer l3",Haptics,0.42727272727272736
+221,Random Forest,Haptics,0.42662337662337657
+222,AdaBoost,Haptics,0.39350649350649347
+223,Rotational Forest,Haptics,0.43636363636363634
+224,"Assembly symbols 5, features 200, Transformer l3",Haptics,0.4902597402597403
+225,"Our Model symbols 5, features 200, Transformer l3",Herring,0.625
+226,Random Forest,Herring,0.59375
+227,AdaBoost,Herring,0.50625
+228,Rotational Forest,Herring,0.6125
+229,"Assembly symbols 5, features 200, Transformer l3",Herring,0.625
+230,"Our Model symbols 5, features 200, Transformer l3",HouseTwenty,0.9663865546218486
+231,Random Forest,HouseTwenty,0.9630252100840335
+232,AdaBoost,HouseTwenty,0.9512605042016806
+233,Rotational Forest,HouseTwenty,0.9731092436974789
+234,"Assembly symbols 5, features 200, Transformer l3",HouseTwenty,0.9663865546218487
+235,"Our Model symbols 5, features 200, Transformer l3",InlineSkate,0.4083636363636364
+236,Random Forest,InlineSkate,0.4992727272727272
+237,AdaBoost,InlineSkate,0.33636363636363636
+238,Rotational Forest,InlineSkate,0.5025454545454545
+239,"Assembly symbols 5, features 200, Transformer l3",InlineSkate,0.44545454545454544
+240,"Our Model symbols 5, features 200, Transformer l3",InsectEPGRegularTrain,0.9951807228915662
+241,Random Forest,InsectEPGRegularTrain,1.0
+242,AdaBoost,InsectEPGRegularTrain,0.9855421686746988
+243,Rotational Forest,InsectEPGRegularTrain,1.0
+244,"Assembly symbols 5, features 200, Transformer l3",InsectEPGRegularTrain,1.0
+245,"Our Model symbols 5, features 200, Transformer l3",InsectEPGSmallTrain,0.9686746987951806
+246,Random Forest,InsectEPGSmallTrain,0.9630522088353413
+247,AdaBoost,InsectEPGSmallTrain,0.9718875502008032
+248,Rotational Forest,InsectEPGSmallTrain,0.976706827309237
+249,"Assembly symbols 5, features 200, Transformer l3",InsectEPGSmallTrain,1.0
+250,"Our Model symbols 5, features 200, Transformer l3",InsectWingbeatSound,0.6171717171717171
+251,Random Forest,InsectWingbeatSound,0.6362626262626263
+252,AdaBoost,InsectWingbeatSound,0.42616161616161613
+253,Rotational Forest,InsectWingbeatSound,0.6422222222222221
+254,"Assembly symbols 5, features 200, Transformer l3",InsectWingbeatSound,0.6404040404040404
+255,"Our Model symbols 5, features 200, Transformer l3",ItalyPowerDemand,0.9391642371234209
+256,Random Forest,ItalyPowerDemand,0.9535471331389698
+257,AdaBoost,ItalyPowerDemand,0.9432458697764821
+258,Rotational Forest,ItalyPowerDemand,0.9640427599611273
+259,"Assembly symbols 5, features 200, Transformer l3",ItalyPowerDemand,0.9504373177842566
+260,"Our Model symbols 5, features 200, Transformer l3",LargeKitchenAppliances,0.7978666666666666
+261,Random Forest,LargeKitchenAppliances,0.8112
+262,AdaBoost,LargeKitchenAppliances,0.7504
+263,Rotational Forest,LargeKitchenAppliances,0.8378666666666665
+264,"Assembly symbols 5, features 200, Transformer l3",LargeKitchenAppliances,0.8186666666666667
+265,"Our Model symbols 5, features 200, Transformer l3",Lightning2,0.6426229508196721
+266,Random Forest,Lightning2,0.6852459016393443
+267,AdaBoost,Lightning2,0.6065573770491804
+268,Rotational Forest,Lightning2,0.659016393442623
+269,"Assembly symbols 5, features 200, Transformer l3",Lightning2,0.7049180327868853
+270,"Our Model symbols 5, features 200, Transformer l3",Lightning7,0.684931506849315
+271,Random Forest,Lightning7,0.6602739726027397
+272,AdaBoost,Lightning7,0.47397260273972597
+273,Rotational Forest,Lightning7,0.684931506849315
+274,"Assembly symbols 5, features 200, Transformer l3",Lightning7,0.726027397260274
+275,"Our Model symbols 5, features 200, Transformer l3",Mallat,0.9318550106609809
+276,Random Forest,Mallat,0.8806823027718551
+277,AdaBoost,Mallat,0.34507462686567164
+278,Rotational Forest,Mallat,0.9275053304904051
+279,"Assembly symbols 5, features 200, Transformer l3",Mallat,0.9526652452025587
+280,"Our Model symbols 5, features 200, Transformer l3",Meat,0.9133333333333333
+281,Random Forest,Meat,0.96
+282,AdaBoost,Meat,0.9233333333333335
+283,Rotational Forest,Meat,0.93
+284,"Assembly symbols 5, features 200, Transformer l3",Meat,0.9333333333333333
+285,"Our Model symbols 5, features 200, Transformer l3",MedicalImages,0.7247368421052631
+286,Random Forest,MedicalImages,0.7463157894736842
+287,AdaBoost,MedicalImages,0.5444736842105263
+288,Rotational Forest,MedicalImages,0.7742105263157895
+289,"Assembly symbols 5, features 200, Transformer l3",MedicalImages,0.7513157894736842
+290,"Our Model symbols 5, features 200, Transformer l3",MiddlePhalanxOutlineCorrect,0.7278350515463918
+291,Random Forest,MiddlePhalanxOutlineCorrect,0.8075601374570447
+292,AdaBoost,MiddlePhalanxOutlineCorrect,0.7264604810996564
+293,Rotational Forest,MiddlePhalanxOutlineCorrect,0.8054982817869416
+294,"Assembly symbols 5, features 200, Transformer l3",MiddlePhalanxOutlineCorrect,0.7353951890034365
+295,"Our Model symbols 5, features 200, Transformer l3",MiddlePhalanxOutlineAgeGroup,0.551948051948052
+296,Random Forest,MiddlePhalanxOutlineAgeGroup,0.5922077922077922
+297,AdaBoost,MiddlePhalanxOutlineAgeGroup,0.5207792207792208
+298,Rotational Forest,MiddlePhalanxOutlineAgeGroup,0.5662337662337662
+299,"Assembly symbols 5, features 200, Transformer l3",MiddlePhalanxOutlineAgeGroup,0.564935064935065
+300,"Our Model symbols 5, features 200, Transformer l3",MiddlePhalanxTW,0.5584415584415584
+301,Random Forest,MiddlePhalanxTW,0.5532467532467533
+302,AdaBoost,MiddlePhalanxTW,0.4220779220779221
+303,Rotational Forest,MiddlePhalanxTW,0.5506493506493506
+304,"Assembly symbols 5, features 200, Transformer l3",MiddlePhalanxTW,0.564935064935065
+305,"Our Model symbols 5, features 200, Transformer l3",MixedShapesRegularTrain,0.9082886597938143
+306,Random Forest,MixedShapesRegularTrain,0.9095257731958764
+307,AdaBoost,MixedShapesRegularTrain,0.8748041237113403
+308,Rotational Forest,MixedShapesRegularTrain,0.9203298969072164
+309,"Assembly symbols 5, features 200, Transformer l3",MixedShapesRegularTrain,0.9237113402061856
+310,"Our Model symbols 5, features 200, Transformer l3",MixedShapesSmallTrain,0.8414020618556701
+311,Random Forest,MixedShapesSmallTrain,0.8309278350515464
+312,AdaBoost,MixedShapesSmallTrain,0.8222680412371135
+313,Rotational Forest,MixedShapesSmallTrain,0.8644948453608248
+314,"Assembly symbols 5, features 200, Transformer l3",MixedShapesSmallTrain,0.8729896907216494
+315,"Our Model symbols 5, features 200, Transformer l3",MoteStrain,0.9039936102236421
+316,Random Forest,MoteStrain,0.8785942492012779
+317,AdaBoost,MoteStrain,0.8688498402555911
+318,Rotational Forest,MoteStrain,0.8985623003194888
+319,"Assembly symbols 5, features 200, Transformer l3",MoteStrain,0.9297124600638977
+320,"Our Model symbols 5, features 200, Transformer l3",NonInvasiveFetalECGThorax1,0.827379134860051
+321,Random Forest,NonInvasiveFetalECGThorax1,0.8370483460559797
+322,AdaBoost,NonInvasiveFetalECGThorax1,0.054860050890585245
+323,Rotational Forest,NonInvasiveFetalECGThorax1,0.8548600508905853
+324,"Assembly symbols 5, features 200, Transformer l3",NonInvasiveFetalECGThorax1,0.862086513994911
+325,"Our Model symbols 5, features 200, Transformer l3",NonInvasiveFetalECGThorax2,0.8090585241730279
+326,Random Forest,NonInvasiveFetalECGThorax2,0.8487531806615776
+327,AdaBoost,NonInvasiveFetalECGThorax2,0.05821882951653945
+328,Rotational Forest,NonInvasiveFetalECGThorax2,0.8654452926208652
+329,"Assembly symbols 5, features 200, Transformer l3",NonInvasiveFetalECGThorax2,0.8595419847328244
+330,"Our Model symbols 5, features 200, Transformer l3",OliveOil,0.8400000000000001
+331,Random Forest,OliveOil,0.7866666666666667
+332,AdaBoost,OliveOil,0.3866666666666667
+333,Rotational Forest,OliveOil,0.8600000000000001
+334,"Assembly symbols 5, features 200, Transformer l3",OliveOil,0.9333333333333333
+335,"Our Model symbols 5, features 200, Transformer l3",OSULeaf,0.8991735537190083
+336,Random Forest,OSULeaf,0.8528925619834711
+337,AdaBoost,OSULeaf,0.7090909090909091
+338,Rotational Forest,OSULeaf,0.8842975206611572
+339,"Assembly symbols 5, features 200, Transformer l3",OSULeaf,0.9008264462809917
+340,"Our Model symbols 5, features 200, Transformer l3",PhalangesOutlinesCorrect,0.7578088578088578
+341,Random Forest,PhalangesOutlinesCorrect,0.8137529137529137
+342,AdaBoost,PhalangesOutlinesCorrect,0.7305361305361305
+343,Rotational Forest,PhalangesOutlinesCorrect,0.8039627039627039
+344,"Assembly symbols 5, features 200, Transformer l3",PhalangesOutlinesCorrect,0.7832167832167832
+345,"Our Model symbols 5, features 200, Transformer l3",Phoneme,0.29103375527426156
+346,Random Forest,Phoneme,0.33512658227848097
+347,AdaBoost,Phoneme,0.16234177215189874
+348,Rotational Forest,Phoneme,0.3488396624472574
+349,"Assembly symbols 5, features 200, Transformer l3",Phoneme,0.3359704641350211
+350,"Our Model symbols 5, features 200, Transformer l3",PigAirwayPressure,0.16153846153846155
+351,Random Forest,PigAirwayPressure,0.13653846153846155
+352,AdaBoost,PigAirwayPressure,0.057692307692307696
+353,Rotational Forest,PigAirwayPressure,0.17596153846153845
+354,"Assembly symbols 5, features 200, Transformer l3",PigAirwayPressure,0.16346153846153846
+355,"Our Model symbols 5, features 200, Transformer l3",PigArtPressure,0.46730769230769226
+356,Random Forest,PigArtPressure,0.6596153846153847
+357,AdaBoost,PigArtPressure,0.057692307692307696
+358,Rotational Forest,PigArtPressure,0.7375
+359,"Assembly symbols 5, features 200, Transformer l3",PigArtPressure,0.47115384615384615
+360,"Our Model symbols 5, features 200, Transformer l3",PigCVP,0.2596153846153846
+361,Random Forest,PigCVP,0.3173076923076923
+362,AdaBoost,PigCVP,0.04807692307692308
+363,Rotational Forest,PigCVP,0.45
+364,"Assembly symbols 5, features 200, Transformer l3",PigCVP,0.3317307692307692
+365,"Our Model symbols 5, features 200, Transformer l3",Plane,0.9961904761904762
+366,Random Forest,Plane,0.9904761904761905
+367,AdaBoost,Plane,0.8
+368,Rotational Forest,Plane,0.9961904761904762
+369,"Assembly symbols 5, features 200, Transformer l3",Plane,1.0
+370,"Our Model symbols 5, features 200, Transformer l3",PowerCons,0.9911111111111112
+371,Random Forest,PowerCons,0.9877777777777779
+372,AdaBoost,PowerCons,0.9944444444444445
+373,Rotational Forest,PowerCons,0.99
+374,"Assembly symbols 5, features 200, Transformer l3",PowerCons,0.9944444444444445
+375,"Our Model symbols 5, features 200, Transformer l3",ProximalPhalanxOutlineCorrect,0.8343642611683848
+376,Random Forest,ProximalPhalanxOutlineCorrect,0.8460481099656357
+377,AdaBoost,ProximalPhalanxOutlineCorrect,0.8316151202749141
+378,Rotational Forest,ProximalPhalanxOutlineCorrect,0.8536082474226804
+379,"Assembly symbols 5, features 200, Transformer l3",ProximalPhalanxOutlineCorrect,0.8625429553264605
+380,"Our Model symbols 5, features 200, Transformer l3",ProximalPhalanxOutlineAgeGroup,0.8507317073170733
+381,Random Forest,ProximalPhalanxOutlineAgeGroup,0.8575609756097562
+382,AdaBoost,ProximalPhalanxOutlineAgeGroup,0.8039024390243903
+383,Rotational Forest,ProximalPhalanxOutlineAgeGroup,0.8575609756097562
+384,"Assembly symbols 5, features 200, Transformer l3",ProximalPhalanxOutlineAgeGroup,0.8634146341463415
+385,"Our Model symbols 5, features 200, Transformer l3",ProximalPhalanxTW,0.7717073170731708
+386,Random Forest,ProximalPhalanxTW,0.7765853658536586
+387,AdaBoost,ProximalPhalanxTW,0.7853658536585366
+388,Rotational Forest,ProximalPhalanxTW,0.7658536585365854
+389,"Assembly symbols 5, features 200, Transformer l3",ProximalPhalanxTW,0.7804878048780488
+390,"Our Model symbols 5, features 200, Transformer l3",RefrigerationDevices,0.5402666666666667
+391,Random Forest,RefrigerationDevices,0.5696000000000001
+392,AdaBoost,RefrigerationDevices,0.5274666666666665
+393,Rotational Forest,RefrigerationDevices,0.5706666666666667
+394,"Assembly symbols 5, features 200, Transformer l3",RefrigerationDevices,0.5626666666666666
+395,"Our Model symbols 5, features 200, Transformer l3",Rock,0.592
+396,Random Forest,Rock,0.6559999999999999
+397,AdaBoost,Rock,0.42000000000000004
+398,Rotational Forest,Rock,0.624
+399,"Assembly symbols 5, features 200, Transformer l3",Rock,0.72
+400,"Our Model symbols 5, features 200, Transformer l3",ScreenType,0.5306666666666666
+401,Random Forest,ScreenType,0.5616
+402,AdaBoost,ScreenType,0.5050666666666667
+403,Rotational Forest,ScreenType,0.5829333333333333
+404,"Assembly symbols 5, features 200, Transformer l3",ScreenType,0.5706666666666667
+405,"Our Model symbols 5, features 200, Transformer l3",SemgHandGenderCh2,0.9
+406,Random Forest,SemgHandGenderCh2,0.9156666666666666
+407,AdaBoost,SemgHandGenderCh2,0.9023333333333333
+408,Rotational Forest,SemgHandGenderCh2,0.9543333333333333
+409,"Assembly symbols 5, features 200, Transformer l3",SemgHandGenderCh2,0.9216666666666666
+410,"Our Model symbols 5, features 200, Transformer l3",SemgHandMovementCh2,0.5955555555555556
+411,Random Forest,SemgHandMovementCh2,0.6813333333333333
+412,AdaBoost,SemgHandMovementCh2,0.4137777777777778
+413,Rotational Forest,SemgHandMovementCh2,0.7173333333333334
+414,"Assembly symbols 5, features 200, Transformer l3",SemgHandMovementCh2,0.6622222222222223
+415,"Our Model symbols 5, features 200, Transformer l3",SemgHandSubjectCh2,0.8582222222222222
+416,Random Forest,SemgHandSubjectCh2,0.8737777777777778
+417,AdaBoost,SemgHandSubjectCh2,0.7657777777777778
+418,Rotational Forest,SemgHandSubjectCh2,0.8937777777777779
+419,"Assembly symbols 5, features 200, Transformer l3",SemgHandSubjectCh2,0.8888888888888888
+420,"Our Model symbols 5, features 200, Transformer l3",ShapeletSim,0.9766666666666666
+421,Random Forest,ShapeletSim,0.9922222222222222
+422,AdaBoost,ShapeletSim,0.9766666666666668
+423,Rotational Forest,ShapeletSim,1.0
+424,"Assembly symbols 5, features 200, Transformer l3",ShapeletSim,0.9777777777777777
+425,"Our Model symbols 5, features 200, Transformer l3",ShapesAll,0.805
+426,Random Forest,ShapesAll,0.8220000000000001
+427,AdaBoost,ShapesAll,0.052000000000000005
+428,Rotational Forest,ShapesAll,0.8346666666666666
+429,"Assembly symbols 5, features 200, Transformer l3",ShapesAll,0.8516666666666667
+430,"Our Model symbols 5, features 200, Transformer l3",SmallKitchenAppliances,0.8053333333333332
+431,Random Forest,SmallKitchenAppliances,0.8176
+432,AdaBoost,SmallKitchenAppliances,0.8133333333333332
+433,Rotational Forest,SmallKitchenAppliances,0.8149333333333333
+434,"Assembly symbols 5, features 200, Transformer l3",SmallKitchenAppliances,0.7973333333333333
+435,"Our Model symbols 5, features 200, Transformer l3",SmoothSubspace,0.968
+436,Random Forest,SmoothSubspace,0.976
+437,AdaBoost,SmoothSubspace,0.968
+438,Rotational Forest,SmoothSubspace,0.976
+439,"Assembly symbols 5, features 200, Transformer l3",SmoothSubspace,0.9666666666666667
+440,"Our Model symbols 5, features 200, Transformer l3",SonyAIBORobotSurface1,0.9198003327787022
+441,Random Forest,SonyAIBORobotSurface1,0.9051580698835273
+442,AdaBoost,SonyAIBORobotSurface1,0.8645590682196339
+443,Rotational Forest,SonyAIBORobotSurface1,0.9018302828618967
+444,"Assembly symbols 5, features 200, Transformer l3",SonyAIBORobotSurface1,0.9317803660565723
+445,"Our Model symbols 5, features 200, Transformer l3",SonyAIBORobotSurface2,0.8749213011542498
+446,Random Forest,SonyAIBORobotSurface2,0.9120671563483735
+447,AdaBoost,SonyAIBORobotSurface2,0.8417628541448059
+448,Rotational Forest,SonyAIBORobotSurface2,0.9166841552990554
+449,"Assembly symbols 5, features 200, Transformer l3",SonyAIBORobotSurface2,0.9317943336831059
+450,"Our Model symbols 5, features 200, Transformer l3",StarLightCurves,0.9556580864497329
+451,Random Forest,StarLightCurves,0.9601991257892181
+452,AdaBoost,StarLightCurves,0.9397037396794561
+453,Rotational Forest,StarLightCurves,0.9630160271976689
+454,"Assembly symbols 5, features 200, Transformer l3",StarLightCurves,0.9626032054395337
+455,"Our Model symbols 5, features 200, Transformer l3",Strawberry,0.9513513513513512
+456,Random Forest,Strawberry,0.9556756756756757
+457,AdaBoost,Strawberry,0.9513513513513514
+458,Rotational Forest,Strawberry,0.9621621621621621
+459,"Assembly symbols 5, features 200, Transformer l3",Strawberry,0.9621621621621622
+460,"Our Model symbols 5, features 200, Transformer l3",SwedishLeaf,0.9270400000000001
+461,Random Forest,SwedishLeaf,0.9331200000000001
+462,AdaBoost,SwedishLeaf,0.384
+463,Rotational Forest,SwedishLeaf,0.9395200000000001
+464,"Assembly symbols 5, features 200, Transformer l3",SwedishLeaf,0.936
+465,"Our Model symbols 5, features 200, Transformer l3",Symbols,0.8080402010050252
+466,Random Forest,Symbols,0.8990954773869346
+467,AdaBoost,Symbols,0.4040201005025126
+468,Rotational Forest,Symbols,0.9266331658291458
+469,"Assembly symbols 5, features 200, Transformer l3",Symbols,0.9447236180904522
+470,"Our Model symbols 5, features 200, Transformer l3",SyntheticControl,0.9946666666666667
+471,Random Forest,SyntheticControl,0.986
+472,AdaBoost,SyntheticControl,0.6319999999999999
+473,Rotational Forest,SyntheticControl,0.9933333333333334
+474,"Assembly symbols 5, features 200, Transformer l3",SyntheticControl,0.9933333333333333
+475,"Our Model symbols 5, features 200, Transformer l3",ToeSegmentation1,0.7114035087719298
+476,Random Forest,ToeSegmentation1,0.8228070175438595
+477,AdaBoost,ToeSegmentation1,0.7578947368421053
+478,Rotational Forest,ToeSegmentation1,0.85
+479,"Assembly symbols 5, features 200, Transformer l3",ToeSegmentation1,0.8377192982456141
+480,"Our Model symbols 5, features 200, Transformer l3",ToeSegmentation2,0.8061538461538461
+481,Random Forest,ToeSegmentation2,0.8523076923076923
+482,AdaBoost,ToeSegmentation2,0.8615384615384615
+483,Rotational Forest,ToeSegmentation2,0.8723076923076922
+484,"Assembly symbols 5, features 200, Transformer l3",ToeSegmentation2,0.8692307692307693
+485,"Our Model symbols 5, features 200, Transformer l3",Trace,1.0
+486,Random Forest,Trace,1.0
+487,AdaBoost,Trace,0.788
+488,Rotational Forest,Trace,1.0
+489,"Assembly symbols 5, features 200, Transformer l3",Trace,1.0
+490,"Our Model symbols 5, features 200, Transformer l3",TwoLeadECG,0.9571553994732221
+491,Random Forest,TwoLeadECG,0.9685689201053556
+492,AdaBoost,TwoLeadECG,0.9585601404741
+493,Rotational Forest,TwoLeadECG,0.9834942932396838
+494,"Assembly symbols 5, features 200, Transformer l3",TwoLeadECG,0.9727831431079894
+495,"Our Model symbols 5, features 200, Transformer l3",TwoPatterns,0.9692999999999999
+496,Random Forest,TwoPatterns,0.9821
+497,AdaBoost,TwoPatterns,0.93305
+498,Rotational Forest,TwoPatterns,0.9917
+499,"Assembly symbols 5, features 200, Transformer l3",TwoPatterns,0.9805
+500,"Our Model symbols 5, features 200, Transformer l3",UMD,0.9902777777777778
+501,Random Forest,UMD,0.9902777777777777
+502,AdaBoost,UMD,0.9472222222222222
+503,Rotational Forest,UMD,0.9916666666666668
+504,"Assembly symbols 5, features 200, Transformer l3",UMD,0.9930555555555556
+505,"Our Model symbols 5, features 200, Transformer l3",UWaveGestureLibraryAll,0.8876605248464544
+506,Random Forest,UWaveGestureLibraryAll,0.8917364600781686
+507,AdaBoost,UWaveGestureLibraryAll,0.7503629257398101
+508,Rotational Forest,UWaveGestureLibraryAll,0.9163037409268565
+509,"Assembly symbols 5, features 200, Transformer l3",UWaveGestureLibraryAll,0.9048017867113345
+510,"Our Model symbols 5, features 200, Transformer l3",UWaveGestureLibraryX,0.749748743718593
+511,Random Forest,UWaveGestureLibraryX,0.7725293132328308
+512,AdaBoost,UWaveGestureLibraryX,0.5811836962590732
+513,Rotational Forest,UWaveGestureLibraryX,0.7957007258514797
+514,"Assembly symbols 5, features 200, Transformer l3",UWaveGestureLibraryX,0.7892238972640983
+515,"Our Model symbols 5, features 200, Transformer l3",UWaveGestureLibraryY,0.5591848129536572
+516,Random Forest,UWaveGestureLibraryY,0.5908431044109437
+517,AdaBoost,UWaveGestureLibraryY,0.470072585147962
+518,Rotational Forest,UWaveGestureLibraryY,0.6059184812953657
+519,"Assembly symbols 5, features 200, Transformer l3",UWaveGestureLibraryY,0.6038525963149078
+520,"Our Model symbols 5, features 200, Transformer l3",UWaveGestureLibraryZ,0.678503629257398
+521,Random Forest,UWaveGestureLibraryZ,0.6967057509771077
+522,AdaBoost,UWaveGestureLibraryZ,0.5589614740368509
+523,Rotational Forest,UWaveGestureLibraryZ,0.7170854271356785
+524,"Assembly symbols 5, features 200, Transformer l3",UWaveGestureLibraryZ,0.7032384142936907
+525,"Our Model symbols 5, features 200, Transformer l3",Wafer,0.9998377676833226
+526,Random Forest,Wafer,0.999870214146658
+527,AdaBoost,Wafer,0.9998053212199871
+528,Rotational Forest,Wafer,0.9997728747566516
+529,"Assembly symbols 5, features 200, Transformer l3",Wafer,0.9998377676833226
+530,"Our Model symbols 5, features 200, Transformer l3",Wine,0.6185185185185185
+531,Random Forest,Wine,0.7333333333333333
+532,AdaBoost,Wine,0.6222222222222223
+533,Rotational Forest,Wine,0.6851851851851851
+534,"Assembly symbols 5, features 200, Transformer l3",Wine,0.6666666666666666
+535,"Our Model symbols 5, features 200, Transformer l3",WordSynonyms,0.5197492163009404
+536,Random Forest,WordSynonyms,0.5692789968652037
+537,AdaBoost,WordSynonyms,0.31912225705329156
+538,Rotational Forest,WordSynonyms,0.5946708463949844
+539,"Assembly symbols 5, features 200, Transformer l3",WordSynonyms,0.5705329153605015
+540,"Our Model symbols 5, features 200, Transformer l3",Worms,0.7376623376623377
+541,Random Forest,Worms,0.7532467532467532
+542,AdaBoost,Worms,0.5714285714285714
+543,Rotational Forest,Worms,0.7688311688311689
+544,"Assembly symbols 5, features 200, Transformer l3",Worms,0.8051948051948052
+545,"Our Model symbols 5, features 200, Transformer l3",WormsTwoClass,0.7428571428571429
+546,Random Forest,WormsTwoClass,0.7766233766233765
+547,AdaBoost,WormsTwoClass,0.7090909090909091
+548,Rotational Forest,WormsTwoClass,0.7792207792207793
+549,"Assembly symbols 5, features 200, Transformer l3",WormsTwoClass,0.7532467532467533
+550,"Our Model symbols 5, features 200, Transformer l3",Yoga,0.8992666666666667
+551,Random Forest,Yoga,0.9078666666666667
+552,AdaBoost,Yoga,0.8915333333333333
+553,Rotational Forest,Yoga,0.9055333333333333
+554,"Assembly symbols 5, features 200, Transformer l3",Yoga,0.912
+555,"Our Model symbols 5, features 200, Transformer l2",ACSF1,0.74
+556,"Assembly symbols 5, features 200, Transformer l2",ACSF1,0.8
+557,"Our Model symbols 5, features 200, Transformer l2",Adiac,0.7575447570332481
+558,"Assembly symbols 5, features 200, Transformer l2",Adiac,0.8158567774936062
+559,"Our Model symbols 5, features 200, Transformer l2",ArrowHead,0.76
+560,"Assembly symbols 5, features 200, Transformer l2",ArrowHead,0.7885714285714286
+561,"Our Model symbols 5, features 200, Transformer l2",Beef,0.7266666666666667
+562,"Assembly symbols 5, features 200, Transformer l2",Beef,0.7333333333333333
+563,"Our Model symbols 5, features 200, Transformer l2",BeetleFly,0.8400000000000001
+564,"Assembly symbols 5, features 200, Transformer l2",BeetleFly,0.95
+565,"Our Model symbols 5, features 200, Transformer l2",BirdChicken,0.9400000000000001
+566,"Assembly symbols 5, features 200, Transformer l2",BirdChicken,1.0
+567,"Our Model symbols 5, features 200, Transformer l2",BME,0.9986666666666666
+568,"Assembly symbols 5, features 200, Transformer l2",BME,1.0
+569,"Our Model symbols 5, features 200, Transformer l2",Car,0.8066666666666666
+570,"Assembly symbols 5, features 200, Transformer l2",Car,0.8333333333333334
+571,"Our Model symbols 5, features 200, Transformer l2",CBF,0.9951111111111111
+572,"Assembly symbols 5, features 200, Transformer l2",CBF,0.9977777777777778
+573,"Our Model symbols 5, features 200, Transformer l2",Chinatown,0.9300291545189504
+574,"Assembly symbols 5, features 200, Transformer l2",Chinatown,0.9737609329446064
+575,"Our Model symbols 5, features 200, Transformer l2",ChlorineConcentration,0.6073437499999998
+576,"Assembly symbols 5, features 200, Transformer l2",ChlorineConcentration,0.6690104166666667
+577,"Our Model symbols 5, features 200, Transformer l2",CinCECGTorso,0.9608695652173914
+578,"Assembly symbols 5, features 200, Transformer l2",CinCECGTorso,0.9927536231884058
+579,"Our Model symbols 5, features 200, Transformer l2",Coffee,0.9785714285714286
+580,"Assembly symbols 5, features 200, Transformer l2",Coffee,1.0
+581,"Our Model symbols 5, features 200, Transformer l2",Computers,0.7592000000000001
+582,"Assembly symbols 5, features 200, Transformer l2",Computers,0.792
+583,"Our Model symbols 5, features 200, Transformer l2",CricketX,0.6441025641025641
+584,"Assembly symbols 5, features 200, Transformer l2",CricketX,0.6820512820512821
+585,"Our Model symbols 5, features 200, Transformer l2",CricketY,0.6215384615384616
+586,"Assembly symbols 5, features 200, Transformer l2",CricketY,0.6538461538461539
+587,"Our Model symbols 5, features 200, Transformer l2",CricketZ,0.6261538461538462
+588,"Assembly symbols 5, features 200, Transformer l2",CricketZ,0.6538461538461539
+589,"Our Model symbols 5, features 200, Transformer l2",DiatomSizeReduction,0.9241830065359478
+590,"Assembly symbols 5, features 200, Transformer l2",DiatomSizeReduction,0.934640522875817
+591,"Our Model symbols 5, features 200, Transformer l2",DistalPhalanxOutlineCorrect,0.7521739130434784
+592,"Assembly symbols 5, features 200, Transformer l2",DistalPhalanxOutlineCorrect,0.7536231884057971
+593,"Our Model symbols 5, features 200, Transformer l2",DistalPhalanxOutlineAgeGroup,0.7223021582733813
+594,"Assembly symbols 5, features 200, Transformer l2",DistalPhalanxOutlineAgeGroup,0.7338129496402878
+595,"Our Model symbols 5, features 200, Transformer l2",DistalPhalanxTW,0.6546762589928058
+596,"Assembly symbols 5, features 200, Transformer l2",DistalPhalanxTW,0.6546762589928058
+597,"Our Model symbols 5, features 200, Transformer l2",Earthquakes,0.7496402877697841
+598,"Assembly symbols 5, features 200, Transformer l2",Earthquakes,0.7482014388489209
+599,"Our Model symbols 5, features 200, Transformer l2",ECG200,0.8160000000000001
+600,"Assembly symbols 5, features 200, Transformer l2",ECG200,0.85
+601,"Our Model symbols 5, features 200, Transformer l2",ECG5000,0.9410222222222222
+602,"Assembly symbols 5, features 200, Transformer l2",ECG5000,0.9424444444444444
+603,"Our Model symbols 5, features 200, Transformer l2",ECGFiveDays,0.6499419279907086
+604,"Assembly symbols 5, features 200, Transformer l2",ECGFiveDays,0.743321718931475
+605,"Our Model symbols 5, features 200, Transformer l2",ElectricDevices,0.7415639994812604
+606,"Assembly symbols 5, features 200, Transformer l2",ElectricDevices,0.7545065490857217
+607,"Our Model symbols 5, features 200, Transformer l2",EOGHorizontalSignal,0.4607734806629834
+608,"Assembly symbols 5, features 200, Transformer l2",EOGHorizontalSignal,0.5359116022099447
+609,"Our Model symbols 5, features 200, Transformer l2",EOGVerticalSignal,0.46464088397790054
+610,"Assembly symbols 5, features 200, Transformer l2",EOGVerticalSignal,0.4972375690607735
+611,"Our Model symbols 5, features 200, Transformer l2",EthanolLevel,0.4344
+612,"Assembly symbols 5, features 200, Transformer l2",EthanolLevel,0.452
+613,"Our Model symbols 5, features 200, Transformer l2",FaceAll,0.7582248520710059
+614,"Assembly symbols 5, features 200, Transformer l2",FaceAll,0.7609467455621302
+615,"Our Model symbols 5, features 200, Transformer l2",FaceFour,0.859090909090909
+616,"Assembly symbols 5, features 200, Transformer l2",FaceFour,0.8863636363636364
+617,"Our Model symbols 5, features 200, Transformer l2",FacesUCR,0.6437073170731707
+618,"Assembly symbols 5, features 200, Transformer l2",FacesUCR,0.6873170731707318
+619,"Our Model symbols 5, features 200, Transformer l2",FiftyWords,0.5279120879120879
+620,"Assembly symbols 5, features 200, Transformer l2",FiftyWords,0.5626373626373626
+621,"Our Model symbols 5, features 200, Transformer l2",Fish,0.8868571428571428
+622,"Assembly symbols 5, features 200, Transformer l2",Fish,0.92
+623,"Our Model symbols 5, features 200, Transformer l2",FordA,0.9940909090909091
+624,"Assembly symbols 5, features 200, Transformer l2",FordA,0.9946969696969697
+625,"Our Model symbols 5, features 200, Transformer l2",FordB,0.7748148148148148
+626,"Assembly symbols 5, features 200, Transformer l2",FordB,0.7802469135802469
+627,"Our Model symbols 5, features 200, Transformer l2",FreezerRegularTrain,0.9839298245614035
+628,"Assembly symbols 5, features 200, Transformer l2",FreezerRegularTrain,0.9891228070175438
+629,"Our Model symbols 5, features 200, Transformer l2",FreezerSmallTrain,0.7182456140350878
+630,"Assembly symbols 5, features 200, Transformer l2",FreezerSmallTrain,0.7964912280701755
+631,"Our Model symbols 5, features 200, Transformer l2",GunPoint,0.9279999999999999
+632,"Assembly symbols 5, features 200, Transformer l2",GunPoint,0.9666666666666667
+633,"Our Model symbols 5, features 200, Transformer l2",GunPointAgeSpan,0.9854430379746836
+634,"Assembly symbols 5, features 200, Transformer l2",GunPointAgeSpan,0.990506329113924
+635,"Our Model symbols 5, features 200, Transformer l2",GunPointMaleVersusFemale,1.0
+636,"Assembly symbols 5, features 200, Transformer l2",GunPointMaleVersusFemale,1.0
+637,"Our Model symbols 5, features 200, Transformer l2",GunPointOldVersusYoung,1.0
+638,"Assembly symbols 5, features 200, Transformer l2",GunPointOldVersusYoung,1.0
+639,"Our Model symbols 5, features 200, Transformer l2",Ham,0.76
+640,"Assembly symbols 5, features 200, Transformer l2",Ham,0.7523809523809524
+641,"Our Model symbols 5, features 200, Transformer l2",HandOutlines,0.8864864864864865
+642,"Assembly symbols 5, features 200, Transformer l2",HandOutlines,0.8972972972972973
+643,"Our Model symbols 5, features 200, Transformer l2",Haptics,0.4344155844155845
+644,"Assembly symbols 5, features 200, Transformer l2",Haptics,0.4935064935064935
+645,"Our Model symbols 5, features 200, Transformer l2",Herring,0.621875
+646,"Assembly symbols 5, features 200, Transformer l2",Herring,0.671875
+647,"Our Model symbols 5, features 200, Transformer l2",HouseTwenty,0.9647058823529411
+648,"Assembly symbols 5, features 200, Transformer l2",HouseTwenty,0.9663865546218487
+649,"Our Model symbols 5, features 200, Transformer l2",InlineSkate,0.3698181818181818
+650,"Assembly symbols 5, features 200, Transformer l2",InlineSkate,0.4509090909090909
+651,"Our Model symbols 5, features 200, Transformer l2",InsectEPGRegularTrain,0.9975903614457831
+652,"Assembly symbols 5, features 200, Transformer l2",InsectEPGRegularTrain,1.0
+653,"Our Model symbols 5, features 200, Transformer l2",InsectEPGSmallTrain,0.9598393574297189
+654,"Assembly symbols 5, features 200, Transformer l2",InsectEPGSmallTrain,1.0
+655,"Our Model symbols 5, features 200, Transformer l2",InsectWingbeatSound,0.6215151515151515
+656,"Assembly symbols 5, features 200, Transformer l2",InsectWingbeatSound,0.6505050505050505
+657,"Our Model symbols 5, features 200, Transformer l2",ItalyPowerDemand,0.9348882410106899
+658,"Assembly symbols 5, features 200, Transformer l2",ItalyPowerDemand,0.9465500485908649
+659,"Our Model symbols 5, features 200, Transformer l2",LargeKitchenAppliances,0.7856
+660,"Assembly symbols 5, features 200, Transformer l2",LargeKitchenAppliances,0.824
+661,"Our Model symbols 5, features 200, Transformer l2",Lightning2,0.6
+662,"Assembly symbols 5, features 200, Transformer l2",Lightning2,0.6557377049180327
+663,"Our Model symbols 5, features 200, Transformer l2",Lightning7,0.6986301369863014
+664,"Assembly symbols 5, features 200, Transformer l2",Lightning7,0.7123287671232876
+665,"Our Model symbols 5, features 200, Transformer l2",Mallat,0.7327931769722814
+666,"Assembly symbols 5, features 200, Transformer l2",Mallat,0.8989339019189766
+667,"Our Model symbols 5, features 200, Transformer l2",Meat,0.8633333333333333
+668,"Assembly symbols 5, features 200, Transformer l2",Meat,0.9166666666666666
+669,"Our Model symbols 5, features 200, Transformer l2",MedicalImages,0.7257894736842105
+670,"Assembly symbols 5, features 200, Transformer l2",MedicalImages,0.7447368421052631
+671,"Our Model symbols 5, features 200, Transformer l2",MiddlePhalanxOutlineCorrect,0.7353951890034365
+672,"Assembly symbols 5, features 200, Transformer l2",MiddlePhalanxOutlineCorrect,0.7457044673539519
+673,"Our Model symbols 5, features 200, Transformer l2",MiddlePhalanxOutlineAgeGroup,0.564935064935065
+674,"Assembly symbols 5, features 200, Transformer l2",MiddlePhalanxOutlineAgeGroup,0.577922077922078
+675,"Our Model symbols 5, features 200, Transformer l2",MiddlePhalanxTW,0.5727272727272728
+676,"Assembly symbols 5, features 200, Transformer l2",MiddlePhalanxTW,0.5844155844155844
+677,"Our Model symbols 5, features 200, Transformer l2",MixedShapesRegularTrain,0.9012783505154639
+678,"Assembly symbols 5, features 200, Transformer l2",MixedShapesRegularTrain,0.9092783505154639
+679,"Our Model symbols 5, features 200, Transformer l2",MixedShapesSmallTrain,0.8438762886597939
+680,"Assembly symbols 5, features 200, Transformer l2",MixedShapesSmallTrain,0.8820618556701031
+681,"Our Model symbols 5, features 200, Transformer l2",MoteStrain,0.9057507987220447
+682,"Assembly symbols 5, features 200, Transformer l2",MoteStrain,0.9257188498402555
+683,"Our Model symbols 5, features 200, Transformer l2",NonInvasiveFetalECGThorax1,0.8296183206106871
+684,"Assembly symbols 5, features 200, Transformer l2",NonInvasiveFetalECGThorax1,0.8641221374045801
+685,"Our Model symbols 5, features 200, Transformer l2",NonInvasiveFetalECGThorax2,0.8123155216284987
+686,"Assembly symbols 5, features 200, Transformer l2",NonInvasiveFetalECGThorax2,0.8564885496183207
+687,"Our Model symbols 5, features 200, Transformer l2",OliveOil,0.8333333333333334
+688,"Assembly symbols 5, features 200, Transformer l2",OliveOil,0.9
+689,"Our Model symbols 5, features 200, Transformer l2",OSULeaf,0.8793388429752067
+690,"Assembly symbols 5, features 200, Transformer l2",OSULeaf,0.8884297520661157
+691,"Our Model symbols 5, features 200, Transformer l2",PhalangesOutlinesCorrect,0.7596736596736596
+692,"Assembly symbols 5, features 200, Transformer l2",PhalangesOutlinesCorrect,0.7762237762237763
+693,"Our Model symbols 5, features 200, Transformer l2",Phoneme,0.30052742616033756
+694,"Assembly symbols 5, features 200, Transformer l2",Phoneme,0.3454641350210971
+695,"Our Model symbols 5, features 200, Transformer l2",PigAirwayPressure,0.1528846153846154
+696,"Assembly symbols 5, features 200, Transformer l2",PigAirwayPressure,0.14903846153846154
+697,"Our Model symbols 5, features 200, Transformer l2",PigArtPressure,0.4634615384615385
+698,"Assembly symbols 5, features 200, Transformer l2",PigArtPressure,0.4567307692307692
+699,"Our Model symbols 5, features 200, Transformer l2",PigCVP,0.2048076923076923
+700,"Assembly symbols 5, features 200, Transformer l2",PigCVP,0.30288461538461536
+701,"Our Model symbols 5, features 200, Transformer l2",Plane,0.9980952380952381
+702,"Assembly symbols 5, features 200, Transformer l2",Plane,1.0
+703,"Our Model symbols 5, features 200, Transformer l2",PowerCons,0.9744444444444443
+704,"Assembly symbols 5, features 200, Transformer l2",PowerCons,0.9944444444444445
+705,"Our Model symbols 5, features 200, Transformer l2",ProximalPhalanxOutlineCorrect,0.8274914089347079
+706,"Assembly symbols 5, features 200, Transformer l2",ProximalPhalanxOutlineCorrect,0.8556701030927835
+707,"Our Model symbols 5, features 200, Transformer l2",ProximalPhalanxOutlineAgeGroup,0.8439024390243903
+708,"Assembly symbols 5, features 200, Transformer l2",ProximalPhalanxOutlineAgeGroup,0.8634146341463415
+709,"Our Model symbols 5, features 200, Transformer l2",ProximalPhalanxTW,0.7804878048780488
+710,"Assembly symbols 5, features 200, Transformer l2",ProximalPhalanxTW,0.7951219512195122
+711,"Our Model symbols 5, features 200, Transformer l2",RefrigerationDevices,0.5562666666666667
+712,"Assembly symbols 5, features 200, Transformer l2",RefrigerationDevices,0.5813333333333334
+713,"Our Model symbols 5, features 200, Transformer l2",Rock,0.6279999999999999
+714,"Assembly symbols 5, features 200, Transformer l2",Rock,0.78
+715,"Our Model symbols 5, features 200, Transformer l2",ScreenType,0.5279999999999999
+716,"Assembly symbols 5, features 200, Transformer l2",ScreenType,0.5493333333333333
+717,"Our Model symbols 5, features 200, Transformer l2",SemgHandGenderCh2,0.8986666666666666
+718,"Assembly symbols 5, features 200, Transformer l2",SemgHandGenderCh2,0.91
+719,"Our Model symbols 5, features 200, Transformer l2",SemgHandMovementCh2,0.5928888888888888
+720,"Assembly symbols 5, features 200, Transformer l2",SemgHandMovementCh2,0.6577777777777778
+721,"Our Model symbols 5, features 200, Transformer l2",SemgHandSubjectCh2,0.8533333333333332
+722,"Assembly symbols 5, features 200, Transformer l2",SemgHandSubjectCh2,0.8688888888888889
+723,"Our Model symbols 5, features 200, Transformer l2",ShapeletSim,0.9799999999999999
+724,"Assembly symbols 5, features 200, Transformer l2",ShapeletSim,0.9777777777777777
+725,"Our Model symbols 5, features 200, Transformer l2",ShapesAll,0.805
+726,"Assembly symbols 5, features 200, Transformer l2",ShapesAll,0.85
+727,"Our Model symbols 5, features 200, Transformer l2",SmallKitchenAppliances,0.7930666666666666
+728,"Assembly symbols 5, features 200, Transformer l2",SmallKitchenAppliances,0.8
+729,"Our Model symbols 5, features 200, Transformer l2",SmoothSubspace,0.9626666666666667
+730,"Assembly symbols 5, features 200, Transformer l2",SmoothSubspace,0.96
+731,"Our Model symbols 5, features 200, Transformer l2",SonyAIBORobotSurface1,0.8549084858569053
+732,"Assembly symbols 5, features 200, Transformer l2",SonyAIBORobotSurface1,0.9317803660565723
+733,"Our Model symbols 5, features 200, Transformer l2",SonyAIBORobotSurface2,0.9112277019937043
+734,"Assembly symbols 5, features 200, Transformer l2",SonyAIBORobotSurface2,0.9286463798530955
+735,"Our Model symbols 5, features 200, Transformer l2",StarLightCurves,0.955148130160272
+736,"Assembly symbols 5, features 200, Transformer l2",StarLightCurves,0.9634531325886353
+737,"Our Model symbols 5, features 200, Transformer l2",Strawberry,0.9556756756756757
+738,"Assembly symbols 5, features 200, Transformer l2",Strawberry,0.9648648648648649
+739,"Our Model symbols 5, features 200, Transformer l2",SwedishLeaf,0.92512
+740,"Assembly symbols 5, features 200, Transformer l2",SwedishLeaf,0.9344
+741,"Our Model symbols 5, features 200, Transformer l2",Symbols,0.7505527638190955
+742,"Assembly symbols 5, features 200, Transformer l2",Symbols,0.9376884422110553
+743,"Our Model symbols 5, features 200, Transformer l2",SyntheticControl,0.9933333333333334
+744,"Assembly symbols 5, features 200, Transformer l2",SyntheticControl,0.9966666666666667
+745,"Our Model symbols 5, features 200, Transformer l2",ToeSegmentation1,0.7526315789473684
+746,"Assembly symbols 5, features 200, Transformer l2",ToeSegmentation1,0.8289473684210527
+747,"Our Model symbols 5, features 200, Transformer l2",ToeSegmentation2,0.8415384615384616
+748,"Assembly symbols 5, features 200, Transformer l2",ToeSegmentation2,0.8846153846153846
+749,"Our Model symbols 5, features 200, Transformer l2",Trace,1.0
+750,"Assembly symbols 5, features 200, Transformer l2",Trace,1.0
+751,"Our Model symbols 5, features 200, Transformer l2",TwoLeadECG,0.9615452151009658
+752,"Assembly symbols 5, features 200, Transformer l2",TwoLeadECG,0.971027216856892
+753,"Our Model symbols 5, features 200, Transformer l2",TwoPatterns,0.96405
+754,"Assembly symbols 5, features 200, Transformer l2",TwoPatterns,0.97825
+755,"Our Model symbols 5, features 200, Transformer l2",UMD,0.986111111111111
+756,"Assembly symbols 5, features 200, Transformer l2",UMD,0.9930555555555556
+757,"Our Model symbols 5, features 200, Transformer l2",UWaveGestureLibraryAll,0.887716359575656
+758,"Assembly symbols 5, features 200, Transformer l2",UWaveGestureLibraryAll,0.9103852596314908
+759,"Our Model symbols 5, features 200, Transformer l2",UWaveGestureLibraryX,0.7546621998883306
+760,"Assembly symbols 5, features 200, Transformer l2",UWaveGestureLibraryX,0.7839195979899497
+761,"Our Model symbols 5, features 200, Transformer l2",UWaveGestureLibraryY,0.5438860971524287
+762,"Assembly symbols 5, features 200, Transformer l2",UWaveGestureLibraryY,0.5946398659966499
+763,"Our Model symbols 5, features 200, Transformer l2",UWaveGestureLibraryZ,0.6742043551088777
+764,"Assembly symbols 5, features 200, Transformer l2",UWaveGestureLibraryZ,0.7065884980457845
+765,"Our Model symbols 5, features 200, Transformer l2",Wafer,0.999870214146658
+766,"Assembly symbols 5, features 200, Transformer l2",Wafer,0.9998377676833226
+767,"Our Model symbols 5, features 200, Transformer l2",Wine,0.5888888888888889
+768,"Assembly symbols 5, features 200, Transformer l2",Wine,0.7037037037037037
+769,"Our Model symbols 5, features 200, Transformer l2",WordSynonyms,0.526332288401254
+770,"Assembly symbols 5, features 200, Transformer l2",WordSynonyms,0.5815047021943573
+771,"Our Model symbols 5, features 200, Transformer l2",Worms,0.72987012987013
+772,"Assembly symbols 5, features 200, Transformer l2",Worms,0.7922077922077922
+773,"Our Model symbols 5, features 200, Transformer l2",WormsTwoClass,0.7142857142857143
+774,"Assembly symbols 5, features 200, Transformer l2",WormsTwoClass,0.7662337662337663
+775,"Our Model symbols 5, features 200, Transformer l2",Yoga,0.8993333333333334
+776,"Assembly symbols 5, features 200, Transformer l2",Yoga,0.9113333333333333
+777,"Our Model symbols 5, features 200, CNN l3",ACSF1,0.78
+778,"Assembly symbols 5, features 200, CNN l3",ACSF1,0.83
+779,"Our Model symbols 5, features 200, CNN l3",Adiac,0.7861892583120205
+780,"Assembly symbols 5, features 200, CNN l3",Adiac,0.8312020460358056
+781,"Our Model symbols 5, features 200, CNN l3",ArrowHead,0.752
+782,"Assembly symbols 5, features 200, CNN l3",ArrowHead,0.8
+783,"Our Model symbols 5, features 200, CNN l3",Beef,0.6533333333333333
+784,"Assembly symbols 5, features 200, CNN l3",Beef,0.7666666666666667
+785,"Our Model symbols 5, features 200, CNN l3",BeetleFly,0.8800000000000001
+786,"Assembly symbols 5, features 200, CNN l3",BeetleFly,0.95
+787,"Our Model symbols 5, features 200, CNN l3",BirdChicken,0.9099999999999999
+788,"Assembly symbols 5, features 200, CNN l3",BirdChicken,0.9
+789,"Our Model symbols 5, features 200, CNN l3",BME,0.9986666666666666
+790,"Assembly symbols 5, features 200, CNN l3",BME,1.0
+791,"Our Model symbols 5, features 200, CNN l3",Car,0.8400000000000001
+792,"Assembly symbols 5, features 200, CNN l3",Car,0.8833333333333333
+793,"Our Model symbols 5, features 200, CNN l3",CBF,0.9937777777777776
+794,"Assembly symbols 5, features 200, CNN l3",CBF,0.9966666666666667
+795,"Our Model symbols 5, features 200, CNN l3",Chinatown,0.9667638483965014
+796,"Assembly symbols 5, features 200, CNN l3",Chinatown,0.9708454810495627
+797,"Our Model symbols 5, features 200, CNN l3",ChlorineConcentration,0.67125
+798,"Assembly symbols 5, features 200, CNN l3",ChlorineConcentration,0.7052083333333333
+799,"Our Model symbols 5, features 200, CNN l3",CinCECGTorso,0.9294202898550725
+800,"Assembly symbols 5, features 200, CNN l3",CinCECGTorso,0.9579710144927536
+801,"Our Model symbols 5, features 200, CNN l3",Coffee,1.0
+802,"Assembly symbols 5, features 200, CNN l3",Coffee,1.0
+803,"Our Model symbols 5, features 200, CNN l3",Computers,0.7671999999999999
+804,"Assembly symbols 5, features 200, CNN l3",Computers,0.796
+805,"Our Model symbols 5, features 200, CNN l3",CricketX,0.662051282051282
+806,"Assembly symbols 5, features 200, CNN l3",CricketX,0.7
+807,"Our Model symbols 5, features 200, CNN l3",CricketY,0.68
+808,"Assembly symbols 5, features 200, CNN l3",CricketY,0.7102564102564103
+809,"Our Model symbols 5, features 200, CNN l3",CricketZ,0.6661538461538461
+810,"Assembly symbols 5, features 200, CNN l3",CricketZ,0.7051282051282052
+811,"Our Model symbols 5, features 200, CNN l3",DiatomSizeReduction,0.9228758169934641
+812,"Assembly symbols 5, features 200, CNN l3",DiatomSizeReduction,0.9281045751633987
+813,"Our Model symbols 5, features 200, CNN l3",DistalPhalanxOutlineCorrect,0.7746376811594202
+814,"Assembly symbols 5, features 200, CNN l3",DistalPhalanxOutlineCorrect,0.7789855072463768
+815,"Our Model symbols 5, features 200, CNN l3",DistalPhalanxOutlineAgeGroup,0.7438848920863309
+816,"Assembly symbols 5, features 200, CNN l3",DistalPhalanxOutlineAgeGroup,0.7697841726618705
+817,"Our Model symbols 5, features 200, CNN l3",DistalPhalanxTW,0.6474820143884892
+818,"Assembly symbols 5, features 200, CNN l3",DistalPhalanxTW,0.6402877697841727
+819,"Our Model symbols 5, features 200, CNN l3",Earthquakes,0.7381294964028777
+820,"Assembly symbols 5, features 200, CNN l3",Earthquakes,0.7482014388489209
+821,"Our Model symbols 5, features 200, CNN l3",ECG200,0.8460000000000001
+822,"Assembly symbols 5, features 200, CNN l3",ECG200,0.87
+823,"Our Model symbols 5, features 200, CNN l3",ECG5000,0.9409333333333333
+824,"Assembly symbols 5, features 200, CNN l3",ECG5000,0.9428888888888889
+825,"Our Model symbols 5, features 200, CNN l3",ECGFiveDays,0.7626016260162601
+826,"Assembly symbols 5, features 200, CNN l3",ECGFiveDays,0.8501742160278746
+827,"Our Model symbols 5, features 200, CNN l3",ElectricDevices,0.7573596161327973
+828,"Assembly symbols 5, features 200, CNN l3",ElectricDevices,0.7724030605628324
+829,"Our Model symbols 5, features 200, CNN l3",EOGHorizontalSignal,0.4790055248618785
+830,"Assembly symbols 5, features 200, CNN l3",EOGHorizontalSignal,0.5303867403314917
+831,"Our Model symbols 5, features 200, CNN l3",EOGVerticalSignal,0.44143646408839776
+832,"Assembly symbols 5, features 200, CNN l3",EOGVerticalSignal,0.47790055248618785
+833,"Our Model symbols 5, features 200, CNN l3",EthanolLevel,0.4484
+834,"Assembly symbols 5, features 200, CNN l3",EthanolLevel,0.48
+835,"Our Model symbols 5, features 200, CNN l3",FaceAll,0.8027218934911243
+836,"Assembly symbols 5, features 200, CNN l3",FaceAll,0.8272189349112427
+837,"Our Model symbols 5, features 200, CNN l3",FaceFour,0.815909090909091
+838,"Assembly symbols 5, features 200, CNN l3",FaceFour,0.8977272727272727
+839,"Our Model symbols 5, features 200, CNN l3",FacesUCR,0.6333658536585366
+840,"Assembly symbols 5, features 200, CNN l3",FacesUCR,0.6882926829268292
+841,"Our Model symbols 5, features 200, CNN l3",FiftyWords,0.5472527472527473
+842,"Assembly symbols 5, features 200, CNN l3",FiftyWords,0.589010989010989
+843,"Our Model symbols 5, features 200, CNN l3",Fish,0.8628571428571428
+844,"Assembly symbols 5, features 200, CNN l3",Fish,0.9028571428571428
+845,"Our Model symbols 5, features 200, CNN l3",FordA,0.9954545454545455
+846,"Assembly symbols 5, features 200, CNN l3",FordA,0.9962121212121212
+847,"Our Model symbols 5, features 200, CNN l3",FordB,0.7943209876543209
+848,"Assembly symbols 5, features 200, CNN l3",FordB,0.8185185185185185
+849,"Our Model symbols 5, features 200, CNN l3",FreezerRegularTrain,0.9879999999999999
+850,"Assembly symbols 5, features 200, CNN l3",FreezerRegularTrain,0.992280701754386
+851,"Our Model symbols 5, features 200, CNN l3",FreezerSmallTrain,0.8199298245614036
+852,"Assembly symbols 5, features 200, CNN l3",FreezerSmallTrain,0.8354385964912281
+853,"Our Model symbols 5, features 200, CNN l3",GunPoint,0.9213333333333333
+854,"Assembly symbols 5, features 200, CNN l3",GunPoint,0.9666666666666667
+855,"Our Model symbols 5, features 200, CNN l3",GunPointAgeSpan,0.9886075949367088
+856,"Assembly symbols 5, features 200, CNN l3",GunPointAgeSpan,0.9968354430379747
+857,"Our Model symbols 5, features 200, CNN l3",GunPointMaleVersusFemale,1.0
+858,"Assembly symbols 5, features 200, CNN l3",GunPointMaleVersusFemale,1.0
+859,"Our Model symbols 5, features 200, CNN l3",GunPointOldVersusYoung,1.0
+860,"Assembly symbols 5, features 200, CNN l3",GunPointOldVersusYoung,1.0
+861,"Our Model symbols 5, features 200, CNN l3",Ham,0.7238095238095239
+862,"Assembly symbols 5, features 200, CNN l3",Ham,0.7428571428571429
+863,"Our Model symbols 5, features 200, CNN l3",HandOutlines,0.8902702702702703
+864,"Assembly symbols 5, features 200, CNN l3",HandOutlines,0.8972972972972973
+865,"Our Model symbols 5, features 200, CNN l3",Haptics,0.4279220779220779
+866,"Assembly symbols 5, features 200, CNN l3",Haptics,0.4512987012987013
+867,"Our Model symbols 5, features 200, CNN l3",Herring,0.6
+868,"Assembly symbols 5, features 200, CNN l3",Herring,0.59375
+869,"Our Model symbols 5, features 200, CNN l3",HouseTwenty,0.9596638655462184
+870,"Assembly symbols 5, features 200, CNN l3",HouseTwenty,0.957983193277311
+871,"Our Model symbols 5, features 200, CNN l3",InlineSkate,0.4421818181818182
+872,"Assembly symbols 5, features 200, CNN l3",InlineSkate,0.48727272727272725
+873,"Our Model symbols 5, features 200, CNN l3",InsectEPGRegularTrain,1.0
+874,"Assembly symbols 5, features 200, CNN l3",InsectEPGRegularTrain,1.0
+875,"Our Model symbols 5, features 200, CNN l3",InsectEPGSmallTrain,0.9100401606425702
+876,"Assembly symbols 5, features 200, CNN l3",InsectEPGSmallTrain,1.0
+877,"Our Model symbols 5, features 200, CNN l3",InsectWingbeatSound,0.6341414141414142
+878,"Assembly symbols 5, features 200, CNN l3",InsectWingbeatSound,0.6646464646464646
+879,"Our Model symbols 5, features 200, CNN l3",ItalyPowerDemand,0.9420796890184645
+880,"Assembly symbols 5, features 200, CNN l3",ItalyPowerDemand,0.9436345966958212
+881,"Our Model symbols 5, features 200, CNN l3",LargeKitchenAppliances,0.7962666666666666
+882,"Assembly symbols 5, features 200, CNN l3",LargeKitchenAppliances,0.832
+883,"Our Model symbols 5, features 200, CNN l3",Lightning2,0.6327868852459015
+884,"Assembly symbols 5, features 200, CNN l3",Lightning2,0.7377049180327869
+885,"Our Model symbols 5, features 200, CNN l3",Lightning7,0.7068493150684932
+886,"Assembly symbols 5, features 200, CNN l3",Lightning7,0.7534246575342466
+887,"Our Model symbols 5, features 200, CNN l3",Mallat,0.9093390191897655
+888,"Assembly symbols 5, features 200, CNN l3",Mallat,0.9240938166311301
+889,"Our Model symbols 5, features 200, CNN l3",Meat,0.9533333333333334
+890,"Assembly symbols 5, features 200, CNN l3",Meat,0.9666666666666667
+891,"Our Model symbols 5, features 200, CNN l3",MedicalImages,0.7544736842105263
+892,"Assembly symbols 5, features 200, CNN l3",MedicalImages,0.7828947368421053
+893,"Our Model symbols 5, features 200, CNN l3",MiddlePhalanxOutlineCorrect,0.8013745704467354
+894,"Assembly symbols 5, features 200, CNN l3",MiddlePhalanxOutlineCorrect,0.8178694158075601
+895,"Our Model symbols 5, features 200, CNN l3",MiddlePhalanxOutlineAgeGroup,0.5883116883116882
+896,"Assembly symbols 5, features 200, CNN l3",MiddlePhalanxOutlineAgeGroup,0.6168831168831169
+897,"Our Model symbols 5, features 200, CNN l3",MiddlePhalanxTW,0.5571428571428572
+898,"Assembly symbols 5, features 200, CNN l3",MiddlePhalanxTW,0.551948051948052
+899,"Our Model symbols 5, features 200, CNN l3",MixedShapesRegularTrain,0.9171134020618557
+900,"Assembly symbols 5, features 200, CNN l3",MixedShapesRegularTrain,0.9224742268041237
+901,"Our Model symbols 5, features 200, CNN l3",MixedShapesSmallTrain,0.8235051546391754
+902,"Assembly symbols 5, features 200, CNN l3",MixedShapesSmallTrain,0.8684536082474227
+903,"Our Model symbols 5, features 200, CNN l3",MoteStrain,0.8158146964856231
+904,"Assembly symbols 5, features 200, CNN l3",MoteStrain,0.9161341853035144
+905,"Our Model symbols 5, features 200, CNN l3",NonInvasiveFetalECGThorax1,0.8502798982188293
+906,"Assembly symbols 5, features 200, CNN l3",NonInvasiveFetalECGThorax1,0.8809160305343512
+907,"Our Model symbols 5, features 200, CNN l3",NonInvasiveFetalECGThorax2,0.8409160305343513
+908,"Assembly symbols 5, features 200, CNN l3",NonInvasiveFetalECGThorax2,0.8798982188295166
+909,"Our Model symbols 5, features 200, CNN l3",OliveOil,0.7733333333333333
+910,"Assembly symbols 5, features 200, CNN l3",OliveOil,0.8666666666666667
+911,"Our Model symbols 5, features 200, CNN l3",OSULeaf,0.8925619834710744
+912,"Assembly symbols 5, features 200, CNN l3",OSULeaf,0.9173553719008265
+913,"Our Model symbols 5, features 200, CNN l3",PhalangesOutlinesCorrect,0.8067599067599067
+914,"Assembly symbols 5, features 200, CNN l3",PhalangesOutlinesCorrect,0.8298368298368298
+915,"Our Model symbols 5, features 200, CNN l3",Phoneme,0.3344936708860759
+916,"Assembly symbols 5, features 200, CNN l3",Phoneme,0.37763713080168776
+917,"Our Model symbols 5, features 200, CNN l3",PigAirwayPressure,0.14903846153846154
+918,"Assembly symbols 5, features 200, CNN l3",PigAirwayPressure,0.15384615384615385
+919,"Our Model symbols 5, features 200, CNN l3",PigArtPressure,0.5365384615384615
+920,"Assembly symbols 5, features 200, CNN l3",PigArtPressure,0.5625
+921,"Our Model symbols 5, features 200, CNN l3",PigCVP,0.31538461538461543
+922,"Assembly symbols 5, features 200, CNN l3",PigCVP,0.3269230769230769
+923,"Our Model symbols 5, features 200, CNN l3",Plane,0.9980952380952381
+924,"Assembly symbols 5, features 200, CNN l3",Plane,1.0
+925,"Our Model symbols 5, features 200, CNN l3",PowerCons,0.9733333333333333
+926,"Assembly symbols 5, features 200, CNN l3",PowerCons,0.9777777777777777
+927,"Our Model symbols 5, features 200, CNN l3",ProximalPhalanxOutlineCorrect,0.8508591065292096
+928,"Assembly symbols 5, features 200, CNN l3",ProximalPhalanxOutlineCorrect,0.8762886597938144
+929,"Our Model symbols 5, features 200, CNN l3",ProximalPhalanxOutlineAgeGroup,0.8419512195121952
+930,"Assembly symbols 5, features 200, CNN l3",ProximalPhalanxOutlineAgeGroup,0.8585365853658536
+931,"Our Model symbols 5, features 200, CNN l3",ProximalPhalanxTW,0.7824390243902439
+932,"Assembly symbols 5, features 200, CNN l3",ProximalPhalanxTW,0.7853658536585366
+933,"Our Model symbols 5, features 200, CNN l3",RefrigerationDevices,0.5791999999999999
+934,"Assembly symbols 5, features 200, CNN l3",RefrigerationDevices,0.608
+935,"Our Model symbols 5, features 200, CNN l3",Rock,0.6599999999999999
+936,"Assembly symbols 5, features 200, CNN l3",Rock,0.78
+937,"Our Model symbols 5, features 200, CNN l3",ScreenType,0.5519999999999999
+938,"Assembly symbols 5, features 200, CNN l3",ScreenType,0.568
+939,"Our Model symbols 5, features 200, CNN l3",SemgHandGenderCh2,0.9166666666666666
+940,"Assembly symbols 5, features 200, CNN l3",SemgHandGenderCh2,0.9366666666666666
+941,"Our Model symbols 5, features 200, CNN l3",SemgHandMovementCh2,0.6266666666666667
+942,"Assembly symbols 5, features 200, CNN l3",SemgHandMovementCh2,0.6955555555555556
+943,"Our Model symbols 5, features 200, CNN l3",SemgHandSubjectCh2,0.908
+944,"Assembly symbols 5, features 200, CNN l3",SemgHandSubjectCh2,0.9222222222222223
+945,"Our Model symbols 5, features 200, CNN l3",ShapeletSim,0.9722222222222221
+946,"Assembly symbols 5, features 200, CNN l3",ShapeletSim,0.9833333333333333
+947,"Our Model symbols 5, features 200, CNN l3",ShapesAll,0.8236666666666667
+948,"Assembly symbols 5, features 200, CNN l3",ShapesAll,0.8683333333333333
+949,"Our Model symbols 5, features 200, CNN l3",SmallKitchenAppliances,0.8197333333333333
+950,"Assembly symbols 5, features 200, CNN l3",SmallKitchenAppliances,0.8346666666666667
+951,"Our Model symbols 5, features 200, CNN l3",SmoothSubspace,0.968
+952,"Assembly symbols 5, features 200, CNN l3",SmoothSubspace,0.9733333333333334
+953,"Our Model symbols 5, features 200, CNN l3",SonyAIBORobotSurface1,0.8079866888519135
+954,"Assembly symbols 5, features 200, CNN l3",SonyAIBORobotSurface1,0.8768718801996672
+955,"Our Model symbols 5, features 200, CNN l3",SonyAIBORobotSurface2,0.9036726128016788
+956,"Assembly symbols 5, features 200, CNN l3",SonyAIBORobotSurface2,0.9433368310598111
+957,"Our Model symbols 5, features 200, CNN l3",StarLightCurves,0.9592034968431278
+958,"Assembly symbols 5, features 200, CNN l3",StarLightCurves,0.9628460417678485
+959,"Our Model symbols 5, features 200, CNN l3",Strawberry,0.9654054054054054
+960,"Assembly symbols 5, features 200, CNN l3",Strawberry,0.9675675675675676
+961,"Our Model symbols 5, features 200, CNN l3",SwedishLeaf,0.94176
+962,"Assembly symbols 5, features 200, CNN l3",SwedishLeaf,0.9552
+963,"Our Model symbols 5, features 200, CNN l3",Symbols,0.9202010050251255
+964,"Assembly symbols 5, features 200, CNN l3",Symbols,0.9758793969849247
+965,"Our Model symbols 5, features 200, CNN l3",SyntheticControl,0.9880000000000001
+966,"Assembly symbols 5, features 200, CNN l3",SyntheticControl,0.9866666666666667
+967,"Our Model symbols 5, features 200, CNN l3",ToeSegmentation1,0.6956140350877194
+968,"Assembly symbols 5, features 200, CNN l3",ToeSegmentation1,0.868421052631579
+969,"Our Model symbols 5, features 200, CNN l3",ToeSegmentation2,0.7938461538461539
+970,"Assembly symbols 5, features 200, CNN l3",ToeSegmentation2,0.8615384615384616
+971,"Our Model symbols 5, features 200, CNN l3",Trace,1.0
+972,"Assembly symbols 5, features 200, CNN l3",Trace,1.0
+973,"Our Model symbols 5, features 200, CNN l3",TwoLeadECG,0.9021949078138718
+974,"Assembly symbols 5, features 200, CNN l3",TwoLeadECG,0.9367866549604916
+975,"Our Model symbols 5, features 200, CNN l3",TwoPatterns,0.9802000000000002
+976,"Assembly symbols 5, features 200, CNN l3",TwoPatterns,0.98775
+977,"Our Model symbols 5, features 200, CNN l3",UMD,0.9819444444444445
+978,"Assembly symbols 5, features 200, CNN l3",UMD,0.9930555555555556
+979,"Our Model symbols 5, features 200, CNN l3",UWaveGestureLibraryAll,0.9015075376884424
+980,"Assembly symbols 5, features 200, CNN l3",UWaveGestureLibraryAll,0.9223897264098269
+981,"Our Model symbols 5, features 200, CNN l3",UWaveGestureLibraryX,0.7796761585706309
+982,"Assembly symbols 5, features 200, CNN l3",UWaveGestureLibraryX,0.8042992741485204
+983,"Our Model symbols 5, features 200, CNN l3",UWaveGestureLibraryY,0.5725851479620324
+984,"Assembly symbols 5, features 200, CNN l3",UWaveGestureLibraryY,0.6119486320491345
+985,"Our Model symbols 5, features 200, CNN l3",UWaveGestureLibraryZ,0.6990508096035735
+986,"Assembly symbols 5, features 200, CNN l3",UWaveGestureLibraryZ,0.7280848687883864
+987,"Our Model symbols 5, features 200, CNN l3",Wafer,0.9999675535366646
+988,"Assembly symbols 5, features 200, CNN l3",Wafer,1.0
+989,"Our Model symbols 5, features 200, CNN l3",Wine,0.6666666666666667
+990,"Assembly symbols 5, features 200, CNN l3",Wine,0.7222222222222222
+991,"Our Model symbols 5, features 200, CNN l3",WordSynonyms,0.5601880877742946
+992,"Assembly symbols 5, features 200, CNN l3",WordSynonyms,0.6003134796238244
+993,"Our Model symbols 5, features 200, CNN l3",Worms,0.7532467532467532
+994,"Assembly symbols 5, features 200, CNN l3",Worms,0.8181818181818182
+995,"Our Model symbols 5, features 200, CNN l3",WormsTwoClass,0.7324675324675324
+996,"Assembly symbols 5, features 200, CNN l3",WormsTwoClass,0.8051948051948052
+997,"Our Model symbols 5, features 200, CNN l3",Yoga,0.9228
+998,"Assembly symbols 5, features 200, CNN l3",Yoga,0.932
+999,"Our Model symbols 5, features 200, CNN l2",ACSF1,0.732
+1000,"Assembly symbols 5, features 200, CNN l2",ACSF1,0.81
+1001,"Our Model symbols 5, features 200, CNN l2",Adiac,0.791304347826087
+1002,"Assembly symbols 5, features 200, CNN l2",Adiac,0.8286445012787724
+1003,"Our Model symbols 5, features 200, CNN l2",ArrowHead,0.7588571428571429
+1004,"Assembly symbols 5, features 200, CNN l2",ArrowHead,0.8114285714285714
+1005,"Our Model symbols 5, features 200, CNN l2",Beef,0.7466666666666667
+1006,"Assembly symbols 5, features 200, CNN l2",Beef,0.7666666666666667
+1007,"Our Model symbols 5, features 200, CNN l2",BeetleFly,0.86
+1008,"Assembly symbols 5, features 200, CNN l2",BeetleFly,0.9
+1009,"Our Model symbols 5, features 200, CNN l2",BirdChicken,0.9099999999999999
+1010,"Assembly symbols 5, features 200, CNN l2",BirdChicken,0.9
+1011,"Our Model symbols 5, features 200, CNN l2",BME,0.9973333333333333
+1012,"Assembly symbols 5, features 200, CNN l2",BME,1.0
+1013,"Our Model symbols 5, features 200, CNN l2",Car,0.8266666666666668
+1014,"Assembly symbols 5, features 200, CNN l2",Car,0.8333333333333334
+1015,"Our Model symbols 5, features 200, CNN l2",CBF,0.9931111111111111
+1016,"Assembly symbols 5, features 200, CNN l2",CBF,0.9966666666666667
+1017,"Our Model symbols 5, features 200, CNN l2",Chinatown,0.963265306122449
+1018,"Assembly symbols 5, features 200, CNN l2",Chinatown,0.967930029154519
+1019,"Our Model symbols 5, features 200, CNN l2",ChlorineConcentration,0.6696875
+1020,"Assembly symbols 5, features 200, CNN l2",ChlorineConcentration,0.7080729166666667
+1021,"Our Model symbols 5, features 200, CNN l2",CinCECGTorso,0.9013043478260869
+1022,"Assembly symbols 5, features 200, CNN l2",CinCECGTorso,0.9623188405797102
+1023,"Our Model symbols 5, features 200, CNN l2",Coffee,1.0
+1024,"Assembly symbols 5, features 200, CNN l2",Coffee,1.0
+1025,"Our Model symbols 5, features 200, CNN l2",Computers,0.7591999999999999
+1026,"Assembly symbols 5, features 200, CNN l2",Computers,0.78
+1027,"Our Model symbols 5, features 200, CNN l2",CricketX,0.662051282051282
+1028,"Assembly symbols 5, features 200, CNN l2",CricketX,0.6974358974358974
+1029,"Our Model symbols 5, features 200, CNN l2",CricketY,0.6569230769230768
+1030,"Assembly symbols 5, features 200, CNN l2",CricketY,0.6923076923076923
+1031,"Our Model symbols 5, features 200, CNN l2",CricketZ,0.6676923076923076
+1032,"Assembly symbols 5, features 200, CNN l2",CricketZ,0.7051282051282052
+1033,"Our Model symbols 5, features 200, CNN l2",DiatomSizeReduction,0.9183006535947713
+1034,"Assembly symbols 5, features 200, CNN l2",DiatomSizeReduction,0.9379084967320261
+1035,"Our Model symbols 5, features 200, CNN l2",DistalPhalanxOutlineCorrect,0.7695652173913043
+1036,"Assembly symbols 5, features 200, CNN l2",DistalPhalanxOutlineCorrect,0.7789855072463768
+1037,"Our Model symbols 5, features 200, CNN l2",DistalPhalanxOutlineAgeGroup,0.7525179856115108
+1038,"Assembly symbols 5, features 200, CNN l2",DistalPhalanxOutlineAgeGroup,0.7553956834532374
+1039,"Our Model symbols 5, features 200, CNN l2",DistalPhalanxTW,0.6575539568345323
+1040,"Assembly symbols 5, features 200, CNN l2",DistalPhalanxTW,0.6618705035971223
+1041,"Our Model symbols 5, features 200, CNN l2",Earthquakes,0.7510791366906474
+1042,"Assembly symbols 5, features 200, CNN l2",Earthquakes,0.7482014388489209
+1043,"Our Model symbols 5, features 200, CNN l2",ECG200,0.756
+1044,"Assembly symbols 5, features 200, CNN l2",ECG200,0.9
+1045,"Our Model symbols 5, features 200, CNN l2",ECG5000,0.9405777777777778
+1046,"Assembly symbols 5, features 200, CNN l2",ECG5000,0.9448888888888889
+1047,"Our Model symbols 5, features 200, CNN l2",ECGFiveDays,0.7307781649245063
+1048,"Assembly symbols 5, features 200, CNN l2",ECGFiveDays,0.8943089430894309
+1049,"Our Model symbols 5, features 200, CNN l2",ElectricDevices,0.7573596161327973
+1050,"Assembly symbols 5, features 200, CNN l2",ElectricDevices,0.7787576189858644
+1051,"Our Model symbols 5, features 200, CNN l2",EOGHorizontalSignal,0.48287292817679556
+1052,"Assembly symbols 5, features 200, CNN l2",EOGHorizontalSignal,0.5497237569060773
+1053,"Our Model symbols 5, features 200, CNN l2",EOGVerticalSignal,0.450828729281768
+1054,"Assembly symbols 5, features 200, CNN l2",EOGVerticalSignal,0.47790055248618785
+1055,"Our Model symbols 5, features 200, CNN l2",EthanolLevel,0.47119999999999995
+1056,"Assembly symbols 5, features 200, CNN l2",EthanolLevel,0.49
+1057,"Our Model symbols 5, features 200, CNN l2",FaceAll,0.805680473372781
+1058,"Assembly symbols 5, features 200, CNN l2",FaceAll,0.8284023668639053
+1059,"Our Model symbols 5, features 200, CNN l2",FaceFour,0.8795454545454545
+1060,"Assembly symbols 5, features 200, CNN l2",FaceFour,0.9204545454545454
+1061,"Our Model symbols 5, features 200, CNN l2",FacesUCR,0.655219512195122
+1062,"Assembly symbols 5, features 200, CNN l2",FacesUCR,0.7136585365853658
+1063,"Our Model symbols 5, features 200, CNN l2",FiftyWords,0.5599999999999999
+1064,"Assembly symbols 5, features 200, CNN l2",FiftyWords,0.5912087912087912
+1065,"Our Model symbols 5, features 200, CNN l2",Fish,0.8811428571428571
+1066,"Assembly symbols 5, features 200, CNN l2",Fish,0.9142857142857143
+1067,"Our Model symbols 5, features 200, CNN l2",FordA,0.9951515151515151
+1068,"Assembly symbols 5, features 200, CNN l2",FordA,0.9962121212121212
+1069,"Our Model symbols 5, features 200, CNN l2",FordB,0.7960493827160494
+1070,"Assembly symbols 5, features 200, CNN l2",FordB,0.817283950617284
+1071,"Our Model symbols 5, features 200, CNN l2",FreezerRegularTrain,0.9885614035087718
+1072,"Assembly symbols 5, features 200, CNN l2",FreezerRegularTrain,0.9919298245614036
+1073,"Our Model symbols 5, features 200, CNN l2",FreezerSmallTrain,0.7317894736842104
+1074,"Assembly symbols 5, features 200, CNN l2",FreezerSmallTrain,0.8378947368421052
+1075,"Our Model symbols 5, features 200, CNN l2",GunPoint,0.9533333333333334
+1076,"Assembly symbols 5, features 200, CNN l2",GunPoint,0.98
+1077,"Our Model symbols 5, features 200, CNN l2",GunPointAgeSpan,0.9930379746835442
+1078,"Assembly symbols 5, features 200, CNN l2",GunPointAgeSpan,0.9968354430379747
+1079,"Our Model symbols 5, features 200, CNN l2",GunPointMaleVersusFemale,1.0
+1080,"Assembly symbols 5, features 200, CNN l2",GunPointMaleVersusFemale,1.0
+1081,"Our Model symbols 5, features 200, CNN l2",GunPointOldVersusYoung,1.0
+1082,"Assembly symbols 5, features 200, CNN l2",GunPointOldVersusYoung,1.0
+1083,"Our Model symbols 5, features 200, CNN l2",Ham,0.7523809523809524
+1084,"Assembly symbols 5, features 200, CNN l2",Ham,0.7523809523809524
+1085,"Our Model symbols 5, features 200, CNN l2",HandOutlines,0.8951351351351351
+1086,"Assembly symbols 5, features 200, CNN l2",HandOutlines,0.9027027027027027
+1087,"Our Model symbols 5, features 200, CNN l2",Haptics,0.42857142857142855
+1088,"Assembly symbols 5, features 200, CNN l2",Haptics,0.43506493506493504
+1089,"Our Model symbols 5, features 200, CNN l2",Herring,0.628125
+1090,"Assembly symbols 5, features 200, CNN l2",Herring,0.578125
+1091,"Our Model symbols 5, features 200, CNN l2",HouseTwenty,0.9596638655462184
+1092,"Assembly symbols 5, features 200, CNN l2",HouseTwenty,0.9663865546218487
+1093,"Our Model symbols 5, features 200, CNN l2",InlineSkate,0.44363636363636366
+1094,"Assembly symbols 5, features 200, CNN l2",InlineSkate,0.4890909090909091
+1095,"Our Model symbols 5, features 200, CNN l2",InsectEPGRegularTrain,0.9991967871485944
+1096,"Assembly symbols 5, features 200, CNN l2",InsectEPGRegularTrain,1.0
+1097,"Our Model symbols 5, features 200, CNN l2",InsectEPGSmallTrain,0.9253012048192772
+1098,"Assembly symbols 5, features 200, CNN l2",InsectEPGSmallTrain,1.0
+1099,"Our Model symbols 5, features 200, CNN l2",InsectWingbeatSound,0.6444444444444445
+1100,"Assembly symbols 5, features 200, CNN l2",InsectWingbeatSound,0.6611111111111111
+1101,"Our Model symbols 5, features 200, CNN l2",ItalyPowerDemand,0.9407191448007775
+1102,"Assembly symbols 5, features 200, CNN l2",ItalyPowerDemand,0.9446064139941691
+1103,"Our Model symbols 5, features 200, CNN l2",LargeKitchenAppliances,0.7946666666666667
+1104,"Assembly symbols 5, features 200, CNN l2",LargeKitchenAppliances,0.8346666666666667
+1105,"Our Model symbols 5, features 200, CNN l2",Lightning2,0.6655737704918032
+1106,"Assembly symbols 5, features 200, CNN l2",Lightning2,0.7540983606557377
+1107,"Our Model symbols 5, features 200, CNN l2",Lightning7,0.6575342465753424
+1108,"Assembly symbols 5, features 200, CNN l2",Lightning7,0.6986301369863014
+1109,"Our Model symbols 5, features 200, CNN l2",Mallat,0.9218763326226013
+1110,"Assembly symbols 5, features 200, CNN l2",Mallat,0.926226012793177
+1111,"Our Model symbols 5, features 200, CNN l2",Meat,0.9366666666666668
+1112,"Assembly symbols 5, features 200, CNN l2",Meat,0.9666666666666667
+1113,"Our Model symbols 5, features 200, CNN l2",MedicalImages,0.7555263157894737
+1114,"Assembly symbols 5, features 200, CNN l2",MedicalImages,0.7802631578947369
+1115,"Our Model symbols 5, features 200, CNN l2",MiddlePhalanxOutlineCorrect,0.7828178694158077
+1116,"Assembly symbols 5, features 200, CNN l2",MiddlePhalanxOutlineCorrect,0.8109965635738832
+1117,"Our Model symbols 5, features 200, CNN l2",MiddlePhalanxOutlineAgeGroup,0.5883116883116883
+1118,"Assembly symbols 5, features 200, CNN l2",MiddlePhalanxOutlineAgeGroup,0.5974025974025974
+1119,"Our Model symbols 5, features 200, CNN l2",MiddlePhalanxTW,0.5662337662337663
+1120,"Assembly symbols 5, features 200, CNN l2",MiddlePhalanxTW,0.551948051948052
+1121,"Our Model symbols 5, features 200, CNN l2",MixedShapesRegularTrain,0.9185154639175257
+1122,"Assembly symbols 5, features 200, CNN l2",MixedShapesRegularTrain,0.9261855670103093
+1123,"Our Model symbols 5, features 200, CNN l2",MixedShapesSmallTrain,0.8442886597938145
+1124,"Assembly symbols 5, features 200, CNN l2",MixedShapesSmallTrain,0.8824742268041237
+1125,"Our Model symbols 5, features 200, CNN l2",MoteStrain,0.8421725239616613
+1126,"Assembly symbols 5, features 200, CNN l2",MoteStrain,0.9177316293929713
+1127,"Our Model symbols 5, features 200, CNN l2",NonInvasiveFetalECGThorax1,0.8493638676844784
+1128,"Assembly symbols 5, features 200, CNN l2",NonInvasiveFetalECGThorax1,0.8737913486005089
+1129,"Our Model symbols 5, features 200, CNN l2",NonInvasiveFetalECGThorax2,0.8436641221374046
+1130,"Assembly symbols 5, features 200, CNN l2",NonInvasiveFetalECGThorax2,0.8809160305343512
+1131,"Our Model symbols 5, features 200, CNN l2",OliveOil,0.8333333333333334
+1132,"Assembly symbols 5, features 200, CNN l2",OliveOil,0.8666666666666667
+1133,"Our Model symbols 5, features 200, CNN l2",OSULeaf,0.8991735537190083
+1134,"Assembly symbols 5, features 200, CNN l2",OSULeaf,0.9297520661157025
+1135,"Our Model symbols 5, features 200, CNN l2",PhalangesOutlinesCorrect,0.7892773892773892
+1136,"Assembly symbols 5, features 200, CNN l2",PhalangesOutlinesCorrect,0.8135198135198135
+1137,"Our Model symbols 5, features 200, CNN l2",Phoneme,0.32953586497890297
+1138,"Assembly symbols 5, features 200, CNN l2",Phoneme,0.38238396624472576
+1139,"Our Model symbols 5, features 200, CNN l2",PigAirwayPressure,0.15384615384615385
+1140,"Assembly symbols 5, features 200, CNN l2",PigAirwayPressure,0.16346153846153846
+1141,"Our Model symbols 5, features 200, CNN l2",PigArtPressure,0.501923076923077
+1142,"Assembly symbols 5, features 200, CNN l2",PigArtPressure,0.5096153846153846
+1143,"Our Model symbols 5, features 200, CNN l2",PigCVP,0.2971153846153846
+1144,"Assembly symbols 5, features 200, CNN l2",PigCVP,0.3173076923076923
+1145,"Our Model symbols 5, features 200, CNN l2",Plane,0.9923809523809524
+1146,"Assembly symbols 5, features 200, CNN l2",Plane,1.0
+1147,"Our Model symbols 5, features 200, CNN l2",PowerCons,0.961111111111111
+1148,"Assembly symbols 5, features 200, CNN l2",PowerCons,0.9777777777777777
+1149,"Our Model symbols 5, features 200, CNN l2",ProximalPhalanxOutlineCorrect,0.8460481099656357
+1150,"Assembly symbols 5, features 200, CNN l2",ProximalPhalanxOutlineCorrect,0.8591065292096219
+1151,"Our Model symbols 5, features 200, CNN l2",ProximalPhalanxOutlineAgeGroup,0.8429268292682928
+1152,"Assembly symbols 5, features 200, CNN l2",ProximalPhalanxOutlineAgeGroup,0.848780487804878
+1153,"Our Model symbols 5, features 200, CNN l2",ProximalPhalanxTW,0.7775609756097561
+1154,"Assembly symbols 5, features 200, CNN l2",ProximalPhalanxTW,0.7902439024390244
+1155,"Our Model symbols 5, features 200, CNN l2",RefrigerationDevices,0.5706666666666667
+1156,"Assembly symbols 5, features 200, CNN l2",RefrigerationDevices,0.5946666666666667
+1157,"Our Model symbols 5, features 200, CNN l2",Rock,0.6160000000000001
+1158,"Assembly symbols 5, features 200, CNN l2",Rock,0.84
+1159,"Our Model symbols 5, features 200, CNN l2",ScreenType,0.5568
+1160,"Assembly symbols 5, features 200, CNN l2",ScreenType,0.56
+1161,"Our Model symbols 5, features 200, CNN l2",SemgHandGenderCh2,0.9163333333333334
+1162,"Assembly symbols 5, features 200, CNN l2",SemgHandGenderCh2,0.9383333333333334
+1163,"Our Model symbols 5, features 200, CNN l2",SemgHandMovementCh2,0.6151111111111112
+1164,"Assembly symbols 5, features 200, CNN l2",SemgHandMovementCh2,0.6822222222222222
+1165,"Our Model symbols 5, features 200, CNN l2",SemgHandSubjectCh2,0.8951111111111111
+1166,"Assembly symbols 5, features 200, CNN l2",SemgHandSubjectCh2,0.9044444444444445
+1167,"Our Model symbols 5, features 200, CNN l2",ShapeletSim,0.9799999999999999
+1168,"Assembly symbols 5, features 200, CNN l2",ShapeletSim,0.9833333333333333
+1169,"Our Model symbols 5, features 200, CNN l2",ShapesAll,0.8246666666666667
+1170,"Assembly symbols 5, features 200, CNN l2",ShapesAll,0.8633333333333333
+1171,"Our Model symbols 5, features 200, CNN l2",SmallKitchenAppliances,0.8197333333333333
+1172,"Assembly symbols 5, features 200, CNN l2",SmallKitchenAppliances,0.84
+1173,"Our Model symbols 5, features 200, CNN l2",SmoothSubspace,0.9746666666666666
+1174,"Assembly symbols 5, features 200, CNN l2",SmoothSubspace,0.9866666666666667
+1175,"Our Model symbols 5, features 200, CNN l2",SonyAIBORobotSurface1,0.8785357737104824
+1176,"Assembly symbols 5, features 200, CNN l2",SonyAIBORobotSurface1,0.8935108153078203
+1177,"Our Model symbols 5, features 200, CNN l2",SonyAIBORobotSurface2,0.9263378803777546
+1178,"Assembly symbols 5, features 200, CNN l2",SonyAIBORobotSurface2,0.950682056663169
+1179,"Our Model symbols 5, features 200, CNN l2",StarLightCurves,0.9593491986401166
+1180,"Assembly symbols 5, features 200, CNN l2",StarLightCurves,0.9633317144244778
+1181,"Our Model symbols 5, features 200, CNN l2",Strawberry,0.9535135135135135
+1182,"Assembly symbols 5, features 200, CNN l2",Strawberry,0.9648648648648649
+1183,"Our Model symbols 5, features 200, CNN l2",SwedishLeaf,0.9423999999999999
+1184,"Assembly symbols 5, features 200, CNN l2",SwedishLeaf,0.952
+1185,"Our Model symbols 5, features 200, CNN l2",Symbols,0.8613065326633166
+1186,"Assembly symbols 5, features 200, CNN l2",Symbols,0.949748743718593
+1187,"Our Model symbols 5, features 200, CNN l2",SyntheticControl,0.986
+1188,"Assembly symbols 5, features 200, CNN l2",SyntheticControl,0.9866666666666667
+1189,"Our Model symbols 5, features 200, CNN l2",ToeSegmentation1,0.7552631578947369
+1190,"Assembly symbols 5, features 200, CNN l2",ToeSegmentation1,0.8596491228070176
+1191,"Our Model symbols 5, features 200, CNN l2",ToeSegmentation2,0.8400000000000001
+1192,"Assembly symbols 5, features 200, CNN l2",ToeSegmentation2,0.8538461538461538
+1193,"Our Model symbols 5, features 200, CNN l2",Trace,1.0
+1194,"Assembly symbols 5, features 200, CNN l2",Trace,1.0
+1195,"Our Model symbols 5, features 200, CNN l2",TwoLeadECG,0.9206321334503951
+1196,"Assembly symbols 5, features 200, CNN l2",TwoLeadECG,0.9508340649692713
+1197,"Our Model symbols 5, features 200, CNN l2",TwoPatterns,0.9786999999999999
+1198,"Assembly symbols 5, features 200, CNN l2",TwoPatterns,0.988
+1199,"Our Model symbols 5, features 200, CNN l2",UMD,0.986111111111111
+1200,"Assembly symbols 5, features 200, CNN l2",UMD,0.9930555555555556
+1201,"Our Model symbols 5, features 200, CNN l2",UWaveGestureLibraryAll,0.9049692908989391
+1202,"Assembly symbols 5, features 200, CNN l2",UWaveGestureLibraryAll,0.9251814628699051
+1203,"Our Model symbols 5, features 200, CNN l2",UWaveGestureLibraryX,0.7787269681742044
+1204,"Assembly symbols 5, features 200, CNN l2",UWaveGestureLibraryX,0.8020658849804578
+1205,"Our Model symbols 5, features 200, CNN l2",UWaveGestureLibraryY,0.5726968174204355
+1206,"Assembly symbols 5, features 200, CNN l2",UWaveGestureLibraryY,0.6099944165270799
+1207,"Our Model symbols 5, features 200, CNN l2",UWaveGestureLibraryZ,0.7020100502512563
+1208,"Assembly symbols 5, features 200, CNN l2",UWaveGestureLibraryZ,0.7211055276381909
+1209,"Our Model symbols 5, features 200, CNN l2",Wafer,0.9999675535366646
+1210,"Assembly symbols 5, features 200, CNN l2",Wafer,1.0
+1211,"Our Model symbols 5, features 200, CNN l2",Wine,0.6962962962962963
+1212,"Assembly symbols 5, features 200, CNN l2",Wine,0.6666666666666666
+1213,"Our Model symbols 5, features 200, CNN l2",WordSynonyms,0.5758620689655172
+1214,"Assembly symbols 5, features 200, CNN l2",WordSynonyms,0.6081504702194357
+1215,"Our Model symbols 5, features 200, CNN l2",Worms,0.7662337662337662
+1216,"Assembly symbols 5, features 200, CNN l2",Worms,0.8311688311688312
+1217,"Our Model symbols 5, features 200, CNN l2",WormsTwoClass,0.7194805194805195
+1218,"Assembly symbols 5, features 200, CNN l2",WormsTwoClass,0.8051948051948052
+1219,"Our Model symbols 5, features 200, CNN l2",Yoga,0.9202000000000001
+1220,"Assembly symbols 5, features 200, CNN l2",Yoga,0.9333333333333333
+1221,"Our Model symbols 9, features 200, Transformer l3",ACSF1,0.7280000000000001
+1222,"Assembly symbols 9, features 200, Transformer l3",ACSF1,0.82
+1223,"Our Model symbols 9, features 200, Transformer l3",Adiac,0.728388746803069
+1224,"Assembly symbols 9, features 200, Transformer l3",Adiac,0.7877237851662404
+1225,"Our Model symbols 9, features 200, Transformer l3",ArrowHead,0.6582857142857141
+1226,"Assembly symbols 9, features 200, Transformer l3",ArrowHead,0.8228571428571428
+1227,"Our Model symbols 9, features 200, Transformer l3",Beef,0.72
+1228,"Assembly symbols 9, features 200, Transformer l3",Beef,0.8
+1229,"Our Model symbols 9, features 200, Transformer l3",BeetleFly,0.89
+1230,"Assembly symbols 9, features 200, Transformer l3",BeetleFly,0.95
+1231,"Our Model symbols 9, features 200, Transformer l3",BirdChicken,0.9099999999999999
+1232,"Assembly symbols 9, features 200, Transformer l3",BirdChicken,0.9
+1233,"Our Model symbols 9, features 200, Transformer l3",BME,1.0
+1234,"Assembly symbols 9, features 200, Transformer l3",BME,1.0
+1235,"Our Model symbols 9, features 200, Transformer l3",Car,0.8
+1236,"Assembly symbols 9, features 200, Transformer l3",Car,0.8333333333333334
+1237,"Our Model symbols 9, features 200, Transformer l3",CBF,0.9942222222222223
+1238,"Assembly symbols 9, features 200, Transformer l3",CBF,0.9933333333333333
+1239,"Our Model symbols 9, features 200, Transformer l3",Chinatown,0.9737609329446062
+1240,"Assembly symbols 9, features 200, Transformer l3",Chinatown,0.9795918367346939
+1241,"Our Model symbols 9, features 200, Transformer l3",ChlorineConcentration,0.6273437500000001
+1242,"Assembly symbols 9, features 200, Transformer l3",ChlorineConcentration,0.6864583333333333
+1243,"Our Model symbols 9, features 200, Transformer l3",CinCECGTorso,0.9439130434782609
+1244,"Assembly symbols 9, features 200, Transformer l3",CinCECGTorso,0.9840579710144928
+1245,"Our Model symbols 9, features 200, Transformer l3",Coffee,0.9857142857142858
+1246,"Assembly symbols 9, features 200, Transformer l3",Coffee,1.0
+1247,"Our Model symbols 9, features 200, Transformer l3",Computers,0.764
+1248,"Assembly symbols 9, features 200, Transformer l3",Computers,0.776
+1249,"Our Model symbols 9, features 200, Transformer l3",CricketX,0.6194871794871795
+1250,"Assembly symbols 9, features 200, Transformer l3",CricketX,0.6666666666666666
+1251,"Our Model symbols 9, features 200, Transformer l3",CricketY,0.6251282051282051
+1252,"Assembly symbols 9, features 200, Transformer l3",CricketY,0.6717948717948717
+1253,"Our Model symbols 9, features 200, Transformer l3",CricketZ,0.6271794871794871
+1254,"Assembly symbols 9, features 200, Transformer l3",CricketZ,0.6794871794871795
+1255,"Our Model symbols 9, features 200, Transformer l3",DiatomSizeReduction,0.9163398692810457
+1256,"Assembly symbols 9, features 200, Transformer l3",DiatomSizeReduction,0.9281045751633987
+1257,"Our Model symbols 9, features 200, Transformer l3",DistalPhalanxOutlineCorrect,0.7608695652173914
+1258,"Assembly symbols 9, features 200, Transformer l3",DistalPhalanxOutlineCorrect,0.7681159420289855
+1259,"Our Model symbols 9, features 200, Transformer l3",DistalPhalanxOutlineAgeGroup,0.7366906474820144
+1260,"Assembly symbols 9, features 200, Transformer l3",DistalPhalanxOutlineAgeGroup,0.7410071942446043
+1261,"Our Model symbols 9, features 200, Transformer l3",DistalPhalanxTW,0.6201438848920864
+1262,"Assembly symbols 9, features 200, Transformer l3",DistalPhalanxTW,0.6330935251798561
+1263,"Our Model symbols 9, features 200, Transformer l3",Earthquakes,0.7438848920863309
+1264,"Assembly symbols 9, features 200, Transformer l3",Earthquakes,0.7482014388489209
+1265,"Our Model symbols 9, features 200, Transformer l3",ECG200,0.8140000000000001
+1266,"Assembly symbols 9, features 200, Transformer l3",ECG200,0.87
+1267,"Our Model symbols 9, features 200, Transformer l3",ECG5000,0.9376888888888889
+1268,"Assembly symbols 9, features 200, Transformer l3",ECG5000,0.9415555555555556
+1269,"Our Model symbols 9, features 200, Transformer l3",ECGFiveDays,0.6662020905923345
+1270,"Assembly symbols 9, features 200, Transformer l3",ECGFiveDays,0.7886178861788617
+1271,"Our Model symbols 9, features 200, Transformer l3",ElectricDevices,0.7444689404746465
+1272,"Assembly symbols 9, features 200, Transformer l3",ElectricDevices,0.7590455193878874
+1273,"Our Model symbols 9, features 200, Transformer l3",EOGHorizontalSignal,0.48950276243093926
+1274,"Assembly symbols 9, features 200, Transformer l3",EOGHorizontalSignal,0.5441988950276243
+1275,"Our Model symbols 9, features 200, Transformer l3",EOGVerticalSignal,0.4585635359116022
+1276,"Assembly symbols 9, features 200, Transformer l3",EOGVerticalSignal,0.4696132596685083
+1277,"Our Model symbols 9, features 200, Transformer l3",EthanolLevel,0.45760000000000006
+1278,"Assembly symbols 9, features 200, Transformer l3",EthanolLevel,0.48
+1279,"Our Model symbols 9, features 200, Transformer l3",FaceAll,0.7604733727810651
+1280,"Assembly symbols 9, features 200, Transformer l3",FaceAll,0.7769230769230769
+1281,"Our Model symbols 9, features 200, Transformer l3",FaceFour,0.856818181818182
+1282,"Assembly symbols 9, features 200, Transformer l3",FaceFour,0.8863636363636364
+1283,"Our Model symbols 9, features 200, Transformer l3",FacesUCR,0.6530731707317073
+1284,"Assembly symbols 9, features 200, Transformer l3",FacesUCR,0.6941463414634146
+1285,"Our Model symbols 9, features 200, Transformer l3",FiftyWords,0.5437362637362637
+1286,"Assembly symbols 9, features 200, Transformer l3",FiftyWords,0.5802197802197803
+1287,"Our Model symbols 9, features 200, Transformer l3",Fish,0.9005714285714286
+1288,"Assembly symbols 9, features 200, Transformer l3",Fish,0.92
+1289,"Our Model symbols 9, features 200, Transformer l3",FordA,0.9969696969696968
+1290,"Assembly symbols 9, features 200, Transformer l3",FordA,0.9992424242424243
+1291,"Our Model symbols 9, features 200, Transformer l3",FordB,0.7804938271604939
+1292,"Assembly symbols 9, features 200, Transformer l3",FordB,0.8024691358024691
+1293,"Our Model symbols 9, features 200, Transformer l3",FreezerRegularTrain,0.984421052631579
+1294,"Assembly symbols 9, features 200, Transformer l3",FreezerRegularTrain,0.9891228070175438
+1295,"Our Model symbols 9, features 200, Transformer l3",FreezerSmallTrain,0.7364912280701754
+1296,"Assembly symbols 9, features 200, Transformer l3",FreezerSmallTrain,0.8070175438596491
+1297,"Our Model symbols 9, features 200, Transformer l3",GunPoint,0.9066666666666666
+1298,"Assembly symbols 9, features 200, Transformer l3",GunPoint,0.98
+1299,"Our Model symbols 9, features 200, Transformer l3",GunPointAgeSpan,0.9860759493670888
+1300,"Assembly symbols 9, features 200, Transformer l3",GunPointAgeSpan,0.990506329113924
+1301,"Our Model symbols 9, features 200, Transformer l3",GunPointMaleVersusFemale,1.0
+1302,"Assembly symbols 9, features 200, Transformer l3",GunPointMaleVersusFemale,1.0
+1303,"Our Model symbols 9, features 200, Transformer l3",GunPointOldVersusYoung,1.0
+1304,"Assembly symbols 9, features 200, Transformer l3",GunPointOldVersusYoung,1.0
+1305,"Our Model symbols 9, features 200, Transformer l3",Ham,0.7657142857142858
+1306,"Assembly symbols 9, features 200, Transformer l3",Ham,0.7523809523809524
+1307,"Our Model symbols 9, features 200, Transformer l3",HandOutlines,0.8875675675675676
+1308,"Assembly symbols 9, features 200, Transformer l3",HandOutlines,0.9
+1309,"Our Model symbols 9, features 200, Transformer l3",Haptics,0.42272727272727273
+1310,"Assembly symbols 9, features 200, Transformer l3",Haptics,0.4772727272727273
+1311,"Our Model symbols 9, features 200, Transformer l3",Herring,0.6
+1312,"Assembly symbols 9, features 200, Transformer l3",Herring,0.671875
+1313,"Our Model symbols 9, features 200, Transformer l3",HouseTwenty,0.9579831932773109
+1314,"Assembly symbols 9, features 200, Transformer l3",HouseTwenty,0.9663865546218487
+1315,"Our Model symbols 9, features 200, Transformer l3",InlineSkate,0.3690909090909091
+1316,"Assembly symbols 9, features 200, Transformer l3",InlineSkate,0.44
+1317,"Our Model symbols 9, features 200, Transformer l3",InsectEPGRegularTrain,0.9887550200803213
+1318,"Assembly symbols 9, features 200, Transformer l3",InsectEPGRegularTrain,1.0
+1319,"Our Model symbols 9, features 200, Transformer l3",InsectEPGSmallTrain,0.9983935742971888
+1320,"Assembly symbols 9, features 200, Transformer l3",InsectEPGSmallTrain,1.0
+1321,"Our Model symbols 9, features 200, Transformer l3",InsectWingbeatSound,0.6341414141414141
+1322,"Assembly symbols 9, features 200, Transformer l3",InsectWingbeatSound,0.6484848484848484
+1323,"Our Model symbols 9, features 200, Transformer l3",ItalyPowerDemand,0.9475218658892128
+1324,"Assembly symbols 9, features 200, Transformer l3",ItalyPowerDemand,0.956268221574344
+1325,"Our Model symbols 9, features 200, Transformer l3",LargeKitchenAppliances,0.7647999999999999
+1326,"Assembly symbols 9, features 200, Transformer l3",LargeKitchenAppliances,0.7893333333333333
+1327,"Our Model symbols 9, features 200, Transformer l3",Lightning2,0.6
+1328,"Assembly symbols 9, features 200, Transformer l3",Lightning2,0.639344262295082
+1329,"Our Model symbols 9, features 200, Transformer l3",Lightning7,0.684931506849315
+1330,"Assembly symbols 9, features 200, Transformer l3",Lightning7,0.7123287671232876
+1331,"Our Model symbols 9, features 200, Transformer l3",Mallat,0.9107889125799573
+1332,"Assembly symbols 9, features 200, Transformer l3",Mallat,0.944136460554371
+1333,"Our Model symbols 9, features 200, Transformer l3",Meat,0.8799999999999999
+1334,"Assembly symbols 9, features 200, Transformer l3",Meat,0.9
+1335,"Our Model symbols 9, features 200, Transformer l3",MedicalImages,0.723421052631579
+1336,"Assembly symbols 9, features 200, Transformer l3",MedicalImages,0.75
+1337,"Our Model symbols 9, features 200, Transformer l3",MiddlePhalanxOutlineCorrect,0.7278350515463918
+1338,"Assembly symbols 9, features 200, Transformer l3",MiddlePhalanxOutlineCorrect,0.7216494845360825
+1339,"Our Model symbols 9, features 200, Transformer l3",MiddlePhalanxOutlineAgeGroup,0.5935064935064935
+1340,"Assembly symbols 9, features 200, Transformer l3",MiddlePhalanxOutlineAgeGroup,0.5974025974025974
+1341,"Our Model symbols 9, features 200, Transformer l3",MiddlePhalanxTW,0.5753246753246752
+1342,"Assembly symbols 9, features 200, Transformer l3",MiddlePhalanxTW,0.5714285714285714
+1343,"Our Model symbols 9, features 200, Transformer l3",MixedShapesRegularTrain,0.9059793814432989
+1344,"Assembly symbols 9, features 200, Transformer l3",MixedShapesRegularTrain,0.9298969072164949
+1345,"Our Model symbols 9, features 200, Transformer l3",MixedShapesSmallTrain,0.8377731958762886
+1346,"Assembly symbols 9, features 200, Transformer l3",MixedShapesSmallTrain,0.8635051546391752
+1347,"Our Model symbols 9, features 200, Transformer l3",MoteStrain,0.8274760383386581
+1348,"Assembly symbols 9, features 200, Transformer l3",MoteStrain,0.9265175718849841
+1349,"Our Model symbols 9, features 200, Transformer l3",NonInvasiveFetalECGThorax1,0.8403053435114503
+1350,"Assembly symbols 9, features 200, Transformer l3",NonInvasiveFetalECGThorax1,0.8763358778625954
+1351,"Our Model symbols 9, features 200, Transformer l3",NonInvasiveFetalECGThorax2,0.8238167938931298
+1352,"Assembly symbols 9, features 200, Transformer l3",NonInvasiveFetalECGThorax2,0.855470737913486
+1353,"Our Model symbols 9, features 200, Transformer l3",OliveOil,0.7533333333333333
+1354,"Assembly symbols 9, features 200, Transformer l3",OliveOil,0.8666666666666667
+1355,"Our Model symbols 9, features 200, Transformer l3",OSULeaf,0.9107438016528926
+1356,"Assembly symbols 9, features 200, Transformer l3",OSULeaf,0.9297520661157025
+1357,"Our Model symbols 9, features 200, Transformer l3",PhalangesOutlinesCorrect,0.7662004662004661
+1358,"Assembly symbols 9, features 200, Transformer l3",PhalangesOutlinesCorrect,0.7773892773892774
+1359,"Our Model symbols 9, features 200, Transformer l3",Phoneme,0.29409282700421946
+1360,"Assembly symbols 9, features 200, Transformer l3",Phoneme,0.3570675105485232
+1361,"Our Model symbols 9, features 200, Transformer l3",PigAirwayPressure,0.18365384615384614
+1362,"Assembly symbols 9, features 200, Transformer l3",PigAirwayPressure,0.17307692307692307
+1363,"Our Model symbols 9, features 200, Transformer l3",PigArtPressure,0.4875
+1364,"Assembly symbols 9, features 200, Transformer l3",PigArtPressure,0.5144230769230769
+1365,"Our Model symbols 9, features 200, Transformer l3",PigCVP,0.35288461538461535
+1366,"Assembly symbols 9, features 200, Transformer l3",PigCVP,0.3557692307692308
+1367,"Our Model symbols 9, features 200, Transformer l3",Plane,0.9942857142857143
+1368,"Assembly symbols 9, features 200, Transformer l3",Plane,1.0
+1369,"Our Model symbols 9, features 200, Transformer l3",PowerCons,0.9911111111111112
+1370,"Assembly symbols 9, features 200, Transformer l3",PowerCons,0.9944444444444445
+1371,"Our Model symbols 9, features 200, Transformer l3",ProximalPhalanxOutlineCorrect,0.8343642611683848
+1372,"Assembly symbols 9, features 200, Transformer l3",ProximalPhalanxOutlineCorrect,0.8556701030927835
+1373,"Our Model symbols 9, features 200, Transformer l3",ProximalPhalanxOutlineAgeGroup,0.8478048780487806
+1374,"Assembly symbols 9, features 200, Transformer l3",ProximalPhalanxOutlineAgeGroup,0.8536585365853658
+1375,"Our Model symbols 9, features 200, Transformer l3",ProximalPhalanxTW,0.7824390243902439
+1376,"Assembly symbols 9, features 200, Transformer l3",ProximalPhalanxTW,0.7951219512195122
+1377,"Our Model symbols 9, features 200, Transformer l3",RefrigerationDevices,0.5488
+1378,"Assembly symbols 9, features 200, Transformer l3",RefrigerationDevices,0.5893333333333334
+1379,"Our Model symbols 9, features 200, Transformer l3",Rock,0.5800000000000001
+1380,"Assembly symbols 9, features 200, Transformer l3",Rock,0.76
+1381,"Our Model symbols 9, features 200, Transformer l3",ScreenType,0.5445333333333333
+1382,"Assembly symbols 9, features 200, Transformer l3",ScreenType,0.5653333333333334
+1383,"Our Model symbols 9, features 200, Transformer l3",SemgHandGenderCh2,0.9066666666666666
+1384,"Assembly symbols 9, features 200, Transformer l3",SemgHandGenderCh2,0.925
+1385,"Our Model symbols 9, features 200, Transformer l3",SemgHandMovementCh2,0.616
+1386,"Assembly symbols 9, features 200, Transformer l3",SemgHandMovementCh2,0.68
+1387,"Our Model symbols 9, features 200, Transformer l3",SemgHandSubjectCh2,0.86
+1388,"Assembly symbols 9, features 200, Transformer l3",SemgHandSubjectCh2,0.9
+1389,"Our Model symbols 9, features 200, Transformer l3",ShapeletSim,0.9800000000000001
+1390,"Assembly symbols 9, features 200, Transformer l3",ShapeletSim,0.9777777777777777
+1391,"Our Model symbols 9, features 200, Transformer l3",ShapesAll,0.8089999999999999
+1392,"Assembly symbols 9, features 200, Transformer l3",ShapesAll,0.845
+1393,"Our Model symbols 9, features 200, Transformer l3",SmallKitchenAppliances,0.8160000000000001
+1394,"Assembly symbols 9, features 200, Transformer l3",SmallKitchenAppliances,0.8186666666666667
+1395,"Our Model symbols 9, features 200, Transformer l3",SmoothSubspace,0.9746666666666666
+1396,"Assembly symbols 9, features 200, Transformer l3",SmoothSubspace,0.9733333333333334
+1397,"Our Model symbols 9, features 200, Transformer l3",SonyAIBORobotSurface1,0.8798668885191347
+1398,"Assembly symbols 9, features 200, Transformer l3",SonyAIBORobotSurface1,0.9034941763727121
+1399,"Our Model symbols 9, features 200, Transformer l3",SonyAIBORobotSurface2,0.9124868835257083
+1400,"Assembly symbols 9, features 200, Transformer l3",SonyAIBORobotSurface2,0.9349422875131165
+1401,"Our Model symbols 9, features 200, Transformer l3",StarLightCurves,0.953861097620204
+1402,"Assembly symbols 9, features 200, Transformer l3",StarLightCurves,0.9624817872753764
+1403,"Our Model symbols 9, features 200, Transformer l3",Strawberry,0.9481081081081081
+1404,"Assembly symbols 9, features 200, Transformer l3",Strawberry,0.9540540540540541
+1405,"Our Model symbols 9, features 200, Transformer l3",SwedishLeaf,0.93984
+1406,"Assembly symbols 9, features 200, Transformer l3",SwedishLeaf,0.952
+1407,"Our Model symbols 9, features 200, Transformer l3",Symbols,0.8518592964824119
+1408,"Assembly symbols 9, features 200, Transformer l3",Symbols,0.9396984924623115
+1409,"Our Model symbols 9, features 200, Transformer l3",SyntheticControl,0.9953333333333333
+1410,"Assembly symbols 9, features 200, Transformer l3",SyntheticControl,0.9966666666666667
+1411,"Our Model symbols 9, features 200, Transformer l3",ToeSegmentation1,0.7105263157894737
+1412,"Assembly symbols 9, features 200, Transformer l3",ToeSegmentation1,0.8421052631578947
+1413,"Our Model symbols 9, features 200, Transformer l3",ToeSegmentation2,0.8569230769230769
+1414,"Assembly symbols 9, features 200, Transformer l3",ToeSegmentation2,0.8769230769230769
+1415,"Our Model symbols 9, features 200, Transformer l3",Trace,1.0
+1416,"Assembly symbols 9, features 200, Transformer l3",Trace,1.0
+1417,"Our Model symbols 9, features 200, Transformer l3",TwoLeadECG,0.9459174714661984
+1418,"Assembly symbols 9, features 200, Transformer l3",TwoLeadECG,0.9771729587357331
+1419,"Our Model symbols 9, features 200, Transformer l3",TwoPatterns,0.9728999999999999
+1420,"Assembly symbols 9, features 200, Transformer l3",TwoPatterns,0.9845
+1421,"Our Model symbols 9, features 200, Transformer l3",UMD,0.9875
+1422,"Assembly symbols 9, features 200, Transformer l3",UMD,0.9930555555555556
+1423,"Our Model symbols 9, features 200, Transformer l3",UWaveGestureLibraryAll,0.8935790061418203
+1424,"Assembly symbols 9, features 200, Transformer l3",UWaveGestureLibraryAll,0.9078726968174204
+1425,"Our Model symbols 9, features 200, Transformer l3",UWaveGestureLibraryX,0.7605806811836963
+1426,"Assembly symbols 9, features 200, Transformer l3",UWaveGestureLibraryX,0.7908989391401452
+1427,"Our Model symbols 9, features 200, Transformer l3",UWaveGestureLibraryY,0.5729201563372417
+1428,"Assembly symbols 9, features 200, Transformer l3",UWaveGestureLibraryY,0.6088777219430486
+1429,"Our Model symbols 9, features 200, Transformer l3",UWaveGestureLibraryZ,0.6903964265773311
+1430,"Assembly symbols 9, features 200, Transformer l3",UWaveGestureLibraryZ,0.7124511446119486
+1431,"Our Model symbols 9, features 200, Transformer l3",Wafer,0.999935107073329
+1432,"Assembly symbols 9, features 200, Transformer l3",Wafer,1.0
+1433,"Our Model symbols 9, features 200, Transformer l3",Wine,0.6333333333333334
+1434,"Assembly symbols 9, features 200, Transformer l3",Wine,0.6481481481481481
+1435,"Our Model symbols 9, features 200, Transformer l3",WordSynonyms,0.5125391849529781
+1436,"Assembly symbols 9, features 200, Transformer l3",WordSynonyms,0.5658307210031348
+1437,"Our Model symbols 9, features 200, Transformer l3",Worms,0.7324675324675324
+1438,"Assembly symbols 9, features 200, Transformer l3",Worms,0.8181818181818182
+1439,"Our Model symbols 9, features 200, Transformer l3",WormsTwoClass,0.7272727272727273
+1440,"Assembly symbols 9, features 200, Transformer l3",WormsTwoClass,0.7922077922077922
+1441,"Our Model symbols 9, features 200, Transformer l3",Yoga,0.9022666666666668
+1442,"Assembly symbols 9, features 200, Transformer l3",Yoga,0.9106666666666666
+1443,"Our Model symbols 9, features 200, Transformer l2",ACSF1,0.7120000000000001
+1444,"Assembly symbols 9, features 200, Transformer l2",ACSF1,0.81
+1445,"Our Model symbols 9, features 200, Transformer l2",Adiac,0.7355498721227622
+1446,"Assembly symbols 9, features 200, Transformer l2",Adiac,0.7979539641943734
+1447,"Our Model symbols 9, features 200, Transformer l2",ArrowHead,0.632
+1448,"Assembly symbols 9, features 200, Transformer l2",ArrowHead,0.7714285714285715
+1449,"Our Model symbols 9, features 200, Transformer l2",Beef,0.7533333333333335
+1450,"Assembly symbols 9, features 200, Transformer l2",Beef,0.8
+1451,"Our Model symbols 9, features 200, Transformer l2",BeetleFly,0.8100000000000002
+1452,"Assembly symbols 9, features 200, Transformer l2",BeetleFly,0.95
+1453,"Our Model symbols 9, features 200, Transformer l2",BirdChicken,0.9199999999999999
+1454,"Assembly symbols 9, features 200, Transformer l2",BirdChicken,0.9
+1455,"Our Model symbols 9, features 200, Transformer l2",BME,1.0
+1456,"Assembly symbols 9, features 200, Transformer l2",BME,1.0
+1457,"Our Model symbols 9, features 200, Transformer l2",Car,0.7933333333333333
+1458,"Assembly symbols 9, features 200, Transformer l2",Car,0.8333333333333334
+1459,"Our Model symbols 9, features 200, Transformer l2",CBF,0.9946666666666667
+1460,"Assembly symbols 9, features 200, Transformer l2",CBF,0.9966666666666667
+1461,"Our Model symbols 9, features 200, Transformer l2",Chinatown,0.9317784256559767
+1462,"Assembly symbols 9, features 200, Transformer l2",Chinatown,0.9795918367346939
+1463,"Our Model symbols 9, features 200, Transformer l2",ChlorineConcentration,0.62515625
+1464,"Assembly symbols 9, features 200, Transformer l2",ChlorineConcentration,0.6864583333333333
+1465,"Our Model symbols 9, features 200, Transformer l2",CinCECGTorso,0.9460869565217391
+1466,"Assembly symbols 9, features 200, Transformer l2",CinCECGTorso,0.986231884057971
+1467,"Our Model symbols 9, features 200, Transformer l2",Coffee,0.9857142857142858
+1468,"Assembly symbols 9, features 200, Transformer l2",Coffee,1.0
+1469,"Our Model symbols 9, features 200, Transformer l2",Computers,0.7584
+1470,"Assembly symbols 9, features 200, Transformer l2",Computers,0.768
+1471,"Our Model symbols 9, features 200, Transformer l2",CricketX,0.638974358974359
+1472,"Assembly symbols 9, features 200, Transformer l2",CricketX,0.676923076923077
+1473,"Our Model symbols 9, features 200, Transformer l2",CricketY,0.6230769230769231
+1474,"Assembly symbols 9, features 200, Transformer l2",CricketY,0.658974358974359
+1475,"Our Model symbols 9, features 200, Transformer l2",CricketZ,0.6148717948717949
+1476,"Assembly symbols 9, features 200, Transformer l2",CricketZ,0.6538461538461539
+1477,"Our Model symbols 9, features 200, Transformer l2",DiatomSizeReduction,0.9176470588235294
+1478,"Assembly symbols 9, features 200, Transformer l2",DiatomSizeReduction,0.9150326797385621
+1479,"Our Model symbols 9, features 200, Transformer l2",DistalPhalanxOutlineCorrect,0.7514492753623189
+1480,"Assembly symbols 9, features 200, Transformer l2",DistalPhalanxOutlineCorrect,0.7753623188405797
+1481,"Our Model symbols 9, features 200, Transformer l2",DistalPhalanxOutlineAgeGroup,0.730935251798561
+1482,"Assembly symbols 9, features 200, Transformer l2",DistalPhalanxOutlineAgeGroup,0.7266187050359713
+1483,"Our Model symbols 9, features 200, Transformer l2",DistalPhalanxTW,0.6388489208633094
+1484,"Assembly symbols 9, features 200, Transformer l2",DistalPhalanxTW,0.6474820143884892
+1485,"Our Model symbols 9, features 200, Transformer l2",Earthquakes,0.743884892086331
+1486,"Assembly symbols 9, features 200, Transformer l2",Earthquakes,0.7482014388489209
+1487,"Our Model symbols 9, features 200, Transformer l2",ECG200,0.826
+1488,"Assembly symbols 9, features 200, Transformer l2",ECG200,0.85
+1489,"Our Model symbols 9, features 200, Transformer l2",ECG5000,0.9394222222222222
+1490,"Assembly symbols 9, features 200, Transformer l2",ECG5000,0.9424444444444444
+1491,"Our Model symbols 9, features 200, Transformer l2",ECGFiveDays,0.627177700348432
+1492,"Assembly symbols 9, features 200, Transformer l2",ECGFiveDays,0.5226480836236934
+1493,"Our Model symbols 9, features 200, Transformer l2",ElectricDevices,0.7439502010115419
+1494,"Assembly symbols 9, features 200, Transformer l2",ElectricDevices,0.7616392167034107
+1495,"Our Model symbols 9, features 200, Transformer l2",EOGHorizontalSignal,0.4845303867403315
+1496,"Assembly symbols 9, features 200, Transformer l2",EOGHorizontalSignal,0.5359116022099447
+1497,"Our Model symbols 9, features 200, Transformer l2",EOGVerticalSignal,0.46795580110497237
+1498,"Assembly symbols 9, features 200, Transformer l2",EOGVerticalSignal,0.4861878453038674
+1499,"Our Model symbols 9, features 200, Transformer l2",EthanolLevel,0.46080000000000004
+1500,"Assembly symbols 9, features 200, Transformer l2",EthanolLevel,0.474
+1501,"Our Model symbols 9, features 200, Transformer l2",FaceAll,0.7551479289940828
+1502,"Assembly symbols 9, features 200, Transformer l2",FaceAll,0.7615384615384615
+1503,"Our Model symbols 9, features 200, Transformer l2",FaceFour,0.8568181818181818
+1504,"Assembly symbols 9, features 200, Transformer l2",FaceFour,0.8977272727272727
+1505,"Our Model symbols 9, features 200, Transformer l2",FacesUCR,0.651609756097561
+1506,"Assembly symbols 9, features 200, Transformer l2",FacesUCR,0.6995121951219512
+1507,"Our Model symbols 9, features 200, Transformer l2",FiftyWords,0.5318681318681319
+1508,"Assembly symbols 9, features 200, Transformer l2",FiftyWords,0.5846153846153846
+1509,"Our Model symbols 9, features 200, Transformer l2",Fish,0.9085714285714286
+1510,"Assembly symbols 9, features 200, Transformer l2",Fish,0.9371428571428572
+1511,"Our Model symbols 9, features 200, Transformer l2",FordA,0.9968181818181818
+1512,"Assembly symbols 9, features 200, Transformer l2",FordA,0.9984848484848485
+1513,"Our Model symbols 9, features 200, Transformer l2",FordB,0.782716049382716
+1514,"Assembly symbols 9, features 200, Transformer l2",FordB,0.8024691358024691
+1515,"Our Model symbols 9, features 200, Transformer l2",FreezerRegularTrain,0.9849122807017544
+1516,"Assembly symbols 9, features 200, Transformer l2",FreezerRegularTrain,0.9901754385964913
+1517,"Our Model symbols 9, features 200, Transformer l2",FreezerSmallTrain,0.7420350877192983
+1518,"Assembly symbols 9, features 200, Transformer l2",FreezerSmallTrain,0.8063157894736842
+1519,"Our Model symbols 9, features 200, Transformer l2",GunPoint,0.9279999999999999
+1520,"Assembly symbols 9, features 200, Transformer l2",GunPoint,0.9666666666666667
+1521,"Our Model symbols 9, features 200, Transformer l2",GunPointAgeSpan,0.978481012658228
+1522,"Assembly symbols 9, features 200, Transformer l2",GunPointAgeSpan,0.9873417721518988
+1523,"Our Model symbols 9, features 200, Transformer l2",GunPointMaleVersusFemale,1.0
+1524,"Assembly symbols 9, features 200, Transformer l2",GunPointMaleVersusFemale,1.0
+1525,"Our Model symbols 9, features 200, Transformer l2",GunPointOldVersusYoung,1.0
+1526,"Assembly symbols 9, features 200, Transformer l2",GunPointOldVersusYoung,1.0
+1527,"Our Model symbols 9, features 200, Transformer l2",Ham,0.7504761904761905
+1528,"Assembly symbols 9, features 200, Transformer l2",Ham,0.7523809523809524
+1529,"Our Model symbols 9, features 200, Transformer l2",HandOutlines,0.8945945945945948
+1530,"Assembly symbols 9, features 200, Transformer l2",HandOutlines,0.8972972972972973
+1531,"Our Model symbols 9, features 200, Transformer l2",Haptics,0.42987012987012985
+1532,"Assembly symbols 9, features 200, Transformer l2",Haptics,0.4837662337662338
+1533,"Our Model symbols 9, features 200, Transformer l2",Herring,0.559375
+1534,"Assembly symbols 9, features 200, Transformer l2",Herring,0.65625
+1535,"Our Model symbols 9, features 200, Transformer l2",HouseTwenty,0.9563025210084033
+1536,"Assembly symbols 9, features 200, Transformer l2",HouseTwenty,0.957983193277311
+1537,"Our Model symbols 9, features 200, Transformer l2",InlineSkate,0.40945454545454546
+1538,"Assembly symbols 9, features 200, Transformer l2",InlineSkate,0.44727272727272727
+1539,"Our Model symbols 9, features 200, Transformer l2",InsectEPGRegularTrain,0.9991967871485944
+1540,"Assembly symbols 9, features 200, Transformer l2",InsectEPGRegularTrain,1.0
+1541,"Our Model symbols 9, features 200, Transformer l2",InsectEPGSmallTrain,0.9967871485943774
+1542,"Assembly symbols 9, features 200, Transformer l2",InsectEPGSmallTrain,1.0
+1543,"Our Model symbols 9, features 200, Transformer l2",InsectWingbeatSound,0.6164646464646465
+1544,"Assembly symbols 9, features 200, Transformer l2",InsectWingbeatSound,0.6444444444444445
+1545,"Our Model symbols 9, features 200, Transformer l2",ItalyPowerDemand,0.9446064139941692
+1546,"Assembly symbols 9, features 200, Transformer l2",ItalyPowerDemand,0.9543245869776482
+1547,"Our Model symbols 9, features 200, Transformer l2",LargeKitchenAppliances,0.7658666666666667
+1548,"Assembly symbols 9, features 200, Transformer l2",LargeKitchenAppliances,0.7813333333333333
+1549,"Our Model symbols 9, features 200, Transformer l2",Lightning2,0.5934426229508196
+1550,"Assembly symbols 9, features 200, Transformer l2",Lightning2,0.6557377049180327
+1551,"Our Model symbols 9, features 200, Transformer l2",Lightning7,0.6630136986301369
+1552,"Assembly symbols 9, features 200, Transformer l2",Lightning7,0.6986301369863014
+1553,"Our Model symbols 9, features 200, Transformer l2",Mallat,0.9002132196162048
+1554,"Assembly symbols 9, features 200, Transformer l2",Mallat,0.9398720682302771
+1555,"Our Model symbols 9, features 200, Transformer l2",Meat,0.8799999999999999
+1556,"Assembly symbols 9, features 200, Transformer l2",Meat,0.8833333333333333
+1557,"Our Model symbols 9, features 200, Transformer l2",MedicalImages,0.7302631578947368
+1558,"Assembly symbols 9, features 200, Transformer l2",MedicalImages,0.756578947368421
+1559,"Our Model symbols 9, features 200, Transformer l2",MiddlePhalanxOutlineCorrect,0.7264604810996563
+1560,"Assembly symbols 9, features 200, Transformer l2",MiddlePhalanxOutlineCorrect,0.7353951890034365
+1561,"Our Model symbols 9, features 200, Transformer l2",MiddlePhalanxOutlineAgeGroup,0.5909090909090909
+1562,"Assembly symbols 9, features 200, Transformer l2",MiddlePhalanxOutlineAgeGroup,0.6103896103896104
+1563,"Our Model symbols 9, features 200, Transformer l2",MiddlePhalanxTW,0.5701298701298702
+1564,"Assembly symbols 9, features 200, Transformer l2",MiddlePhalanxTW,0.5844155844155844
+1565,"Our Model symbols 9, features 200, Transformer l2",MixedShapesRegularTrain,0.8971546391752577
+1566,"Assembly symbols 9, features 200, Transformer l2",MixedShapesRegularTrain,0.9150515463917526
+1567,"Our Model symbols 9, features 200, Transformer l2",MixedShapesSmallTrain,0.8449484536082474
+1568,"Assembly symbols 9, features 200, Transformer l2",MixedShapesSmallTrain,0.8746391752577319
+1569,"Our Model symbols 9, features 200, Transformer l2",MoteStrain,0.8785942492012779
+1570,"Assembly symbols 9, features 200, Transformer l2",MoteStrain,0.9273162939297125
+1571,"Our Model symbols 9, features 200, Transformer l2",NonInvasiveFetalECGThorax1,0.8425445292620865
+1572,"Assembly symbols 9, features 200, Transformer l2",NonInvasiveFetalECGThorax1,0.8753180661577609
+1573,"Our Model symbols 9, features 200, Transformer l2",NonInvasiveFetalECGThorax2,0.8215776081424936
+1574,"Assembly symbols 9, features 200, Transformer l2",NonInvasiveFetalECGThorax2,0.8580152671755725
+1575,"Our Model symbols 9, features 200, Transformer l2",OliveOil,0.7866666666666666
+1576,"Assembly symbols 9, features 200, Transformer l2",OliveOil,0.8333333333333334
+1577,"Our Model symbols 9, features 200, Transformer l2",OSULeaf,0.9157024793388431
+1578,"Assembly symbols 9, features 200, Transformer l2",OSULeaf,0.9380165289256198
+1579,"Our Model symbols 9, features 200, Transformer l2",PhalangesOutlinesCorrect,0.7655011655011655
+1580,"Assembly symbols 9, features 200, Transformer l2",PhalangesOutlinesCorrect,0.7715617715617715
+1581,"Our Model symbols 9, features 200, Transformer l2",Phoneme,0.29957805907172996
+1582,"Assembly symbols 9, features 200, Transformer l2",Phoneme,0.35443037974683544
+1583,"Our Model symbols 9, features 200, Transformer l2",PigAirwayPressure,0.18653846153846154
+1584,"Assembly symbols 9, features 200, Transformer l2",PigAirwayPressure,0.18269230769230768
+1585,"Our Model symbols 9, features 200, Transformer l2",PigArtPressure,0.46442307692307694
+1586,"Assembly symbols 9, features 200, Transformer l2",PigArtPressure,0.49038461538461536
+1587,"Our Model symbols 9, features 200, Transformer l2",PigCVP,0.22115384615384612
+1588,"Assembly symbols 9, features 200, Transformer l2",PigCVP,0.375
+1589,"Our Model symbols 9, features 200, Transformer l2",Plane,0.9961904761904762
+1590,"Assembly symbols 9, features 200, Transformer l2",Plane,1.0
+1591,"Our Model symbols 9, features 200, Transformer l2",PowerCons,0.9555555555555555
+1592,"Assembly symbols 9, features 200, Transformer l2",PowerCons,0.9944444444444445
+1593,"Our Model symbols 9, features 200, Transformer l2",ProximalPhalanxOutlineCorrect,0.8460481099656356
+1594,"Assembly symbols 9, features 200, Transformer l2",ProximalPhalanxOutlineCorrect,0.852233676975945
+1595,"Our Model symbols 9, features 200, Transformer l2",ProximalPhalanxOutlineAgeGroup,0.8556097560975611
+1596,"Assembly symbols 9, features 200, Transformer l2",ProximalPhalanxOutlineAgeGroup,0.8585365853658536
+1597,"Our Model symbols 9, features 200, Transformer l2",ProximalPhalanxTW,0.7902439024390244
+1598,"Assembly symbols 9, features 200, Transformer l2",ProximalPhalanxTW,0.7951219512195122
+1599,"Our Model symbols 9, features 200, Transformer l2",RefrigerationDevices,0.5685333333333333
+1600,"Assembly symbols 9, features 200, Transformer l2",RefrigerationDevices,0.5866666666666667
+1601,"Our Model symbols 9, features 200, Transformer l2",Rock,0.548
+1602,"Assembly symbols 9, features 200, Transformer l2",Rock,0.7
+1603,"Our Model symbols 9, features 200, Transformer l2",ScreenType,0.5322666666666667
+1604,"Assembly symbols 9, features 200, Transformer l2",ScreenType,0.5573333333333333
+1605,"Our Model symbols 9, features 200, Transformer l2",SemgHandGenderCh2,0.9046666666666667
+1606,"Assembly symbols 9, features 200, Transformer l2",SemgHandGenderCh2,0.9233333333333333
+1607,"Our Model symbols 9, features 200, Transformer l2",SemgHandMovementCh2,0.6173333333333334
+1608,"Assembly symbols 9, features 200, Transformer l2",SemgHandMovementCh2,0.7022222222222222
+1609,"Our Model symbols 9, features 200, Transformer l2",SemgHandSubjectCh2,0.8546666666666667
+1610,"Assembly symbols 9, features 200, Transformer l2",SemgHandSubjectCh2,0.8777777777777778
+1611,"Our Model symbols 9, features 200, Transformer l2",ShapeletSim,0.9788888888888888
+1612,"Assembly symbols 9, features 200, Transformer l2",ShapeletSim,0.9777777777777777
+1613,"Our Model symbols 9, features 200, Transformer l2",ShapesAll,0.8046666666666666
+1614,"Assembly symbols 9, features 200, Transformer l2",ShapesAll,0.85
+1615,"Our Model symbols 9, features 200, Transformer l2",SmallKitchenAppliances,0.8080000000000002
+1616,"Assembly symbols 9, features 200, Transformer l2",SmallKitchenAppliances,0.8186666666666667
+1617,"Our Model symbols 9, features 200, Transformer l2",SmoothSubspace,0.9626666666666667
+1618,"Assembly symbols 9, features 200, Transformer l2",SmoothSubspace,0.96
+1619,"Our Model symbols 9, features 200, Transformer l2",SonyAIBORobotSurface1,0.8096505823627288
+1620,"Assembly symbols 9, features 200, Transformer l2",SonyAIBORobotSurface1,0.9001663893510815
+1621,"Our Model symbols 9, features 200, Transformer l2",SonyAIBORobotSurface2,0.9068205666316895
+1622,"Assembly symbols 9, features 200, Transformer l2",SonyAIBORobotSurface2,0.9265477439664218
+1623,"Our Model symbols 9, features 200, Transformer l2",StarLightCurves,0.9604905293831958
+1624,"Assembly symbols 9, features 200, Transformer l2",StarLightCurves,0.9657600777076251
+1625,"Our Model symbols 9, features 200, Transformer l2",Strawberry,0.952972972972973
+1626,"Assembly symbols 9, features 200, Transformer l2",Strawberry,0.9540540540540541
+1627,"Our Model symbols 9, features 200, Transformer l2",SwedishLeaf,0.9459199999999999
+1628,"Assembly symbols 9, features 200, Transformer l2",SwedishLeaf,0.96
+1629,"Our Model symbols 9, features 200, Transformer l2",Symbols,0.7461306532663315
+1630,"Assembly symbols 9, features 200, Transformer l2",Symbols,0.928643216080402
+1631,"Our Model symbols 9, features 200, Transformer l2",SyntheticControl,0.9946666666666667
+1632,"Assembly symbols 9, features 200, Transformer l2",SyntheticControl,0.9966666666666667
+1633,"Our Model symbols 9, features 200, Transformer l2",ToeSegmentation1,0.7350877192982456
+1634,"Assembly symbols 9, features 200, Transformer l2",ToeSegmentation1,0.8464912280701754
+1635,"Our Model symbols 9, features 200, Transformer l2",ToeSegmentation2,0.8446153846153847
+1636,"Assembly symbols 9, features 200, Transformer l2",ToeSegmentation2,0.8769230769230769
+1637,"Our Model symbols 9, features 200, Transformer l2",Trace,1.0
+1638,"Assembly symbols 9, features 200, Transformer l2",Trace,1.0
+1639,"Our Model symbols 9, features 200, Transformer l2",TwoLeadECG,0.8007023705004389
+1640,"Assembly symbols 9, features 200, Transformer l2",TwoLeadECG,0.9762949956101844
+1641,"Our Model symbols 9, features 200, Transformer l2",TwoPatterns,0.9729000000000001
+1642,"Assembly symbols 9, features 200, Transformer l2",TwoPatterns,0.98275
+1643,"Our Model symbols 9, features 200, Transformer l2",UMD,0.9875
+1644,"Assembly symbols 9, features 200, Transformer l2",UMD,0.9930555555555556
+1645,"Our Model symbols 9, features 200, Transformer l2",UWaveGestureLibraryAll,0.8939698492462311
+1646,"Assembly symbols 9, features 200, Transformer l2",UWaveGestureLibraryAll,0.9170854271356784
+1647,"Our Model symbols 9, features 200, Transformer l2",UWaveGestureLibraryX,0.7526521496370743
+1648,"Assembly symbols 9, features 200, Transformer l2",UWaveGestureLibraryX,0.7777777777777778
+1649,"Our Model symbols 9, features 200, Transformer l2",UWaveGestureLibraryY,0.560748185371301
+1650,"Assembly symbols 9, features 200, Transformer l2",UWaveGestureLibraryY,0.6049692908989391
+1651,"Our Model symbols 9, features 200, Transformer l2",UWaveGestureLibraryZ,0.6854271356783919
+1652,"Assembly symbols 9, features 200, Transformer l2",UWaveGestureLibraryZ,0.701284198771636
+1653,"Our Model symbols 9, features 200, Transformer l2",Wafer,0.9999026606099936
+1654,"Assembly symbols 9, features 200, Transformer l2",Wafer,1.0
+1655,"Our Model symbols 9, features 200, Transformer l2",Wine,0.6555555555555556
+1656,"Assembly symbols 9, features 200, Transformer l2",Wine,0.6851851851851852
+1657,"Our Model symbols 9, features 200, Transformer l2",WordSynonyms,0.5231974921630094
+1658,"Assembly symbols 9, features 200, Transformer l2",WordSynonyms,0.5564263322884012
+1659,"Our Model symbols 9, features 200, Transformer l2",Worms,0.7142857142857143
+1660,"Assembly symbols 9, features 200, Transformer l2",Worms,0.7922077922077922
+1661,"Our Model symbols 9, features 200, Transformer l2",WormsTwoClass,0.6675324675324676
+1662,"Assembly symbols 9, features 200, Transformer l2",WormsTwoClass,0.7792207792207793
+1663,"Our Model symbols 9, features 200, Transformer l2",Yoga,0.9019333333333334
+1664,"Assembly symbols 9, features 200, Transformer l2",Yoga,0.9143333333333333
+1665,"Our Model symbols 9, features 200, CNN l3",ACSF1,0.744
+1666,"Assembly symbols 9, features 200, CNN l3",ACSF1,0.83
+1667,"Our Model symbols 9, features 200, CNN l3",Adiac,0.7872122762148337
+1668,"Assembly symbols 9, features 200, CNN l3",Adiac,0.8286445012787724
+1669,"Our Model symbols 9, features 200, CNN l3",ArrowHead,0.7828571428571428
+1670,"Assembly symbols 9, features 200, CNN l3",ArrowHead,0.8171428571428572
+1671,"Our Model symbols 9, features 200, CNN l3",Beef,0.7333333333333333
+1672,"Assembly symbols 9, features 200, CNN l3",Beef,0.8333333333333334
+1673,"Our Model symbols 9, features 200, CNN l3",BeetleFly,0.86
+1674,"Assembly symbols 9, features 200, CNN l3",BeetleFly,0.95
+1675,"Our Model symbols 9, features 200, CNN l3",BirdChicken,0.9099999999999999
+1676,"Assembly symbols 9, features 200, CNN l3",BirdChicken,0.9
+1677,"Our Model symbols 9, features 200, CNN l3",BME,1.0
+1678,"Assembly symbols 9, features 200, CNN l3",BME,1.0
+1679,"Our Model symbols 9, features 200, CNN l3",Car,0.8633333333333333
+1680,"Assembly symbols 9, features 200, CNN l3",Car,0.8666666666666667
+1681,"Our Model symbols 9, features 200, CNN l3",CBF,0.9926666666666668
+1682,"Assembly symbols 9, features 200, CNN l3",CBF,0.9955555555555555
+1683,"Our Model symbols 9, features 200, CNN l3",Chinatown,0.9725947521865891
+1684,"Assembly symbols 9, features 200, CNN l3",Chinatown,0.9795918367346939
+1685,"Our Model symbols 9, features 200, CNN l3",ChlorineConcentration,0.7047395833333333
+1686,"Assembly symbols 9, features 200, CNN l3",ChlorineConcentration,0.7432291666666667
+1687,"Our Model symbols 9, features 200, CNN l3",CinCECGTorso,0.9281159420289855
+1688,"Assembly symbols 9, features 200, CNN l3",CinCECGTorso,0.9601449275362319
+1689,"Our Model symbols 9, features 200, CNN l3",Coffee,1.0
+1690,"Assembly symbols 9, features 200, CNN l3",Coffee,1.0
+1691,"Our Model symbols 9, features 200, CNN l3",Computers,0.7848
+1692,"Assembly symbols 9, features 200, CNN l3",Computers,0.812
+1693,"Our Model symbols 9, features 200, CNN l3",CricketX,0.6635897435897438
+1694,"Assembly symbols 9, features 200, CNN l3",CricketX,0.6871794871794872
+1695,"Our Model symbols 9, features 200, CNN l3",CricketY,0.6876923076923077
+1696,"Assembly symbols 9, features 200, CNN l3",CricketY,0.7205128205128205
+1697,"Our Model symbols 9, features 200, CNN l3",CricketZ,0.6728205128205128
+1698,"Assembly symbols 9, features 200, CNN l3",CricketZ,0.7102564102564103
+1699,"Our Model symbols 9, features 200, CNN l3",DiatomSizeReduction,0.9098039215686274
+1700,"Assembly symbols 9, features 200, CNN l3",DiatomSizeReduction,0.9313725490196079
+1701,"Our Model symbols 9, features 200, CNN l3",DistalPhalanxOutlineCorrect,0.777536231884058
+1702,"Assembly symbols 9, features 200, CNN l3",DistalPhalanxOutlineCorrect,0.7898550724637681
+1703,"Our Model symbols 9, features 200, CNN l3",DistalPhalanxOutlineAgeGroup,0.7294964028776979
+1704,"Assembly symbols 9, features 200, CNN l3",DistalPhalanxOutlineAgeGroup,0.7194244604316546
+1705,"Our Model symbols 9, features 200, CNN l3",DistalPhalanxTW,0.6733812949640289
+1706,"Assembly symbols 9, features 200, CNN l3",DistalPhalanxTW,0.6762589928057554
+1707,"Our Model symbols 9, features 200, CNN l3",Earthquakes,0.7482014388489209
+1708,"Assembly symbols 9, features 200, CNN l3",Earthquakes,0.7482014388489209
+1709,"Our Model symbols 9, features 200, CNN l3",ECG200,0.8699999999999999
+1710,"Assembly symbols 9, features 200, CNN l3",ECG200,0.88
+1711,"Our Model symbols 9, features 200, CNN l3",ECG5000,0.9410666666666666
+1712,"Assembly symbols 9, features 200, CNN l3",ECG5000,0.9431111111111111
+1713,"Our Model symbols 9, features 200, CNN l3",ECGFiveDays,0.6905923344947735
+1714,"Assembly symbols 9, features 200, CNN l3",ECGFiveDays,0.9128919860627178
+1715,"Our Model symbols 9, features 200, CNN l3",ElectricDevices,0.7736739722474387
+1716,"Assembly symbols 9, features 200, CNN l3",ElectricDevices,0.7838153287511347
+1717,"Our Model symbols 9, features 200, CNN l3",EOGHorizontalSignal,0.519889502762431
+1718,"Assembly symbols 9, features 200, CNN l3",EOGHorizontalSignal,0.5331491712707183
+1719,"Our Model symbols 9, features 200, CNN l3",EOGVerticalSignal,0.4696132596685083
+1720,"Assembly symbols 9, features 200, CNN l3",EOGVerticalSignal,0.4889502762430939
+1721,"Our Model symbols 9, features 200, CNN l3",EthanolLevel,0.4596
+1722,"Assembly symbols 9, features 200, CNN l3",EthanolLevel,0.486
+1723,"Our Model symbols 9, features 200, CNN l3",FaceAll,0.8040236686390532
+1724,"Assembly symbols 9, features 200, CNN l3",FaceAll,0.8035502958579882
+1725,"Our Model symbols 9, features 200, CNN l3",FaceFour,0.8772727272727272
+1726,"Assembly symbols 9, features 200, CNN l3",FaceFour,0.9090909090909091
+1727,"Our Model symbols 9, features 200, CNN l3",FacesUCR,0.6435121951219512
+1728,"Assembly symbols 9, features 200, CNN l3",FacesUCR,0.6980487804878048
+1729,"Our Model symbols 9, features 200, CNN l3",FiftyWords,0.5846153846153846
+1730,"Assembly symbols 9, features 200, CNN l3",FiftyWords,0.6197802197802198
+1731,"Our Model symbols 9, features 200, CNN l3",Fish,0.8960000000000001
+1732,"Assembly symbols 9, features 200, CNN l3",Fish,0.92
+1733,"Our Model symbols 9, features 200, CNN l3",FordA,0.9986363636363637
+1734,"Assembly symbols 9, features 200, CNN l3",FordA,0.9984848484848485
+1735,"Our Model symbols 9, features 200, CNN l3",FordB,0.7982716049382715
+1736,"Assembly symbols 9, features 200, CNN l3",FordB,0.7987654320987654
+1737,"Our Model symbols 9, features 200, CNN l3",FreezerRegularTrain,0.9883508771929824
+1738,"Assembly symbols 9, features 200, CNN l3",FreezerRegularTrain,0.9919298245614036
+1739,"Our Model symbols 9, features 200, CNN l3",FreezerSmallTrain,0.8160701754385965
+1740,"Assembly symbols 9, features 200, CNN l3",FreezerSmallTrain,0.8385964912280702
+1741,"Our Model symbols 9, features 200, CNN l3",GunPoint,0.9213333333333333
+1742,"Assembly symbols 9, features 200, CNN l3",GunPoint,0.9733333333333334
+1743,"Our Model symbols 9, features 200, CNN l3",GunPointAgeSpan,0.9898734177215189
+1744,"Assembly symbols 9, features 200, CNN l3",GunPointAgeSpan,0.9968354430379747
+1745,"Our Model symbols 9, features 200, CNN l3",GunPointMaleVersusFemale,1.0
+1746,"Assembly symbols 9, features 200, CNN l3",GunPointMaleVersusFemale,1.0
+1747,"Our Model symbols 9, features 200, CNN l3",GunPointOldVersusYoung,1.0
+1748,"Assembly symbols 9, features 200, CNN l3",GunPointOldVersusYoung,1.0
+1749,"Our Model symbols 9, features 200, CNN l3",Ham,0.7390476190476191
+1750,"Assembly symbols 9, features 200, CNN l3",Ham,0.7428571428571429
+1751,"Our Model symbols 9, features 200, CNN l3",HandOutlines,0.8908108108108108
+1752,"Assembly symbols 9, features 200, CNN l3",HandOutlines,0.9
+1753,"Our Model symbols 9, features 200, CNN l3",Haptics,0.4305194805194805
+1754,"Assembly symbols 9, features 200, CNN l3",Haptics,0.4675324675324675
+1755,"Our Model symbols 9, features 200, CNN l3",Herring,0.56875
+1756,"Assembly symbols 9, features 200, CNN l3",Herring,0.609375
+1757,"Our Model symbols 9, features 200, CNN l3",HouseTwenty,0.9546218487394957
+1758,"Assembly symbols 9, features 200, CNN l3",HouseTwenty,0.957983193277311
+1759,"Our Model symbols 9, features 200, CNN l3",InlineSkate,0.45672727272727276
+1760,"Assembly symbols 9, features 200, CNN l3",InlineSkate,0.4890909090909091
+1761,"Our Model symbols 9, features 200, CNN l3",InsectEPGRegularTrain,0.9943775100401606
+1762,"Assembly symbols 9, features 200, CNN l3",InsectEPGRegularTrain,0.9959839357429718
+1763,"Our Model symbols 9, features 200, CNN l3",InsectEPGSmallTrain,0.9783132530120483
+1764,"Assembly symbols 9, features 200, CNN l3",InsectEPGSmallTrain,1.0
+1765,"Our Model symbols 9, features 200, CNN l3",InsectWingbeatSound,0.6261616161616163
+1766,"Assembly symbols 9, features 200, CNN l3",InsectWingbeatSound,0.6540404040404041
+1767,"Our Model symbols 9, features 200, CNN l3",ItalyPowerDemand,0.9403304178814385
+1768,"Assembly symbols 9, features 200, CNN l3",ItalyPowerDemand,0.9455782312925171
+1769,"Our Model symbols 9, features 200, CNN l3",LargeKitchenAppliances,0.8058666666666667
+1770,"Assembly symbols 9, features 200, CNN l3",LargeKitchenAppliances,0.8293333333333334
+1771,"Our Model symbols 9, features 200, CNN l3",Lightning2,0.6950819672131147
+1772,"Assembly symbols 9, features 200, CNN l3",Lightning2,0.7213114754098361
+1773,"Our Model symbols 9, features 200, CNN l3",Lightning7,0.6876712328767123
+1774,"Assembly symbols 9, features 200, CNN l3",Lightning7,0.7397260273972602
+1775,"Our Model symbols 9, features 200, CNN l3",Mallat,0.9171855010660981
+1776,"Assembly symbols 9, features 200, CNN l3",Mallat,0.9279317697228145
+1777,"Our Model symbols 9, features 200, CNN l3",Meat,0.9299999999999999
+1778,"Assembly symbols 9, features 200, CNN l3",Meat,0.9166666666666666
+1779,"Our Model symbols 9, features 200, CNN l3",MedicalImages,0.7697368421052632
+1780,"Assembly symbols 9, features 200, CNN l3",MedicalImages,0.7934210526315789
+1781,"Our Model symbols 9, features 200, CNN l3",MiddlePhalanxOutlineCorrect,0.7931271477663231
+1782,"Assembly symbols 9, features 200, CNN l3",MiddlePhalanxOutlineCorrect,0.8109965635738832
+1783,"Our Model symbols 9, features 200, CNN l3",MiddlePhalanxOutlineAgeGroup,0.5948051948051949
+1784,"Assembly symbols 9, features 200, CNN l3",MiddlePhalanxOutlineAgeGroup,0.577922077922078
+1785,"Our Model symbols 9, features 200, CNN l3",MiddlePhalanxTW,0.5545454545454545
+1786,"Assembly symbols 9, features 200, CNN l3",MiddlePhalanxTW,0.564935064935065
+1787,"Our Model symbols 9, features 200, CNN l3",MixedShapesRegularTrain,0.9134020618556702
+1788,"Assembly symbols 9, features 200, CNN l3",MixedShapesRegularTrain,0.928659793814433
+1789,"Our Model symbols 9, features 200, CNN l3",MixedShapesSmallTrain,0.8548453608247423
+1790,"Assembly symbols 9, features 200, CNN l3",MixedShapesSmallTrain,0.8874226804123712
+1791,"Our Model symbols 9, features 200, CNN l3",MoteStrain,0.773003194888179
+1792,"Assembly symbols 9, features 200, CNN l3",MoteStrain,0.9105431309904153
+1793,"Our Model symbols 9, features 200, CNN l3",NonInvasiveFetalECGThorax1,0.8652417302798983
+1794,"Assembly symbols 9, features 200, CNN l3",NonInvasiveFetalECGThorax1,0.8972010178117048
+1795,"Our Model symbols 9, features 200, CNN l3",NonInvasiveFetalECGThorax2,0.8573027989821883
+1796,"Assembly symbols 9, features 200, CNN l3",NonInvasiveFetalECGThorax2,0.8875318066157761
+1797,"Our Model symbols 9, features 200, CNN l3",OliveOil,0.8133333333333332
+1798,"Assembly symbols 9, features 200, CNN l3",OliveOil,0.8333333333333334
+1799,"Our Model symbols 9, features 200, CNN l3",OSULeaf,0.9082644628099175
+1800,"Assembly symbols 9, features 200, CNN l3",OSULeaf,0.9256198347107438
+1801,"Our Model symbols 9, features 200, CNN l3",PhalangesOutlinesCorrect,0.7927738927738928
+1802,"Assembly symbols 9, features 200, CNN l3",PhalangesOutlinesCorrect,0.803030303030303
+1803,"Our Model symbols 9, features 200, CNN l3",Phoneme,0.33417721518987337
+1804,"Assembly symbols 9, features 200, CNN l3",Phoneme,0.3760548523206751
+1805,"Our Model symbols 9, features 200, CNN l3",PigAirwayPressure,0.16442307692307692
+1806,"Assembly symbols 9, features 200, CNN l3",PigAirwayPressure,0.17307692307692307
+1807,"Our Model symbols 9, features 200, CNN l3",PigArtPressure,0.5153846153846153
+1808,"Assembly symbols 9, features 200, CNN l3",PigArtPressure,0.5144230769230769
+1809,"Our Model symbols 9, features 200, CNN l3",PigCVP,0.33942307692307694
+1810,"Assembly symbols 9, features 200, CNN l3",PigCVP,0.35096153846153844
+1811,"Our Model symbols 9, features 200, CNN l3",Plane,0.9980952380952381
+1812,"Assembly symbols 9, features 200, CNN l3",Plane,1.0
+1813,"Our Model symbols 9, features 200, CNN l3",PowerCons,0.9666666666666666
+1814,"Assembly symbols 9, features 200, CNN l3",PowerCons,0.9944444444444445
+1815,"Our Model symbols 9, features 200, CNN l3",ProximalPhalanxOutlineCorrect,0.8673539518900345
+1816,"Assembly symbols 9, features 200, CNN l3",ProximalPhalanxOutlineCorrect,0.872852233676976
+1817,"Our Model symbols 9, features 200, CNN l3",ProximalPhalanxOutlineAgeGroup,0.8439024390243903
+1818,"Assembly symbols 9, features 200, CNN l3",ProximalPhalanxOutlineAgeGroup,0.8439024390243902
+1819,"Our Model symbols 9, features 200, CNN l3",ProximalPhalanxTW,0.7873170731707317
+1820,"Assembly symbols 9, features 200, CNN l3",ProximalPhalanxTW,0.8048780487804879
+1821,"Our Model symbols 9, features 200, CNN l3",RefrigerationDevices,0.5610666666666667
+1822,"Assembly symbols 9, features 200, CNN l3",RefrigerationDevices,0.5866666666666667
+1823,"Our Model symbols 9, features 200, CNN l3",Rock,0.516
+1824,"Assembly symbols 9, features 200, CNN l3",Rock,0.48
+1825,"Our Model symbols 9, features 200, CNN l3",ScreenType,0.5493333333333335
+1826,"Assembly symbols 9, features 200, CNN l3",ScreenType,0.5813333333333334
+1827,"Our Model symbols 9, features 200, CNN l3",SemgHandGenderCh2,0.9209999999999999
+1828,"Assembly symbols 9, features 200, CNN l3",SemgHandGenderCh2,0.9433333333333334
+1829,"Our Model symbols 9, features 200, CNN l3",SemgHandMovementCh2,0.6524444444444445
+1830,"Assembly symbols 9, features 200, CNN l3",SemgHandMovementCh2,0.7222222222222222
+1831,"Our Model symbols 9, features 200, CNN l3",SemgHandSubjectCh2,0.9102222222222223
+1832,"Assembly symbols 9, features 200, CNN l3",SemgHandSubjectCh2,0.9355555555555556
+1833,"Our Model symbols 9, features 200, CNN l3",ShapeletSim,0.9777777777777779
+1834,"Assembly symbols 9, features 200, CNN l3",ShapeletSim,0.9777777777777777
+1835,"Our Model symbols 9, features 200, CNN l3",ShapesAll,0.844
+1836,"Assembly symbols 9, features 200, CNN l3",ShapesAll,0.8666666666666667
+1837,"Our Model symbols 9, features 200, CNN l3",SmallKitchenAppliances,0.8160000000000001
+1838,"Assembly symbols 9, features 200, CNN l3",SmallKitchenAppliances,0.832
+1839,"Our Model symbols 9, features 200, CNN l3",SmoothSubspace,0.9719999999999999
+1840,"Assembly symbols 9, features 200, CNN l3",SmoothSubspace,0.98
+1841,"Our Model symbols 9, features 200, CNN l3",SonyAIBORobotSurface1,0.8332778702163062
+1842,"Assembly symbols 9, features 200, CNN l3",SonyAIBORobotSurface1,0.8768718801996672
+1843,"Our Model symbols 9, features 200, CNN l3",SonyAIBORobotSurface2,0.9301154249737671
+1844,"Assembly symbols 9, features 200, CNN l3",SonyAIBORobotSurface2,0.9422875131164743
+1845,"Our Model symbols 9, features 200, CNN l3",StarLightCurves,0.9628946090335114
+1846,"Assembly symbols 9, features 200, CNN l3",StarLightCurves,0.967095677513356
+1847,"Our Model symbols 9, features 200, CNN l3",Strawberry,0.9691891891891892
+1848,"Assembly symbols 9, features 200, CNN l3",Strawberry,0.972972972972973
+1849,"Our Model symbols 9, features 200, CNN l3",SwedishLeaf,0.9456
+1850,"Assembly symbols 9, features 200, CNN l3",SwedishLeaf,0.9552
+1851,"Our Model symbols 9, features 200, CNN l3",Symbols,0.9191959798994975
+1852,"Assembly symbols 9, features 200, CNN l3",Symbols,0.9728643216080402
+1853,"Our Model symbols 9, features 200, CNN l3",SyntheticControl,0.9893333333333333
+1854,"Assembly symbols 9, features 200, CNN l3",SyntheticControl,0.9933333333333333
+1855,"Our Model symbols 9, features 200, CNN l3",ToeSegmentation1,0.7394736842105263
+1856,"Assembly symbols 9, features 200, CNN l3",ToeSegmentation1,0.8552631578947368
+1857,"Our Model symbols 9, features 200, CNN l3",ToeSegmentation2,0.8215384615384614
+1858,"Assembly symbols 9, features 200, CNN l3",ToeSegmentation2,0.8769230769230769
+1859,"Our Model symbols 9, features 200, CNN l3",Trace,1.0
+1860,"Assembly symbols 9, features 200, CNN l3",Trace,1.0
+1861,"Our Model symbols 9, features 200, CNN l3",TwoLeadECG,0.9014925373134328
+1862,"Assembly symbols 9, features 200, CNN l3",TwoLeadECG,0.932396839332748
+1863,"Our Model symbols 9, features 200, CNN l3",TwoPatterns,0.9861000000000001
+1864,"Assembly symbols 9, features 200, CNN l3",TwoPatterns,0.9915
+1865,"Our Model symbols 9, features 200, CNN l3",UMD,0.976388888888889
+1866,"Assembly symbols 9, features 200, CNN l3",UMD,0.9930555555555556
+1867,"Our Model symbols 9, features 200, CNN l3",UWaveGestureLibraryAll,0.9072026800670017
+1868,"Assembly symbols 9, features 200, CNN l3",UWaveGestureLibraryAll,0.9262981574539364
+1869,"Our Model symbols 9, features 200, CNN l3",UWaveGestureLibraryX,0.7895589056393076
+1870,"Assembly symbols 9, features 200, CNN l3",UWaveGestureLibraryX,0.8126744835287549
+1871,"Our Model symbols 9, features 200, CNN l3",UWaveGestureLibraryY,0.6048017867113344
+1872,"Assembly symbols 9, features 200, CNN l3",UWaveGestureLibraryY,0.6362367392518147
+1873,"Our Model symbols 9, features 200, CNN l3",UWaveGestureLibraryZ,0.71535455053043
+1874,"Assembly symbols 9, features 200, CNN l3",UWaveGestureLibraryZ,0.7331099944165271
+1875,"Our Model symbols 9, features 200, CNN l3",Wafer,0.9999675535366646
+1876,"Assembly symbols 9, features 200, CNN l3",Wafer,1.0
+1877,"Our Model symbols 9, features 200, CNN l3",Wine,0.625925925925926
+1878,"Assembly symbols 9, features 200, CNN l3",Wine,0.6666666666666666
+1879,"Our Model symbols 9, features 200, CNN l3",WordSynonyms,0.5852664576802509
+1880,"Assembly symbols 9, features 200, CNN l3",WordSynonyms,0.6144200626959248
+1881,"Our Model symbols 9, features 200, CNN l3",Worms,0.8025974025974026
+1882,"Assembly symbols 9, features 200, CNN l3",Worms,0.8311688311688312
+1883,"Our Model symbols 9, features 200, CNN l3",WormsTwoClass,0.7636363636363637
+1884,"Assembly symbols 9, features 200, CNN l3",WormsTwoClass,0.8051948051948052
+1885,"Our Model symbols 9, features 200, CNN l3",Yoga,0.9153333333333332
+1886,"Assembly symbols 9, features 200, CNN l3",Yoga,0.9283333333333333
+1887,"Our Model symbols 9, features 200, CNN l2",ACSF1,0.742
+1888,"Assembly symbols 9, features 200, CNN l2",ACSF1,0.82
+1889,"Our Model symbols 9, features 200, CNN l2",Adiac,0.7790281329923274
+1890,"Assembly symbols 9, features 200, CNN l2",Adiac,0.8132992327365729
+1891,"Our Model symbols 9, features 200, CNN l2",ArrowHead,0.7714285714285716
+1892,"Assembly symbols 9, features 200, CNN l2",ArrowHead,0.8114285714285714
+1893,"Our Model symbols 9, features 200, CNN l2",Beef,0.7333333333333334
+1894,"Assembly symbols 9, features 200, CNN l2",Beef,0.8333333333333334
+1895,"Our Model symbols 9, features 200, CNN l2",BeetleFly,0.72
+1896,"Assembly symbols 9, features 200, CNN l2",BeetleFly,0.95
+1897,"Our Model symbols 9, features 200, CNN l2",BirdChicken,0.89
+1898,"Assembly symbols 9, features 200, CNN l2",BirdChicken,0.9
+1899,"Our Model symbols 9, features 200, CNN l2",BME,1.0
+1900,"Assembly symbols 9, features 200, CNN l2",BME,1.0
+1901,"Our Model symbols 9, features 200, CNN l2",Car,0.8333333333333334
+1902,"Assembly symbols 9, features 200, CNN l2",Car,0.8666666666666667
+1903,"Our Model symbols 9, features 200, CNN l2",CBF,0.9926666666666668
+1904,"Assembly symbols 9, features 200, CNN l2",CBF,0.9966666666666667
+1905,"Our Model symbols 9, features 200, CNN l2",Chinatown,0.9626822157434403
+1906,"Assembly symbols 9, features 200, CNN l2",Chinatown,0.9766763848396501
+1907,"Our Model symbols 9, features 200, CNN l2",ChlorineConcentration,0.6972916666666666
+1908,"Assembly symbols 9, features 200, CNN l2",ChlorineConcentration,0.7338541666666667
+1909,"Our Model symbols 9, features 200, CNN l2",CinCECGTorso,0.9217391304347824
+1910,"Assembly symbols 9, features 200, CNN l2",CinCECGTorso,0.9630434782608696
+1911,"Our Model symbols 9, features 200, CNN l2",Coffee,1.0
+1912,"Assembly symbols 9, features 200, CNN l2",Coffee,1.0
+1913,"Our Model symbols 9, features 200, CNN l2",Computers,0.7744000000000002
+1914,"Assembly symbols 9, features 200, CNN l2",Computers,0.78
+1915,"Our Model symbols 9, features 200, CNN l2",CricketX,0.6661538461538463
+1916,"Assembly symbols 9, features 200, CNN l2",CricketX,0.7025641025641025
+1917,"Our Model symbols 9, features 200, CNN l2",CricketY,0.677948717948718
+1918,"Assembly symbols 9, features 200, CNN l2",CricketY,0.7
+1919,"Our Model symbols 9, features 200, CNN l2",CricketZ,0.6682051282051281
+1920,"Assembly symbols 9, features 200, CNN l2",CricketZ,0.6974358974358974
+1921,"Our Model symbols 9, features 200, CNN l2",DiatomSizeReduction,0.9235294117647059
+1922,"Assembly symbols 9, features 200, CNN l2",DiatomSizeReduction,0.9444444444444444
+1923,"Our Model symbols 9, features 200, CNN l2",DistalPhalanxOutlineCorrect,0.763768115942029
+1924,"Assembly symbols 9, features 200, CNN l2",DistalPhalanxOutlineCorrect,0.7717391304347826
+1925,"Our Model symbols 9, features 200, CNN l2",DistalPhalanxOutlineAgeGroup,0.7280575539568345
+1926,"Assembly symbols 9, features 200, CNN l2",DistalPhalanxOutlineAgeGroup,0.7410071942446043
+1927,"Our Model symbols 9, features 200, CNN l2",DistalPhalanxTW,0.6633093525179856
+1928,"Assembly symbols 9, features 200, CNN l2",DistalPhalanxTW,0.6690647482014388
+1929,"Our Model symbols 9, features 200, CNN l2",Earthquakes,0.7453237410071942
+1930,"Assembly symbols 9, features 200, CNN l2",Earthquakes,0.7482014388489209
+1931,"Our Model symbols 9, features 200, CNN l2",ECG200,0.8220000000000001
+1932,"Assembly symbols 9, features 200, CNN l2",ECG200,0.87
+1933,"Our Model symbols 9, features 200, CNN l2",ECG5000,0.9409777777777778
+1934,"Assembly symbols 9, features 200, CNN l2",ECG5000,0.9431111111111111
+1935,"Our Model symbols 9, features 200, CNN l2",ECGFiveDays,0.7714285714285716
+1936,"Assembly symbols 9, features 200, CNN l2",ECGFiveDays,0.8687572590011614
+1937,"Our Model symbols 9, features 200, CNN l2",ElectricDevices,0.7574893009985734
+1938,"Assembly symbols 9, features 200, CNN l2",ElectricDevices,0.7772014005965504
+1939,"Our Model symbols 9, features 200, CNN l2",EOGHorizontalSignal,0.5116022099447515
+1940,"Assembly symbols 9, features 200, CNN l2",EOGHorizontalSignal,0.5469613259668509
+1941,"Our Model symbols 9, features 200, CNN l2",EOGVerticalSignal,0.4729281767955801
+1942,"Assembly symbols 9, features 200, CNN l2",EOGVerticalSignal,0.5138121546961326
+1943,"Our Model symbols 9, features 200, CNN l2",EthanolLevel,0.4584
+1944,"Assembly symbols 9, features 200, CNN l2",EthanolLevel,0.458
+1945,"Our Model symbols 9, features 200, CNN l2",FaceAll,0.8033136094674556
+1946,"Assembly symbols 9, features 200, CNN l2",FaceAll,0.8118343195266272
+1947,"Our Model symbols 9, features 200, CNN l2",FaceFour,0.890909090909091
+1948,"Assembly symbols 9, features 200, CNN l2",FaceFour,0.9431818181818182
+1949,"Our Model symbols 9, features 200, CNN l2",FacesUCR,0.6637073170731708
+1950,"Assembly symbols 9, features 200, CNN l2",FacesUCR,0.7112195121951219
+1951,"Our Model symbols 9, features 200, CNN l2",FiftyWords,0.5850549450549452
+1952,"Assembly symbols 9, features 200, CNN l2",FiftyWords,0.6307692307692307
+1953,"Our Model symbols 9, features 200, CNN l2",Fish,0.8902857142857142
+1954,"Assembly symbols 9, features 200, CNN l2",Fish,0.9257142857142857
+1955,"Our Model symbols 9, features 200, CNN l2",FordA,0.9975757575757574
+1956,"Assembly symbols 9, features 200, CNN l2",FordA,0.9977272727272727
+1957,"Our Model symbols 9, features 200, CNN l2",FordB,0.8014814814814815
+1958,"Assembly symbols 9, features 200, CNN l2",FordB,0.8111111111111111
+1959,"Our Model symbols 9, features 200, CNN l2",FreezerRegularTrain,0.9884210526315791
+1960,"Assembly symbols 9, features 200, CNN l2",FreezerRegularTrain,0.9926315789473684
+1961,"Our Model symbols 9, features 200, CNN l2",FreezerSmallTrain,0.7196491228070176
+1962,"Assembly symbols 9, features 200, CNN l2",FreezerSmallTrain,0.8305263157894737
+1963,"Our Model symbols 9, features 200, CNN l2",GunPoint,0.9559999999999998
+1964,"Assembly symbols 9, features 200, CNN l2",GunPoint,0.98
+1965,"Our Model symbols 9, features 200, CNN l2",GunPointAgeSpan,0.9835443037974683
+1966,"Assembly symbols 9, features 200, CNN l2",GunPointAgeSpan,0.9968354430379747
+1967,"Our Model symbols 9, features 200, CNN l2",GunPointMaleVersusFemale,1.0
+1968,"Assembly symbols 9, features 200, CNN l2",GunPointMaleVersusFemale,1.0
+1969,"Our Model symbols 9, features 200, CNN l2",GunPointOldVersusYoung,1.0
+1970,"Assembly symbols 9, features 200, CNN l2",GunPointOldVersusYoung,1.0
+1971,"Our Model symbols 9, features 200, CNN l2",Ham,0.7466666666666667
+1972,"Assembly symbols 9, features 200, CNN l2",Ham,0.7428571428571429
+1973,"Our Model symbols 9, features 200, CNN l2",HandOutlines,0.894054054054054
+1974,"Assembly symbols 9, features 200, CNN l2",HandOutlines,0.9
+1975,"Our Model symbols 9, features 200, CNN l2",Haptics,0.39285714285714285
+1976,"Assembly symbols 9, features 200, CNN l2",Haptics,0.4642857142857143
+1977,"Our Model symbols 9, features 200, CNN l2",Herring,0.60625
+1978,"Assembly symbols 9, features 200, CNN l2",Herring,0.59375
+1979,"Our Model symbols 9, features 200, CNN l2",HouseTwenty,0.9478991596638655
+1980,"Assembly symbols 9, features 200, CNN l2",HouseTwenty,0.957983193277311
+1981,"Our Model symbols 9, features 200, CNN l2",InlineSkate,0.44290909090909086
+1982,"Assembly symbols 9, features 200, CNN l2",InlineSkate,0.4781818181818182
+1983,"Our Model symbols 9, features 200, CNN l2",InsectEPGRegularTrain,0.9975903614457831
+1984,"Assembly symbols 9, features 200, CNN l2",InsectEPGRegularTrain,0.9959839357429718
+1985,"Our Model symbols 9, features 200, CNN l2",InsectEPGSmallTrain,0.9943775100401606
+1986,"Assembly symbols 9, features 200, CNN l2",InsectEPGSmallTrain,1.0
+1987,"Our Model symbols 9, features 200, CNN l2",InsectWingbeatSound,0.6374747474747474
+1988,"Assembly symbols 9, features 200, CNN l2",InsectWingbeatSound,0.6691919191919192
+1989,"Our Model symbols 9, features 200, CNN l2",ItalyPowerDemand,0.9422740524781341
+1990,"Assembly symbols 9, features 200, CNN l2",ItalyPowerDemand,0.9504373177842566
+1991,"Our Model symbols 9, features 200, CNN l2",LargeKitchenAppliances,0.8032
+1992,"Assembly symbols 9, features 200, CNN l2",LargeKitchenAppliances,0.8346666666666667
+1993,"Our Model symbols 9, features 200, CNN l2",Lightning2,0.6262295081967213
+1994,"Assembly symbols 9, features 200, CNN l2",Lightning2,0.7377049180327869
+1995,"Our Model symbols 9, features 200, CNN l2",Lightning7,0.7013698630136986
+1996,"Assembly symbols 9, features 200, CNN l2",Lightning7,0.7397260273972602
+1997,"Our Model symbols 9, features 200, CNN l2",Mallat,0.9269936034115138
+1998,"Assembly symbols 9, features 200, CNN l2",Mallat,0.9360341151385928
+1999,"Our Model symbols 9, features 200, CNN l2",Meat,0.9266666666666665
+2000,"Assembly symbols 9, features 200, CNN l2",Meat,0.9166666666666666
+2001,"Our Model symbols 9, features 200, CNN l2",MedicalImages,0.7644736842105263
+2002,"Assembly symbols 9, features 200, CNN l2",MedicalImages,0.781578947368421
+2003,"Our Model symbols 9, features 200, CNN l2",MiddlePhalanxOutlineCorrect,0.7924398625429554
+2004,"Assembly symbols 9, features 200, CNN l2",MiddlePhalanxOutlineCorrect,0.8144329896907216
+2005,"Our Model symbols 9, features 200, CNN l2",MiddlePhalanxOutlineAgeGroup,0.5662337662337662
+2006,"Assembly symbols 9, features 200, CNN l2",MiddlePhalanxOutlineAgeGroup,0.5454545454545454
+2007,"Our Model symbols 9, features 200, CNN l2",MiddlePhalanxTW,0.5714285714285714
+2008,"Assembly symbols 9, features 200, CNN l2",MiddlePhalanxTW,0.5909090909090909
+2009,"Our Model symbols 9, features 200, CNN l2",MixedShapesRegularTrain,0.9167835051546392
+2010,"Assembly symbols 9, features 200, CNN l2",MixedShapesRegularTrain,0.934020618556701
+2011,"Our Model symbols 9, features 200, CNN l2",MixedShapesSmallTrain,0.8531958762886598
+2012,"Assembly symbols 9, features 200, CNN l2",MixedShapesSmallTrain,0.8894845360824742
+2013,"Our Model symbols 9, features 200, CNN l2",MoteStrain,0.8012779552715654
+2014,"Assembly symbols 9, features 200, CNN l2",MoteStrain,0.895367412140575
+2015,"Our Model symbols 9, features 200, CNN l2",NonInvasiveFetalECGThorax1,0.8686005089058524
+2016,"Assembly symbols 9, features 200, CNN l2",NonInvasiveFetalECGThorax1,0.8956743002544529
+2017,"Our Model symbols 9, features 200, CNN l2",NonInvasiveFetalECGThorax2,0.8573027989821883
+2018,"Assembly symbols 9, features 200, CNN l2",NonInvasiveFetalECGThorax2,0.8865139949109415
+2019,"Our Model symbols 9, features 200, CNN l2",OliveOil,0.8333333333333334
+2020,"Assembly symbols 9, features 200, CNN l2",OliveOil,0.8666666666666667
+2021,"Our Model symbols 9, features 200, CNN l2",OSULeaf,0.9264462809917354
+2022,"Assembly symbols 9, features 200, CNN l2",OSULeaf,0.9462809917355371
+2023,"Our Model symbols 9, features 200, CNN l2",PhalangesOutlinesCorrect,0.7909090909090908
+2024,"Assembly symbols 9, features 200, CNN l2",PhalangesOutlinesCorrect,0.8041958041958042
+2025,"Our Model symbols 9, features 200, CNN l2",Phoneme,0.340084388185654
+2026,"Assembly symbols 9, features 200, CNN l2",Phoneme,0.3771097046413502
+2027,"Our Model symbols 9, features 200, CNN l2",PigAirwayPressure,0.18269230769230765
+2028,"Assembly symbols 9, features 200, CNN l2",PigAirwayPressure,0.18269230769230768
+2029,"Our Model symbols 9, features 200, CNN l2",PigArtPressure,0.510576923076923
+2030,"Assembly symbols 9, features 200, CNN l2",PigArtPressure,0.5144230769230769
+2031,"Our Model symbols 9, features 200, CNN l2",PigCVP,0.3317307692307693
+2032,"Assembly symbols 9, features 200, CNN l2",PigCVP,0.3701923076923077
+2033,"Our Model symbols 9, features 200, CNN l2",Plane,0.9847619047619048
+2034,"Assembly symbols 9, features 200, CNN l2",Plane,1.0
+2035,"Our Model symbols 9, features 200, CNN l2",PowerCons,0.9733333333333333
+2036,"Assembly symbols 9, features 200, CNN l2",PowerCons,0.9777777777777777
+2037,"Our Model symbols 9, features 200, CNN l2",ProximalPhalanxOutlineCorrect,0.8701030927835053
+2038,"Assembly symbols 9, features 200, CNN l2",ProximalPhalanxOutlineCorrect,0.872852233676976
+2039,"Our Model symbols 9, features 200, CNN l2",ProximalPhalanxOutlineAgeGroup,0.8429268292682928
+2040,"Assembly symbols 9, features 200, CNN l2",ProximalPhalanxOutlineAgeGroup,0.8634146341463415
+2041,"Our Model symbols 9, features 200, CNN l2",ProximalPhalanxTW,0.7853658536585366
+2042,"Assembly symbols 9, features 200, CNN l2",ProximalPhalanxTW,0.8
+2043,"Our Model symbols 9, features 200, CNN l2",RefrigerationDevices,0.5562666666666667
+2044,"Assembly symbols 9, features 200, CNN l2",RefrigerationDevices,0.568
+2045,"Our Model symbols 9, features 200, CNN l2",Rock,0.52
+2046,"Assembly symbols 9, features 200, CNN l2",Rock,0.5
+2047,"Our Model symbols 9, features 200, CNN l2",ScreenType,0.5541333333333334
+2048,"Assembly symbols 9, features 200, CNN l2",ScreenType,0.5813333333333334
+2049,"Our Model symbols 9, features 200, CNN l2",SemgHandGenderCh2,0.9199999999999999
+2050,"Assembly symbols 9, features 200, CNN l2",SemgHandGenderCh2,0.9416666666666667
+2051,"Our Model symbols 9, features 200, CNN l2",SemgHandMovementCh2,0.6328888888888888
+2052,"Assembly symbols 9, features 200, CNN l2",SemgHandMovementCh2,0.6955555555555556
+2053,"Our Model symbols 9, features 200, CNN l2",SemgHandSubjectCh2,0.9066666666666666
+2054,"Assembly symbols 9, features 200, CNN l2",SemgHandSubjectCh2,0.92
+2055,"Our Model symbols 9, features 200, CNN l2",ShapeletSim,0.9811111111111112
+2056,"Assembly symbols 9, features 200, CNN l2",ShapeletSim,0.9833333333333333
+2057,"Our Model symbols 9, features 200, CNN l2",ShapesAll,0.8463333333333333
+2058,"Assembly symbols 9, features 200, CNN l2",ShapesAll,0.8766666666666667
+2059,"Our Model symbols 9, features 200, CNN l2",SmallKitchenAppliances,0.8181333333333333
+2060,"Assembly symbols 9, features 200, CNN l2",SmallKitchenAppliances,0.8293333333333334
+2061,"Our Model symbols 9, features 200, CNN l2",SmoothSubspace,0.9720000000000001
+2062,"Assembly symbols 9, features 200, CNN l2",SmoothSubspace,0.9866666666666667
+2063,"Our Model symbols 9, features 200, CNN l2",SonyAIBORobotSurface1,0.8885191347753743
+2064,"Assembly symbols 9, features 200, CNN l2",SonyAIBORobotSurface1,0.8968386023294509
+2065,"Our Model symbols 9, features 200, CNN l2",SonyAIBORobotSurface2,0.9057712486883526
+2066,"Assembly symbols 9, features 200, CNN l2",SonyAIBORobotSurface2,0.9475341028331584
+2067,"Our Model symbols 9, features 200, CNN l2",StarLightCurves,0.9622389509470617
+2068,"Assembly symbols 9, features 200, CNN l2",StarLightCurves,0.9660029140359397
+2069,"Our Model symbols 9, features 200, CNN l2",Strawberry,0.9643243243243245
+2070,"Assembly symbols 9, features 200, CNN l2",Strawberry,0.9675675675675676
+2071,"Our Model symbols 9, features 200, CNN l2",SwedishLeaf,0.95296
+2072,"Assembly symbols 9, features 200, CNN l2",SwedishLeaf,0.9616
+2073,"Our Model symbols 9, features 200, CNN l2",Symbols,0.8960804020100502
+2074,"Assembly symbols 9, features 200, CNN l2",Symbols,0.9487437185929648
+2075,"Our Model symbols 9, features 200, CNN l2",SyntheticControl,0.9886666666666667
+2076,"Assembly symbols 9, features 200, CNN l2",SyntheticControl,0.99
+2077,"Our Model symbols 9, features 200, CNN l2",ToeSegmentation1,0.7649122807017543
+2078,"Assembly symbols 9, features 200, CNN l2",ToeSegmentation1,0.8859649122807017
+2079,"Our Model symbols 9, features 200, CNN l2",ToeSegmentation2,0.8692307692307691
+2080,"Assembly symbols 9, features 200, CNN l2",ToeSegmentation2,0.8692307692307693
+2081,"Our Model symbols 9, features 200, CNN l2",Trace,1.0
+2082,"Assembly symbols 9, features 200, CNN l2",Trace,1.0
+2083,"Our Model symbols 9, features 200, CNN l2",TwoLeadECG,0.9306409130816506
+2084,"Assembly symbols 9, features 200, CNN l2",TwoLeadECG,0.9490781387181738
+2085,"Our Model symbols 9, features 200, CNN l2",TwoPatterns,0.9835499999999999
+2086,"Assembly symbols 9, features 200, CNN l2",TwoPatterns,0.989
+2087,"Our Model symbols 9, features 200, CNN l2",UMD,0.9444444444444444
+2088,"Assembly symbols 9, features 200, CNN l2",UMD,0.9930555555555556
+2089,"Our Model symbols 9, features 200, CNN l2",UWaveGestureLibraryAll,0.911892797319933
+2090,"Assembly symbols 9, features 200, CNN l2",UWaveGestureLibraryAll,0.9316024567280848
+2091,"Our Model symbols 9, features 200, CNN l2",UWaveGestureLibraryX,0.7926856504745953
+2092,"Assembly symbols 9, features 200, CNN l2",UWaveGestureLibraryX,0.8179787828029034
+2093,"Our Model symbols 9, features 200, CNN l2",UWaveGestureLibraryY,0.5972082635399218
+2094,"Assembly symbols 9, features 200, CNN l2",UWaveGestureLibraryY,0.6331658291457286
+2095,"Our Model symbols 9, features 200, CNN l2",UWaveGestureLibraryZ,0.7161362367392518
+2096,"Assembly symbols 9, features 200, CNN l2",UWaveGestureLibraryZ,0.7367392518146287
+2097,"Our Model symbols 9, features 200, CNN l2",Wafer,0.9999675535366646
+2098,"Assembly symbols 9, features 200, CNN l2",Wafer,1.0
+2099,"Our Model symbols 9, features 200, CNN l2",Wine,0.6111111111111112
+2100,"Assembly symbols 9, features 200, CNN l2",Wine,0.6666666666666666
+2101,"Our Model symbols 9, features 200, CNN l2",WordSynonyms,0.5902821316614419
+2102,"Assembly symbols 9, features 200, CNN l2",WordSynonyms,0.6285266457680251
+2103,"Our Model symbols 9, features 200, CNN l2",Worms,0.7974025974025974
+2104,"Assembly symbols 9, features 200, CNN l2",Worms,0.8441558441558441
+2105,"Our Model symbols 9, features 200, CNN l2",WormsTwoClass,0.7324675324675325
+2106,"Assembly symbols 9, features 200, CNN l2",WormsTwoClass,0.8051948051948052
+2107,"Our Model symbols 9, features 200, CNN l2",Yoga,0.9127333333333334
+2108,"Assembly symbols 9, features 200, CNN l2",Yoga,0.9283333333333333
+2109,Full Assembly,ACSF1,0.82
+2110,H-InceptionTime,ACSF1,0.94
+2111,Full Assembly,Adiac,0.8235294117647058
+2112,H-InceptionTime,Adiac,0.843989769820972
+2113,Full Assembly,ArrowHead,0.8285714285714286
+2114,H-InceptionTime,ArrowHead,0.891428571428571
+2115,Full Assembly,Beef,0.8
+2116,H-InceptionTime,Beef,0.7
+2117,Full Assembly,BeetleFly,0.95
+2118,H-InceptionTime,BeetleFly,0.75
+2119,Full Assembly,BirdChicken,0.9
+2120,H-InceptionTime,BirdChicken,0.95
+2121,Full Assembly,BME,1.0
+2122,H-InceptionTime,BME,0.993333333333333
+2123,Full Assembly,Car,0.85
+2124,H-InceptionTime,Car,0.9
+2125,Full Assembly,CBF,0.9966666666666667
+2126,H-InceptionTime,CBF,0.997777777777778
+2127,Full Assembly,Chinatown,0.9766763848396501
+2128,H-InceptionTime,Chinatown,0.979591836734694
+2129,Full Assembly,ChlorineConcentration,0.7114583333333333
+2130,H-InceptionTime,ChlorineConcentration,0.882552083333333
+2131,Full Assembly,CinCECGTorso,0.9797101449275363
+2132,H-InceptionTime,CinCECGTorso,0.844202898550725
+2133,Full Assembly,Coffee,1.0
+2134,H-InceptionTime,Coffee,1.0
+2135,Full Assembly,Computers,0.796
+2136,H-InceptionTime,Computers,0.812
+2137,Full Assembly,CricketX,0.7256410256410256
+2138,H-InceptionTime,CricketX,0.853846153846154
+2139,Full Assembly,CricketY,0.6897435897435897
+2140,H-InceptionTime,CricketY,0.851282051282051
+2141,Full Assembly,CricketZ,0.7128205128205128
+2142,H-InceptionTime,CricketZ,0.853846153846154
+2143,Full Assembly,DiatomSizeReduction,0.9444444444444444
+2144,H-InceptionTime,DiatomSizeReduction,0.947712418300653
+2145,Full Assembly,DistalPhalanxOutlineCorrect,0.7681159420289855
+2146,H-InceptionTime,DistalPhalanxOutlineCorrect,0.797101449275362
+2147,Full Assembly,DistalPhalanxOutlineAgeGroup,0.7410071942446043
+2148,H-InceptionTime,DistalPhalanxOutlineAgeGroup,0.741007194244604
+2149,Full Assembly,DistalPhalanxTW,0.6546762589928058
+2150,H-InceptionTime,DistalPhalanxTW,0.654676258992806
+2151,Full Assembly,Earthquakes,0.7482014388489209
+2152,H-InceptionTime,Earthquakes,0.726618705035971
+2153,Full Assembly,ECG200,0.86
+2154,H-InceptionTime,ECG200,0.9
+2155,Full Assembly,ECG5000,0.9437777777777778
+2156,H-InceptionTime,ECG5000,0.939333333333333
+2157,Full Assembly,ECGFiveDays,0.8432055749128919
+2158,H-InceptionTime,ECGFiveDays,1.0
+2159,Full Assembly,ElectricDevices,0.7756451822072364
+2160,H-InceptionTime,ElectricDevices,0.714044870963559
+2161,Full Assembly,EOGHorizontalSignal,0.5662983425414365
+2162,H-InceptionTime,EOGHorizontalSignal,0.621546961325967
+2163,Full Assembly,EOGVerticalSignal,0.5027624309392266
+2164,H-InceptionTime,EOGVerticalSignal,0.466850828729282
+2165,Full Assembly,EthanolLevel,0.478
+2166,H-InceptionTime,EthanolLevel,0.788
+2167,Full Assembly,FaceAll,0.7905325443786982
+2168,H-InceptionTime,FaceAll,0.818343195266272
+2169,Full Assembly,FaceFour,0.9090909090909091
+2170,H-InceptionTime,FaceFour,0.954545454545455
+2171,Full Assembly,FacesUCR,0.715609756097561
+2172,H-InceptionTime,FacesUCR,0.96780487804878
+2173,Full Assembly,FiftyWords,0.6241758241758242
+2174,H-InceptionTime,FiftyWords,0.848351648351648
+2175,Full Assembly,Fish,0.9257142857142857
+2176,H-InceptionTime,Fish,0.982857142857143
+2177,Full Assembly,FordA,0.996969696969697
+2178,H-InceptionTime,FordA,0.961363636363636
+2179,Full Assembly,FordB,0.808641975308642
+2180,H-InceptionTime,FordB,0.853086419753086
+2181,Full Assembly,FreezerRegularTrain,0.9926315789473684
+2182,H-InceptionTime,FreezerRegularTrain,0.99719298245614
+2183,Full Assembly,FreezerSmallTrain,0.8192982456140351
+2184,H-InceptionTime,FreezerSmallTrain,0.822456140350877
+2185,Full Assembly,GunPoint,0.9666666666666667
+2186,H-InceptionTime,GunPoint,1.0
+2187,Full Assembly,GunPointAgeSpan,0.9968354430379747
+2188,H-InceptionTime,GunPointAgeSpan,0.996835443037975
+2189,Full Assembly,GunPointMaleVersusFemale,1.0
+2190,H-InceptionTime,GunPointMaleVersusFemale,1.0
+2191,Full Assembly,GunPointOldVersusYoung,1.0
+2192,H-InceptionTime,GunPointOldVersusYoung,0.977777777777778
+2193,Full Assembly,Ham,0.7619047619047619
+2194,H-InceptionTime,Ham,0.704761904761905
+2195,Full Assembly,HandOutlines,0.9
+2196,H-InceptionTime,HandOutlines,0.954054054054054
+2197,Full Assembly,Haptics,0.4772727272727273
+2198,H-InceptionTime,Haptics,0.568181818181818
+2199,Full Assembly,Herring,0.640625
+2200,H-InceptionTime,Herring,0.71875
+2201,Full Assembly,HouseTwenty,0.9663865546218487
+2202,H-InceptionTime,HouseTwenty,0.974789915966386
+2203,Full Assembly,InlineSkate,0.4672727272727273
+2204,H-InceptionTime,InlineSkate,0.525454545454546
+2205,Full Assembly,InsectEPGRegularTrain,1.0
+2206,H-InceptionTime,InsectEPGRegularTrain,1.0
+2207,Full Assembly,InsectEPGSmallTrain,1.0
+2208,H-InceptionTime,InsectEPGSmallTrain,0.91566265060241
+2209,Full Assembly,InsectWingbeatSound,0.6606060606060606
+2210,H-InceptionTime,InsectWingbeatSound,0.644444444444444
+2211,Full Assembly,ItalyPowerDemand,0.9514091350826045
+2212,H-InceptionTime,ItalyPowerDemand,0.968901846452867
+2213,Full Assembly,LargeKitchenAppliances,0.8266666666666667
+2214,H-InceptionTime,LargeKitchenAppliances,0.896
+2215,Full Assembly,Lightning2,0.7213114754098361
+2216,H-InceptionTime,Lightning2,0.80327868852459
+2217,Full Assembly,Lightning7,0.7123287671232876
+2218,H-InceptionTime,Lightning7,0.849315068493151
+2219,Full Assembly,Mallat,0.9398720682302771
+2220,H-InceptionTime,Mallat,0.964179104477612
+2221,Full Assembly,Meat,0.9333333333333333
+2222,H-InceptionTime,Meat,0.95
+2223,Full Assembly,MedicalImages,0.7789473684210526
+2224,H-InceptionTime,MedicalImages,0.801315789473684
+2225,Full Assembly,MiddlePhalanxOutlineCorrect,0.7731958762886598
+2226,H-InceptionTime,MiddlePhalanxOutlineCorrect,0.838487972508591
+2227,Full Assembly,MiddlePhalanxOutlineAgeGroup,0.5974025974025974
+2228,H-InceptionTime,MiddlePhalanxOutlineAgeGroup,0.519480519480519
+2229,Full Assembly,MiddlePhalanxTW,0.5974025974025974
+2230,H-InceptionTime,MiddlePhalanxTW,0.512987012987013
+2231,Full Assembly,MixedShapesRegularTrain,0.928659793814433
+2232,H-InceptionTime,MixedShapesRegularTrain,0.976494845360825
+2233,Full Assembly,MixedShapesSmallTrain,0.8907216494845361
+2234,H-InceptionTime,MixedShapesSmallTrain,0.921649484536082
+2235,Full Assembly,MoteStrain,0.9273162939297125
+2236,H-InceptionTime,MoteStrain,0.88258785942492
+2237,Full Assembly,NonInvasiveFetalECGThorax1,0.9043256997455471
+2238,H-InceptionTime,NonInvasiveFetalECGThorax1,0.960814249363868
+2239,Full Assembly,NonInvasiveFetalECGThorax2,0.8905852417302799
+2240,H-InceptionTime,NonInvasiveFetalECGThorax2,0.966921119592875
+2241,Full Assembly,OliveOil,0.9
+2242,H-InceptionTime,OliveOil,0.766666666666667
+2243,Full Assembly,OSULeaf,0.9421487603305785
+2244,H-InceptionTime,OSULeaf,0.950413223140496
+2245,Full Assembly,PhalangesOutlinesCorrect,0.7948717948717948
+2246,H-InceptionTime,PhalangesOutlinesCorrect,0.842657342657343
+2247,Full Assembly,Phoneme,0.3850210970464135
+2248,H-InceptionTime,Phoneme,0.338080168776371
+2249,Full Assembly,PigAirwayPressure,0.1778846153846154
+2250,H-InceptionTime,PigAirwayPressure,0.567307692307692
+2251,Full Assembly,PigArtPressure,0.5625
+2252,H-InceptionTime,PigArtPressure,0.995192307692308
+2253,Full Assembly,PigCVP,0.38461538461538464
+2254,H-InceptionTime,PigCVP,0.966346153846154
+2255,Full Assembly,Plane,1.0
+2256,H-InceptionTime,Plane,1.0
+2257,Full Assembly,PowerCons,0.9833333333333333
+2258,H-InceptionTime,PowerCons,0.938888888888889
+2259,Full Assembly,ProximalPhalanxOutlineCorrect,0.8694158075601375
+2260,H-InceptionTime,ProximalPhalanxOutlineCorrect,0.924398625429553
+2261,Full Assembly,ProximalPhalanxOutlineAgeGroup,0.8585365853658536
+2262,H-InceptionTime,ProximalPhalanxOutlineAgeGroup,0.839024390243902
+2263,Full Assembly,ProximalPhalanxTW,0.7902439024390244
+2264,H-InceptionTime,ProximalPhalanxTW,0.780487804878049
+2265,Full Assembly,RefrigerationDevices,0.5973333333333334
+2266,H-InceptionTime,RefrigerationDevices,0.52
+2267,Full Assembly,Rock,0.78
+2268,H-InceptionTime,Rock,0.84
+2269,Full Assembly,ScreenType,0.5866666666666667
+2270,H-InceptionTime,ScreenType,0.576
+2271,Full Assembly,SemgHandGenderCh2,0.9366666666666666
+2272,H-InceptionTime,SemgHandGenderCh2,0.823333333333333
+2273,Full Assembly,SemgHandMovementCh2,0.72
+2274,H-InceptionTime,SemgHandMovementCh2,0.531111111111111
+2275,Full Assembly,SemgHandSubjectCh2,0.9155555555555556
+2276,H-InceptionTime,SemgHandSubjectCh2,0.844444444444444
+2277,Full Assembly,ShapeletSim,0.9777777777777777
+2278,H-InceptionTime,ShapeletSim,1.0
+2279,Full Assembly,ShapesAll,0.8766666666666667
+2280,H-InceptionTime,ShapesAll,0.928333333333333
+2281,Full Assembly,SmallKitchenAppliances,0.832
+2282,H-InceptionTime,SmallKitchenAppliances,0.776
+2283,Full Assembly,SmoothSubspace,0.98
+2284,H-InceptionTime,SmoothSubspace,0.973333333333333
+2285,Full Assembly,SonyAIBORobotSurface1,0.9151414309484193
+2286,H-InceptionTime,SonyAIBORobotSurface1,0.848585690515807
+2287,Full Assembly,SonyAIBORobotSurface2,0.938090241343127
+2288,H-InceptionTime,SonyAIBORobotSurface2,0.947534102833158
+2289,Full Assembly,StarLightCurves,0.9681884409907722
+2290,H-InceptionTime,StarLightCurves,0.975594949004371
+2291,Full Assembly,Strawberry,0.9675675675675676
+2292,H-InceptionTime,Strawberry,0.983783783783784
+2293,Full Assembly,SwedishLeaf,0.9488
+2294,H-InceptionTime,SwedishLeaf,0.9728
+2295,Full Assembly,Symbols,0.963819095477387
+2296,H-InceptionTime,Symbols,0.979899497487437
+2297,Full Assembly,SyntheticControl,0.9966666666666667
+2298,H-InceptionTime,SyntheticControl,0.996666666666667
+2299,Full Assembly,ToeSegmentation1,0.8640350877192983
+2300,H-InceptionTime,ToeSegmentation1,0.960526315789473
+2301,Full Assembly,ToeSegmentation2,0.8692307692307693
+2302,H-InceptionTime,ToeSegmentation2,0.930769230769231
+2303,Full Assembly,Trace,1.0
+2304,H-InceptionTime,Trace,1.0
+2305,Full Assembly,TwoLeadECG,0.9622475856014048
+2306,H-InceptionTime,TwoLeadECG,0.997366110623354
+2307,Full Assembly,TwoPatterns,0.989
+2308,H-InceptionTime,TwoPatterns,1.0
+2309,Full Assembly,UMD,0.9930555555555556
+2310,H-InceptionTime,UMD,0.993055555555556
+2311,Full Assembly,UWaveGestureLibraryAll,0.9310441094360692
+2312,H-InceptionTime,UWaveGestureLibraryAll,0.947794528196538
+2313,Full Assembly,UWaveGestureLibraryX,0.8115577889447236
+2314,H-InceptionTime,UWaveGestureLibraryX,0.830820770519263
+2315,Full Assembly,UWaveGestureLibraryY,0.6359575656058069
+2316,H-InceptionTime,UWaveGestureLibraryY,0.782802903405919
+2317,Full Assembly,UWaveGestureLibraryZ,0.7325516471245115
+2318,H-InceptionTime,UWaveGestureLibraryZ,0.785315466219989
+2319,Full Assembly,Wafer,1.0
+2320,H-InceptionTime,Wafer,0.999188838416612
+2321,Full Assembly,Wine,0.7037037037037037
+2322,H-InceptionTime,Wine,0.648148148148148
+2323,Full Assembly,WordSynonyms,0.6003134796238244
+2324,H-InceptionTime,WordSynonyms,0.758620689655172
+2325,Full Assembly,Worms,0.7922077922077922
+2326,H-InceptionTime,Worms,0.831168831168831
+2327,Full Assembly,WormsTwoClass,0.8181818181818182
+2328,H-InceptionTime,WormsTwoClass,0.779220779220779
+2329,Full Assembly,Yoga,0.9223333333333333
+2330,H-InceptionTime,Yoga,0.928

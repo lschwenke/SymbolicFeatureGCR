@@ -1,0 +1,1341 @@
+,classifier_name,dataset_name,accuracy
+0,Attention 1st-Order r.avg.,Adiac,0.6846547314578005
+1,Attention 1st-Order r.avg.,ArrowHead,0.6902857142857143
+2,Attention 1st-Order r.avg.,BME,0.9966666666666666
+3,Attention 1st-Order r.avg.,Beef,0.8533333333333334
+4,Attention 1st-Order r.avg.,CBF,0.9880555555555556
+5,Attention 1st-Order r.avg.,Chinatown,0.9723032069970846
+6,Attention 1st-Order r.avg.,ChlorineConcentration,0.2106640625
+7,Attention 1st-Order r.avg.,Coffee,0.9821428571428572
+8,Attention 1st-Order r.avg.,CricketY,0.4264102564102564
+9,Attention 1st-Order r.avg.,DiatomSizeReduction,0.909640522875817
+10,Attention 1st-Order r.avg.,DistalPhalanxOutlineAgeGroup,0.7082733812949641
+11,Attention 1st-Order r.avg.,DistalPhalanxOutlineCorrect,0.427536231884058
+12,Attention 1st-Order r.avg.,DistalPhalanxTW,0.6550359712230216
+13,Attention 1st-Order r.avg.,ECG200,0.7689999999999999
+14,Attention 1st-Order r.avg.,ECG5000,0.9460999999999999
+15,Attention 1st-Order r.avg.,ECGFiveDays,0.8620209059233449
+16,Attention 1st-Order r.avg.,FaceAll,0.4861538461538462
+17,Attention 1st-Order r.avg.,FaceFour,0.7727272727272727
+18,Attention 1st-Order r.avg.,FacesUCR,0.5823170731707317
+19,Attention 1st-Order r.avg.,FiftyWords,0.3289010989010989
+20,Attention 1st-Order r.avg.,Fish,0.7331428571428571
+21,Attention 1st-Order r.avg.,FreezerRegularTrain,0.6411929824561403
+22,Attention 1st-Order r.avg.,GunPoint,0.913
+23,Attention 1st-Order r.avg.,GunPointAgeSpan,0.652373417721519
+24,Attention 1st-Order r.avg.,GunPointMaleVersusFemale,0.9776898734177215
+25,Attention 1st-Order r.avg.,GunPointOldVersusYoung,1.0
+26,Attention 1st-Order r.avg.,Ham,0.5909523809523809
+27,Attention 1st-Order r.avg.,ItalyPowerDemand,0.9293974732750243
+28,Attention 1st-Order r.avg.,Lightning7,0.7630136986301369
+29,Attention 1st-Order r.avg.,Meat,0.9333333333333333
+30,Attention 1st-Order r.avg.,MedicalImages,0.5581578947368421
+31,Attention 1st-Order r.avg.,MiddlePhalanxOutlineAgeGroup,0.6347402597402598
+32,Attention 1st-Order r.avg.,MiddlePhalanxOutlineCorrect,0.4582474226804124
+33,Attention 1st-Order r.avg.,MiddlePhalanxTW,0.7181818181818183
+34,Attention 1st-Order r.avg.,MoteStrain,0.9101038338658147
+35,Attention 1st-Order r.avg.,OSULeaf,0.6059917355371901
+36,Attention 1st-Order r.avg.,PhalangesOutlinesCorrect,0.3145687645687646
+37,Attention 1st-Order r.avg.,Plane,0.9885714285714287
+38,Attention 1st-Order r.avg.,PowerCons,0.4866666666666667
+39,Attention 1st-Order r.avg.,ProximalPhalanxOutlineAgeGroup,0.8470731707317074
+40,Attention 1st-Order r.avg.,ProximalPhalanxOutlineCorrect,0.4266323024054983
+41,Attention 1st-Order r.avg.,ProximalPhalanxTW,0.7629268292682927
+42,Attention 1st-Order r.avg.,ShapeletSim,0.9888888888888889
+43,Attention 1st-Order r.avg.,SmoothSubspace,0.7953333333333333
+44,Attention 1st-Order r.avg.,SonyAIBORobotSurface2,0.9146904512067157
+45,Attention 1st-Order r.avg.,Strawberry,0.7251351351351351
+46,Attention 1st-Order r.avg.,SwedishLeaf,0.82928
+47,Attention 1st-Order r.avg.,Symbols,0.8839698492462311
+48,Attention 1st-Order r.avg.,SyntheticControl,0.9426666666666667
+49,Attention 1st-Order r.avg.,ToeSegmentation1,0.7103070175438597
+50,Attention 1st-Order r.avg.,ToeSegmentation2,0.9092307692307693
+51,Attention 1st-Order r.avg.,Trace,0.9995
+52,Attention 1st-Order r.avg.,TwoLeadECG,0.870017559262511
+53,Attention 1st-Order r.avg.,TwoPatterns,0.62865
+54,Attention 1st-Order r.avg.,UMD,0.9756944444444445
+55,Attention 1st-Order r.avg.,Wine,0.712037037037037
+56,Attention 1st-Order r.avg.,WordSynonyms,0.4452194357366771
+57,Attention 1st-Order r.avg. (old),ArrowHead,0.8994285714285715
+58,Attention 1st-Order r.avg. (old),BME,0.8119999999999999
+59,Attention 1st-Order r.avg. (old),Beef,0.9733333333333333
+60,Attention 1st-Order r.avg. (old),CBF,0.8108888888888887
+61,Attention 1st-Order r.avg. (old),Chinatown,0.8944606413994171
+62,Attention 1st-Order r.avg. (old),Coffee,0.8714285714285713
+63,Attention 1st-Order r.avg. (old),DiatomSizeReduction,0.9385620915032679
+64,Attention 1st-Order r.avg. (old),DistalPhalanxOutlineAgeGroup,0.7755395683453236
+65,Attention 1st-Order r.avg. (old),DistalPhalanxOutlineCorrect,0.7362318840579712
+66,Attention 1st-Order r.avg. (old),DistalPhalanxTW,0.5611510791366907
+67,Attention 1st-Order r.avg. (old),ECG200,0.8379999999999997
+68,Attention 1st-Order r.avg. (old),ECG5000,0.3789777777777778
+69,Attention 1st-Order r.avg. (old),ECGFiveDays,0.8898954703832752
+70,Attention 1st-Order r.avg. (old),FaceAll,0.2368047337278106
+71,Attention 1st-Order r.avg. (old),FaceFour,0.8886363636363637
+72,Attention 1st-Order r.avg. (old),FacesUCR,0.4818536585365853
+73,Attention 1st-Order r.avg. (old),FreezerRegularTrain,0.9540350877192983
+74,Attention 1st-Order r.avg. (old),GunPoint,0.916
+75,Attention 1st-Order r.avg. (old),GunPointAgeSpan,0.9215189873417723
+76,Attention 1st-Order r.avg. (old),GunPointMaleVersusFemale,0.6822784810126582
+77,Attention 1st-Order r.avg. (old),GunPointOldVersusYoung,0.8139682539682539
+78,Attention 1st-Order r.avg. (old),Ham,0.940952380952381
+79,Attention 1st-Order r.avg. (old),ItalyPowerDemand,0.9026239067055392
+80,Attention 1st-Order r.avg. (old),Lightning7,0.4739726027397259
+81,Attention 1st-Order r.avg. (old),Meat,0.85
+82,Attention 1st-Order r.avg. (old),MedicalImages,0.3621052631578947
+83,Attention 1st-Order r.avg. (old),MiddlePhalanxOutlineAgeGroup,0.5532467532467533
+84,Attention 1st-Order r.avg. (old),MiddlePhalanxOutlineCorrect,0.5360824742268042
+85,Attention 1st-Order r.avg. (old),MiddlePhalanxTW,0.5714285714285714
+86,Attention 1st-Order r.avg. (old),MoteStrain,0.8442492012779553
+87,Attention 1st-Order r.avg. (old),PhalangesOutlinesCorrect,0.7902097902097903
+88,Attention 1st-Order r.avg. (old),Plane,0.9523809523809524
+89,Attention 1st-Order r.avg. (old),PowerCons,0.49222222222222217
+90,Attention 1st-Order r.avg. (old),ProximalPhalanxOutlineAgeGroup,0.3248780487804878
+91,Attention 1st-Order r.avg. (old),ProximalPhalanxOutlineCorrect,0.8109965635738833
+92,Attention 1st-Order r.avg. (old),ProximalPhalanxTW,0.5814634146341463
+93,Attention 1st-Order r.avg. (old),ShapeletSim,0.8333333333333334
+94,Attention 1st-Order r.avg. (old),SmoothSubspace,0.8799999999999999
+95,Attention 1st-Order r.avg. (old),SonyAIBORobotSurface2,0.918572927597062
+96,Attention 1st-Order r.avg. (old),Strawberry,0.5654054054054054
+97,Attention 1st-Order r.avg. (old),SwedishLeaf,0.45280000000000004
+98,Attention 1st-Order r.avg. (old),Symbols,0.8938693467336684
+99,Attention 1st-Order r.avg. (old),SyntheticControl,0.7753333333333335
+100,Attention 1st-Order r.avg. (old),ToeSegmentation1,0.743859649122807
+101,Attention 1st-Order r.avg. (old),ToeSegmentation2,0.5292307692307692
+102,Attention 1st-Order r.avg. (old),Trace,0.908
+103,Attention 1st-Order r.avg. (old),TwoLeadECG,0.8198419666374012
+104,Attention 1st-Order r.avg. (old),TwoPatterns,0.2935
+105,Attention 1st-Order r.avg. (old),UMD,0.8208333333333334
+106,Attention 1st-Order r.avg. (old),Wine,1.0
+107,Attention 2nd-Order r.avg.,Adiac,0.7423273657289002
+108,Attention 2nd-Order r.avg.,ArrowHead,0.774
+109,Attention 2nd-Order r.avg.,BME,0.9959999999999999
+110,Attention 2nd-Order r.avg.,Beef,0.8616666666666667
+111,Attention 2nd-Order r.avg.,CBF,0.9910555555555556
+112,Attention 2nd-Order r.avg.,Chinatown,0.9699708454810496
+113,Attention 2nd-Order r.avg.,ChlorineConcentration,0.6229036458333334
+114,Attention 2nd-Order r.avg.,Coffee,0.9821428571428572
+115,Attention 2nd-Order r.avg.,CricketY,0.6101282051282051
+116,Attention 2nd-Order r.avg.,DiatomSizeReduction,0.9326797385620915
+117,Attention 2nd-Order r.avg.,DistalPhalanxOutlineAgeGroup,0.8762589928057554
+118,Attention 2nd-Order r.avg.,DistalPhalanxOutlineCorrect,0.7018115942028985
+119,Attention 2nd-Order r.avg.,DistalPhalanxTW,0.8125899280575539
+120,Attention 2nd-Order r.avg.,ECG200,0.8885000000000001
+121,Attention 2nd-Order r.avg.,ECG5000,0.9711333333333334
+122,Attention 2nd-Order r.avg.,ECGFiveDays,0.8937282229965157
+123,Attention 2nd-Order r.avg.,FaceAll,0.7139349112426036
+124,Attention 2nd-Order r.avg.,FaceFour,0.8755681818181819
+125,Attention 2nd-Order r.avg.,FacesUCR,0.638609756097561
+126,Attention 2nd-Order r.avg.,FiftyWords,0.5015384615384615
+127,Attention 2nd-Order r.avg.,Fish,0.782
+128,Attention 2nd-Order r.avg.,FreezerRegularTrain,0.9608421052631579
+129,Attention 2nd-Order r.avg.,GunPoint,0.9390000000000001
+130,Attention 2nd-Order r.avg.,GunPointAgeSpan,0.932753164556962
+131,Attention 2nd-Order r.avg.,GunPointMaleVersusFemale,0.9988924050632911
+132,Attention 2nd-Order r.avg.,GunPointOldVersusYoung,1.0
+133,Attention 2nd-Order r.avg.,Ham,0.828095238095238
+134,Attention 2nd-Order r.avg.,ItalyPowerDemand,0.9587463556851312
+135,Attention 2nd-Order r.avg.,Lightning7,0.808904109589041
+136,Attention 2nd-Order r.avg.,Meat,0.9175
+137,Attention 2nd-Order r.avg.,MedicalImages,0.6782894736842106
+138,Attention 2nd-Order r.avg.,MiddlePhalanxOutlineAgeGroup,0.7571428571428571
+139,Attention 2nd-Order r.avg.,MiddlePhalanxOutlineCorrect,0.6391752577319587
+140,Attention 2nd-Order r.avg.,MiddlePhalanxTW,0.8347402597402598
+141,Attention 2nd-Order r.avg.,MoteStrain,0.9172923322683706
+142,Attention 2nd-Order r.avg.,OSULeaf,0.7278925619834711
+143,Attention 2nd-Order r.avg.,PhalangesOutlinesCorrect,0.4191142191142191
+144,Attention 2nd-Order r.avg.,Plane,0.9961904761904762
+145,Attention 2nd-Order r.avg.,PowerCons,0.9647222222222221
+146,Attention 2nd-Order r.avg.,ProximalPhalanxOutlineAgeGroup,0.9565853658536585
+147,Attention 2nd-Order r.avg.,ProximalPhalanxOutlineCorrect,0.7195876288659794
+148,Attention 2nd-Order r.avg.,ProximalPhalanxTW,0.7978048780487804
+149,Attention 2nd-Order r.avg.,ShapeletSim,0.9894444444444445
+150,Attention 2nd-Order r.avg.,SmoothSubspace,0.9563333333333334
+151,Attention 2nd-Order r.avg.,SonyAIBORobotSurface2,0.9068205666316894
+152,Attention 2nd-Order r.avg.,Strawberry,0.9271621621621622
+153,Attention 2nd-Order r.avg.,SwedishLeaf,0.90808
+154,Attention 2nd-Order r.avg.,Symbols,0.8916582914572865
+155,Attention 2nd-Order r.avg.,SyntheticControl,0.9785
+156,Attention 2nd-Order r.avg.,ToeSegmentation1,0.8120614035087719
+157,Attention 2nd-Order r.avg.,ToeSegmentation2,0.9238461538461539
+158,Attention 2nd-Order r.avg.,Trace,1.0
+159,Attention 2nd-Order r.avg.,TwoLeadECG,0.8746268656716418
+160,Attention 2nd-Order r.avg.,TwoPatterns,0.8444375000000001
+161,Attention 2nd-Order r.avg.,UMD,0.9809027777777779
+162,Attention 2nd-Order r.avg.,Wine,0.7777777777777778
+163,Attention 2nd-Order r.avg.,WordSynonyms,0.5814263322884013
+164,Attention 2nd-Order r.avg. (old),ArrowHead,0.9074285714285716
+165,Attention 2nd-Order r.avg. (old),BME,0.7919999999999999
+166,Attention 2nd-Order r.avg. (old),Beef,0.9733333333333333
+167,Attention 2nd-Order r.avg. (old),CBF,0.8464444444444444
+168,Attention 2nd-Order r.avg. (old),Chinatown,0.9037900874635568
+169,Attention 2nd-Order r.avg. (old),Coffee,0.8785714285714284
+170,Attention 2nd-Order r.avg. (old),DiatomSizeReduction,0.937908496732026
+171,Attention 2nd-Order r.avg. (old),DistalPhalanxOutlineAgeGroup,0.8589928057553958
+172,Attention 2nd-Order r.avg. (old),DistalPhalanxOutlineCorrect,0.7565217391304347
+173,Attention 2nd-Order r.avg. (old),DistalPhalanxTW,0.6158273381294964
+174,Attention 2nd-Order r.avg. (old),ECG200,0.918
+175,Attention 2nd-Order r.avg. (old),ECG5000,0.8411555555555555
+176,Attention 2nd-Order r.avg. (old),ECGFiveDays,0.9098722415795587
+177,Attention 2nd-Order r.avg. (old),FaceAll,0.5488757396449705
+178,Attention 2nd-Order r.avg. (old),FaceFour,0.8977272727272728
+179,Attention 2nd-Order r.avg. (old),FacesUCR,0.686829268292683
+180,Attention 2nd-Order r.avg. (old),FreezerRegularTrain,0.9798596491228072
+181,Attention 2nd-Order r.avg. (old),GunPoint,0.936
+182,Attention 2nd-Order r.avg. (old),GunPointAgeSpan,0.9246835443037976
+183,Attention 2nd-Order r.avg. (old),GunPointMaleVersusFemale,0.9272151898734178
+184,Attention 2nd-Order r.avg. (old),GunPointOldVersusYoung,0.928253968253968
+185,Attention 2nd-Order r.avg. (old),Ham,0.940952380952381
+186,Attention 2nd-Order r.avg. (old),ItalyPowerDemand,0.933916423712342
+187,Attention 2nd-Order r.avg. (old),Lightning7,0.5726027397260275
+188,Attention 2nd-Order r.avg. (old),Meat,0.8700000000000001
+189,Attention 2nd-Order r.avg. (old),MedicalImages,0.4034210526315789
+190,Attention 2nd-Order r.avg. (old),MiddlePhalanxOutlineAgeGroup,0.7103896103896105
+191,Attention 2nd-Order r.avg. (old),MiddlePhalanxOutlineCorrect,0.6316151202749142
+192,Attention 2nd-Order r.avg. (old),MiddlePhalanxTW,0.6779220779220779
+193,Attention 2nd-Order r.avg. (old),MoteStrain,0.9012779552715656
+194,Attention 2nd-Order r.avg. (old),PhalangesOutlinesCorrect,0.7930069930069928
+195,Attention 2nd-Order r.avg. (old),Plane,0.958095238095238
+196,Attention 2nd-Order r.avg. (old),PowerCons,0.6833333333333332
+197,Attention 2nd-Order r.avg. (old),ProximalPhalanxOutlineAgeGroup,0.4809756097560975
+198,Attention 2nd-Order r.avg. (old),ProximalPhalanxOutlineCorrect,0.7298969072164949
+199,Attention 2nd-Order r.avg. (old),ProximalPhalanxTW,0.6897560975609757
+200,Attention 2nd-Order r.avg. (old),ShapeletSim,0.8333333333333334
+201,Attention 2nd-Order r.avg. (old),SmoothSubspace,0.9293333333333332
+202,Attention 2nd-Order r.avg. (old),SonyAIBORobotSurface2,0.9200419727177334
+203,Attention 2nd-Order r.avg. (old),Strawberry,0.5421621621621622
+204,Attention 2nd-Order r.avg. (old),SwedishLeaf,0.6931200000000001
+205,Attention 2nd-Order r.avg. (old),Symbols,0.9007035175879397
+206,Attention 2nd-Order r.avg. (old),SyntheticControl,0.9326666666666666
+207,Attention 2nd-Order r.avg. (old),ToeSegmentation1,0.8245614035087719
+208,Attention 2nd-Order r.avg. (old),ToeSegmentation2,0.8323076923076922
+209,Attention 2nd-Order r.avg. (old),Trace,0.964
+210,Attention 2nd-Order r.avg. (old),TwoLeadECG,0.8532045654082528
+211,Attention 2nd-Order r.avg. (old),TwoPatterns,0.5376999999999998
+212,Attention 2nd-Order r.avg. (old),UMD,0.9069444444444444
+213,Attention 2nd-Order r.avg. (old),Wine,1.0
+214,FeaturePermutation 1st-Order r.avg.,Adiac,0.620460358056266
+215,FeaturePermutation 1st-Order r.avg.,ArrowHead,0.7267142857142856
+216,FeaturePermutation 1st-Order r.avg.,BME,0.975
+217,FeaturePermutation 1st-Order r.avg.,Beef,0.8175
+218,FeaturePermutation 1st-Order r.avg.,CBF,0.9571666666666667
+219,FeaturePermutation 1st-Order r.avg.,Chinatown,0.8905247813411079
+220,FeaturePermutation 1st-Order r.avg.,ChlorineConcentration,0.5592838541666667
+221,FeaturePermutation 1st-Order r.avg.,Coffee,0.9339285714285714
+222,FeaturePermutation 1st-Order r.avg.,CricketY,0.5896153846153847
+223,FeaturePermutation 1st-Order r.avg.,DiatomSizeReduction,0.89109477124183
+224,FeaturePermutation 1st-Order r.avg.,DistalPhalanxOutlineAgeGroup,0.55
+225,FeaturePermutation 1st-Order r.avg.,DistalPhalanxOutlineCorrect,0.8379528985507246
+226,FeaturePermutation 1st-Order r.avg.,DistalPhalanxTW,0.6951438848920863
+227,FeaturePermutation 1st-Order r.avg.,ECG200,0.48
+228,FeaturePermutation 1st-Order r.avg.,ECG5000,0.15435555555555555
+229,FeaturePermutation 1st-Order r.avg.,ECGFiveDays,0.8099012775842044
+230,FeaturePermutation 1st-Order r.avg.,FaceAll,0.6703254437869822
+231,FeaturePermutation 1st-Order r.avg.,FaceFour,0.8920454545454546
+232,FeaturePermutation 1st-Order r.avg.,FacesUCR,0.5045365853658537
+233,FeaturePermutation 1st-Order r.avg.,FiftyWords,0.3029120879120879
+234,FeaturePermutation 1st-Order r.avg.,Fish,0.7544285714285714
+235,FeaturePermutation 1st-Order r.avg.,FreezerRegularTrain,0.5347368421052632
+236,FeaturePermutation 1st-Order r.avg.,GunPoint,0.8923333333333334
+237,FeaturePermutation 1st-Order r.avg.,GunPointAgeSpan,0.8811708860759494
+238,FeaturePermutation 1st-Order r.avg.,GunPointMaleVersusFemale,0.9878955696202532
+239,FeaturePermutation 1st-Order r.avg.,GunPointOldVersusYoung,0.9957142857142858
+240,FeaturePermutation 1st-Order r.avg.,Ham,0.8771428571428571
+241,FeaturePermutation 1st-Order r.avg.,ItalyPowerDemand,0.8334791059280855
+242,FeaturePermutation 1st-Order r.avg.,Lightning7,0.7376712328767123
+243,FeaturePermutation 1st-Order r.avg.,Meat,0.8929166666666666
+244,FeaturePermutation 1st-Order r.avg.,MedicalImages,0.3731578947368421
+245,FeaturePermutation 1st-Order r.avg.,MiddlePhalanxOutlineAgeGroup,0.6350649350649351
+246,FeaturePermutation 1st-Order r.avg.,MiddlePhalanxOutlineCorrect,0.8511168384879725
+247,FeaturePermutation 1st-Order r.avg.,MiddlePhalanxTW,0.7454545454545455
+248,FeaturePermutation 1st-Order r.avg.,MoteStrain,0.8927515974440895
+249,FeaturePermutation 1st-Order r.avg.,OSULeaf,0.6464876033057851
+250,FeaturePermutation 1st-Order r.avg.,PhalangesOutlinesCorrect,0.7728729603729604
+251,FeaturePermutation 1st-Order r.avg.,Plane,0.975
+252,FeaturePermutation 1st-Order r.avg.,PowerCons,0.5726388888888889
+253,FeaturePermutation 1st-Order r.avg.,ProximalPhalanxOutlineAgeGroup,0.6001219512195122
+254,FeaturePermutation 1st-Order r.avg.,ProximalPhalanxOutlineCorrect,0.5347079037800687
+255,FeaturePermutation 1st-Order r.avg.,ProximalPhalanxTW,0.7204878048780488
+256,FeaturePermutation 1st-Order r.avg.,ShapeletSim,0.9815277777777778
+257,FeaturePermutation 1st-Order r.avg.,SmoothSubspace,0.943
+258,FeaturePermutation 1st-Order r.avg.,SonyAIBORobotSurface2,0.85598111227702
+259,FeaturePermutation 1st-Order r.avg.,Strawberry,0.6468243243243244
+260,FeaturePermutation 1st-Order r.avg.,SwedishLeaf,0.7228
+261,FeaturePermutation 1st-Order r.avg.,Symbols,0.8768090452261307
+262,FeaturePermutation 1st-Order r.avg.,SyntheticControl,0.9126666666666666
+263,FeaturePermutation 1st-Order r.avg.,ToeSegmentation1,0.8093201754385965
+264,FeaturePermutation 1st-Order r.avg.,ToeSegmentation2,0.8578846153846154
+265,FeaturePermutation 1st-Order r.avg.,Trace,0.9915
+266,FeaturePermutation 1st-Order r.avg.,TwoLeadECG,0.8948858647936787
+267,FeaturePermutation 1st-Order r.avg.,TwoPatterns,0.81608125
+268,FeaturePermutation 1st-Order r.avg.,UMD,0.9520833333333334
+269,FeaturePermutation 1st-Order r.avg.,Wine,0.7981481481481482
+270,FeaturePermutation 1st-Order r.avg.,WordSynonyms,0.4215909090909091
+271,FeaturePermutation 1st-Order r.avg. (old),Adiac,0.39028132992327363
+272,FeaturePermutation 1st-Order r.avg. (old),ArrowHead,0.7108571428571427
+273,FeaturePermutation 1st-Order r.avg. (old),BME,0.7479999999999999
+274,FeaturePermutation 1st-Order r.avg. (old),Beef,0.69
+275,FeaturePermutation 1st-Order r.avg. (old),CBF,0.7911111111111112
+276,FeaturePermutation 1st-Order r.avg. (old),Chinatown,0.8743440233236152
+277,FeaturePermutation 1st-Order r.avg. (old),ChlorineConcentration,0.4656770833333333
+278,FeaturePermutation 1st-Order r.avg. (old),Coffee,0.6250000000000001
+279,FeaturePermutation 1st-Order r.avg. (old),CricketY,0.23589743589743586
+280,FeaturePermutation 1st-Order r.avg. (old),DiatomSizeReduction,0.8401960784313726
+281,FeaturePermutation 1st-Order r.avg. (old),DistalPhalanxOutlineAgeGroup,0.5935251798561151
+282,FeaturePermutation 1st-Order r.avg. (old),DistalPhalanxOutlineCorrect,0.7967391304347826
+283,FeaturePermutation 1st-Order r.avg. (old),DistalPhalanxTW,0.676978417266187
+284,FeaturePermutation 1st-Order r.avg. (old),ECG200,0.605
+285,FeaturePermutation 1st-Order r.avg. (old),ECG5000,0.10419999999999996
+286,FeaturePermutation 1st-Order r.avg. (old),ECGFiveDays,0.6878048780487805
+287,FeaturePermutation 1st-Order r.avg. (old),FaceAll,0.3665680473372781
+288,FeaturePermutation 1st-Order r.avg. (old),FaceFour,0.6761363636363636
+289,FeaturePermutation 1st-Order r.avg. (old),FacesUCR,0.4279512195121951
+290,FeaturePermutation 1st-Order r.avg. (old),FiftyWords,0.12219780219780212
+291,FeaturePermutation 1st-Order r.avg. (old),Fish,0.1497142857142857
+292,FeaturePermutation 1st-Order r.avg. (old),FreezerRegularTrain,0.7446315789473684
+293,FeaturePermutation 1st-Order r.avg. (old),GunPoint,0.734
+294,FeaturePermutation 1st-Order r.avg. (old),GunPointAgeSpan,0.6389240506329114
+295,FeaturePermutation 1st-Order r.avg. (old),GunPointMaleVersusFemale,0.625632911392405
+296,FeaturePermutation 1st-Order r.avg. (old),GunPointOldVersusYoung,0.6844444444444444
+297,FeaturePermutation 1st-Order r.avg. (old),Ham,0.718095238095238
+298,FeaturePermutation 1st-Order r.avg. (old),ItalyPowerDemand,0.8494655004859086
+299,FeaturePermutation 1st-Order r.avg. (old),Lightning7,0.3315068493150685
+300,FeaturePermutation 1st-Order r.avg. (old),Meat,0.7883333333333334
+301,FeaturePermutation 1st-Order r.avg. (old),MedicalImages,0.2384210526315789
+302,FeaturePermutation 1st-Order r.avg. (old),MiddlePhalanxOutlineAgeGroup,0.7785714285714285
+303,FeaturePermutation 1st-Order r.avg. (old),MiddlePhalanxOutlineCorrect,0.8226804123711341
+304,FeaturePermutation 1st-Order r.avg. (old),MiddlePhalanxTW,0.7064935064935064
+305,FeaturePermutation 1st-Order r.avg. (old),MoteStrain,0.8109424920127796
+306,FeaturePermutation 1st-Order r.avg. (old),OSULeaf,0.2801652892561984
+307,FeaturePermutation 1st-Order r.avg. (old),PhalangesOutlinesCorrect,0.8325174825174826
+308,FeaturePermutation 1st-Order r.avg. (old),Plane,0.8552380952380951
+309,FeaturePermutation 1st-Order r.avg. (old),PowerCons,0.7066666666666667
+310,FeaturePermutation 1st-Order r.avg. (old),ProximalPhalanxOutlineAgeGroup,0.8395121951219512
+311,FeaturePermutation 1st-Order r.avg. (old),ProximalPhalanxOutlineCorrect,0.7673539518900343
+312,FeaturePermutation 1st-Order r.avg. (old),ProximalPhalanxTW,0.804878048780488
+313,FeaturePermutation 1st-Order r.avg. (old),ShapeletSim,0.7866666666666666
+314,FeaturePermutation 1st-Order r.avg. (old),SmoothSubspace,0.806
+315,FeaturePermutation 1st-Order r.avg. (old),SonyAIBORobotSurface2,0.8104931794333683
+316,FeaturePermutation 1st-Order r.avg. (old),Strawberry,0.5118918918918919
+317,FeaturePermutation 1st-Order r.avg. (old),SwedishLeaf,0.4407999999999999
+318,FeaturePermutation 1st-Order r.avg. (old),Symbols,0.7801005025125628
+319,FeaturePermutation 1st-Order r.avg. (old),SyntheticControl,0.65
+320,FeaturePermutation 1st-Order r.avg. (old),ToeSegmentation1,0.7276315789473685
+321,FeaturePermutation 1st-Order r.avg. (old),ToeSegmentation2,0.7146153846153847
+322,FeaturePermutation 1st-Order r.avg. (old),Trace,0.815
+323,FeaturePermutation 1st-Order r.avg. (old),TwoLeadECG,0.7673397717295872
+324,FeaturePermutation 1st-Order r.avg. (old),TwoPatterns,0.4208
+325,FeaturePermutation 1st-Order r.avg. (old),UMD,0.7451388888888889
+326,FeaturePermutation 1st-Order r.avg. (old),Wine,0.9444444444444445
+327,FeaturePermutation 1st-Order r.avg. (old),WordSynonyms,0.1282131661442006
+328,FeaturePermutation 2nd-Order r.avg.,Adiac,0.7054347826086956
+329,FeaturePermutation 2nd-Order r.avg.,ArrowHead,0.723
+330,FeaturePermutation 2nd-Order r.avg.,BME,0.9401666666666667
+331,FeaturePermutation 2nd-Order r.avg.,Beef,0.8241666666666667
+332,FeaturePermutation 2nd-Order r.avg.,CBF,0.9163055555555555
+333,FeaturePermutation 2nd-Order r.avg.,Chinatown,0.7723032069970845
+334,FeaturePermutation 2nd-Order r.avg.,ChlorineConcentration,0.59318359375
+335,FeaturePermutation 2nd-Order r.avg.,Coffee,0.8607142857142858
+336,FeaturePermutation 2nd-Order r.avg.,CricketY,0.662051282051282
+337,FeaturePermutation 2nd-Order r.avg.,DiatomSizeReduction,0.8344771241830066
+338,FeaturePermutation 2nd-Order r.avg.,DistalPhalanxOutlineAgeGroup,0.641546762589928
+339,FeaturePermutation 2nd-Order r.avg.,DistalPhalanxOutlineCorrect,0.8409420289855073
+340,FeaturePermutation 2nd-Order r.avg.,DistalPhalanxTW,0.6476618705035971
+341,FeaturePermutation 2nd-Order r.avg.,ECG200,0.65725
+342,FeaturePermutation 2nd-Order r.avg.,ECG5000,0.40023333333333333
+343,FeaturePermutation 2nd-Order r.avg.,ECGFiveDays,0.8521486643437863
+344,FeaturePermutation 2nd-Order r.avg.,FaceAll,0.754215976331361
+345,FeaturePermutation 2nd-Order r.avg.,FaceFour,0.878125
+346,FeaturePermutation 2nd-Order r.avg.,FacesUCR,0.601109756097561
+347,FeaturePermutation 2nd-Order r.avg.,FiftyWords,0.4215934065934066
+348,FeaturePermutation 2nd-Order r.avg.,Fish,0.7878571428571429
+349,FeaturePermutation 2nd-Order r.avg.,FreezerRegularTrain,0.5958070175438597
+350,FeaturePermutation 2nd-Order r.avg.,GunPoint,0.9003333333333333
+351,FeaturePermutation 2nd-Order r.avg.,GunPointAgeSpan,0.8742088607594937
+352,FeaturePermutation 2nd-Order r.avg.,GunPointMaleVersusFemale,0.963132911392405
+353,FeaturePermutation 2nd-Order r.avg.,GunPointOldVersusYoung,0.9323809523809523
+354,FeaturePermutation 2nd-Order r.avg.,Ham,0.8873809523809524
+355,FeaturePermutation 2nd-Order r.avg.,ItalyPowerDemand,0.8239310009718174
+356,FeaturePermutation 2nd-Order r.avg.,Lightning7,0.7770547945205479
+357,FeaturePermutation 2nd-Order r.avg.,Meat,0.8645833333333334
+358,FeaturePermutation 2nd-Order r.avg.,MedicalImages,0.5300328947368421
+359,FeaturePermutation 2nd-Order r.avg.,MiddlePhalanxOutlineAgeGroup,0.7332792207792208
+360,FeaturePermutation 2nd-Order r.avg.,MiddlePhalanxOutlineCorrect,0.8149484536082474
+361,FeaturePermutation 2nd-Order r.avg.,MiddlePhalanxTW,0.7832792207792207
+362,FeaturePermutation 2nd-Order r.avg.,MoteStrain,0.8436701277955272
+363,FeaturePermutation 2nd-Order r.avg.,OSULeaf,0.7052685950413223
+364,FeaturePermutation 2nd-Order r.avg.,PhalangesOutlinesCorrect,0.7501165501165501
+365,FeaturePermutation 2nd-Order r.avg.,Plane,0.9878571428571429
+366,FeaturePermutation 2nd-Order r.avg.,PowerCons,0.7941666666666667
+367,FeaturePermutation 2nd-Order r.avg.,ProximalPhalanxOutlineAgeGroup,0.6462195121951219
+368,FeaturePermutation 2nd-Order r.avg.,ProximalPhalanxOutlineCorrect,0.6050687285223367
+369,FeaturePermutation 2nd-Order r.avg.,ProximalPhalanxTW,0.6797560975609755
+370,FeaturePermutation 2nd-Order r.avg.,ShapeletSim,0.9730555555555556
+371,FeaturePermutation 2nd-Order r.avg.,SmoothSubspace,0.9366666666666666
+372,FeaturePermutation 2nd-Order r.avg.,SonyAIBORobotSurface2,0.8560073452256034
+373,FeaturePermutation 2nd-Order r.avg.,Strawberry,0.532972972972973
+374,FeaturePermutation 2nd-Order r.avg.,SwedishLeaf,0.81716
+375,FeaturePermutation 2nd-Order r.avg.,Symbols,0.8859045226130653
+376,FeaturePermutation 2nd-Order r.avg.,SyntheticControl,0.9506666666666667
+377,FeaturePermutation 2nd-Order r.avg.,ToeSegmentation1,0.8072368421052631
+378,FeaturePermutation 2nd-Order r.avg.,ToeSegmentation2,0.8842307692307692
+379,FeaturePermutation 2nd-Order r.avg.,Trace,0.99525
+380,FeaturePermutation 2nd-Order r.avg.,TwoLeadECG,0.8174495171202809
+381,FeaturePermutation 2nd-Order r.avg.,TwoPatterns,0.75525
+382,FeaturePermutation 2nd-Order r.avg.,UMD,0.928125
+383,FeaturePermutation 2nd-Order r.avg.,Wine,0.8240740740740741
+384,FeaturePermutation 2nd-Order r.avg.,WordSynonyms,0.5748432601880877
+385,FeaturePermutation 2nd-Order r.avg. (old),Adiac,0.4337595907928389
+386,FeaturePermutation 2nd-Order r.avg. (old),ArrowHead,0.7497142857142856
+387,FeaturePermutation 2nd-Order r.avg. (old),BME,0.7586666666666667
+388,FeaturePermutation 2nd-Order r.avg. (old),Beef,0.7433333333333333
+389,FeaturePermutation 2nd-Order r.avg. (old),CBF,0.8288888888888889
+390,FeaturePermutation 2nd-Order r.avg. (old),Chinatown,0.8950437317784257
+391,FeaturePermutation 2nd-Order r.avg. (old),ChlorineConcentration,0.57765625
+392,FeaturePermutation 2nd-Order r.avg. (old),Coffee,0.6535714285714286
+393,FeaturePermutation 2nd-Order r.avg. (old),CricketY,0.4138461538461538
+394,FeaturePermutation 2nd-Order r.avg. (old),DiatomSizeReduction,0.8777777777777779
+395,FeaturePermutation 2nd-Order r.avg. (old),DistalPhalanxOutlineAgeGroup,0.6503597122302159
+396,FeaturePermutation 2nd-Order r.avg. (old),DistalPhalanxOutlineCorrect,0.7876811594202899
+397,FeaturePermutation 2nd-Order r.avg. (old),DistalPhalanxTW,0.727338129496403
+398,FeaturePermutation 2nd-Order r.avg. (old),ECG200,0.7000000000000001
+399,FeaturePermutation 2nd-Order r.avg. (old),ECG5000,0.08291111111111109
+400,FeaturePermutation 2nd-Order r.avg. (old),ECGFiveDays,0.7337979094076653
+401,FeaturePermutation 2nd-Order r.avg. (old),FaceAll,0.4491715976331361
+402,FeaturePermutation 2nd-Order r.avg. (old),FaceFour,0.7681818181818181
+403,FeaturePermutation 2nd-Order r.avg. (old),FacesUCR,0.5700000000000001
+404,FeaturePermutation 2nd-Order r.avg. (old),FiftyWords,0.2751648351648351
+405,FeaturePermutation 2nd-Order r.avg. (old),Fish,0.1931428571428571
+406,FeaturePermutation 2nd-Order r.avg. (old),FreezerRegularTrain,0.7225964912280703
+407,FeaturePermutation 2nd-Order r.avg. (old),GunPoint,0.7833333333333333
+408,FeaturePermutation 2nd-Order r.avg. (old),GunPointAgeSpan,0.7205696202531646
+409,FeaturePermutation 2nd-Order r.avg. (old),GunPointMaleVersusFemale,0.6680379746835442
+410,FeaturePermutation 2nd-Order r.avg. (old),GunPointOldVersusYoung,0.7139682539682539
+411,FeaturePermutation 2nd-Order r.avg. (old),Ham,0.7295238095238096
+412,FeaturePermutation 2nd-Order r.avg. (old),ItalyPowerDemand,0.876287657920311
+413,FeaturePermutation 2nd-Order r.avg. (old),Lightning7,0.3493150684931507
+414,FeaturePermutation 2nd-Order r.avg. (old),Meat,0.7883333333333334
+415,FeaturePermutation 2nd-Order r.avg. (old),MedicalImages,0.31171052631578944
+416,FeaturePermutation 2nd-Order r.avg. (old),MiddlePhalanxOutlineAgeGroup,0.7831168831168832
+417,FeaturePermutation 2nd-Order r.avg. (old),MiddlePhalanxOutlineCorrect,0.8257731958762888
+418,FeaturePermutation 2nd-Order r.avg. (old),MiddlePhalanxTW,0.7246753246753247
+419,FeaturePermutation 2nd-Order r.avg. (old),MoteStrain,0.8378594249201279
+420,FeaturePermutation 2nd-Order r.avg. (old),OSULeaf,0.5297520661157025
+421,FeaturePermutation 2nd-Order r.avg. (old),PhalangesOutlinesCorrect,0.8317016317016317
+422,FeaturePermutation 2nd-Order r.avg. (old),Plane,0.9247619047619048
+423,FeaturePermutation 2nd-Order r.avg. (old),PowerCons,0.7583333333333333
+424,FeaturePermutation 2nd-Order r.avg. (old),ProximalPhalanxOutlineAgeGroup,0.8390243902439024
+425,FeaturePermutation 2nd-Order r.avg. (old),ProximalPhalanxOutlineCorrect,0.7302405498281788
+426,FeaturePermutation 2nd-Order r.avg. (old),ProximalPhalanxTW,0.8014634146341463
+427,FeaturePermutation 2nd-Order r.avg. (old),ShapeletSim,0.7911111111111112
+428,FeaturePermutation 2nd-Order r.avg. (old),SmoothSubspace,0.8113333333333334
+429,FeaturePermutation 2nd-Order r.avg. (old),SonyAIBORobotSurface2,0.829485834207765
+430,FeaturePermutation 2nd-Order r.avg. (old),Strawberry,0.4862162162162162
+431,FeaturePermutation 2nd-Order r.avg. (old),SwedishLeaf,0.5345599999999999
+432,FeaturePermutation 2nd-Order r.avg. (old),Symbols,0.8095477386934674
+433,FeaturePermutation 2nd-Order r.avg. (old),SyntheticControl,0.7006666666666667
+434,FeaturePermutation 2nd-Order r.avg. (old),ToeSegmentation1,0.7763157894736844
+435,FeaturePermutation 2nd-Order r.avg. (old),ToeSegmentation2,0.7453846153846153
+436,FeaturePermutation 2nd-Order r.avg. (old),Trace,0.815
+437,FeaturePermutation 2nd-Order r.avg. (old),TwoLeadECG,0.8119402985074626
+438,FeaturePermutation 2nd-Order r.avg. (old),TwoPatterns,0.43802499999999994
+439,FeaturePermutation 2nd-Order r.avg. (old),UMD,0.8166666666666668
+440,FeaturePermutation 2nd-Order r.avg. (old),Wine,0.9444444444444445
+441,FeaturePermutation 2nd-Order r.avg. (old),WordSynonyms,0.2777429467084639
+442,IntegratedGradients 1st-Order r.avg.,Adiac,0.6863810741687979
+443,IntegratedGradients 1st-Order r.avg.,ArrowHead,0.7748571428571428
+444,IntegratedGradients 1st-Order r.avg.,BME,0.9921666666666666
+445,IntegratedGradients 1st-Order r.avg.,Beef,0.8658333333333333
+446,IntegratedGradients 1st-Order r.avg.,CBF,0.9928055555555555
+447,IntegratedGradients 1st-Order r.avg.,Chinatown,0.9808309037900875
+448,IntegratedGradients 1st-Order r.avg.,ChlorineConcentration,0.46607421875
+449,IntegratedGradients 1st-Order r.avg.,Coffee,0.9910714285714286
+450,IntegratedGradients 1st-Order r.avg.,CricketY,0.6419871794871794
+451,IntegratedGradients 1st-Order r.avg.,DiatomSizeReduction,0.959313725490196
+452,IntegratedGradients 1st-Order r.avg.,DistalPhalanxOutlineAgeGroup,0.7552158273381295
+453,IntegratedGradients 1st-Order r.avg.,DistalPhalanxOutlineCorrect,0.8751811594202898
+454,IntegratedGradients 1st-Order r.avg.,DistalPhalanxTW,0.6512589928057554
+455,IntegratedGradients 1st-Order r.avg.,ECG200,0.775
+456,IntegratedGradients 1st-Order r.avg.,ECG5000,0.8945111111111111
+457,IntegratedGradients 1st-Order r.avg.,ECGFiveDays,0.8381242740998838
+458,IntegratedGradients 1st-Order r.avg.,FaceAll,0.7423520710059172
+459,IntegratedGradients 1st-Order r.avg.,FaceFour,0.91875
+460,IntegratedGradients 1st-Order r.avg.,FacesUCR,0.6893292682926829
+461,IntegratedGradients 1st-Order r.avg.,FiftyWords,0.36549450549450546
+462,IntegratedGradients 1st-Order r.avg.,Fish,0.8214285714285714
+463,IntegratedGradients 1st-Order r.avg.,FreezerRegularTrain,0.7380614035087719
+464,IntegratedGradients 1st-Order r.avg.,GunPoint,0.9511666666666667
+465,IntegratedGradients 1st-Order r.avg.,GunPointAgeSpan,0.9527689873417722
+466,IntegratedGradients 1st-Order r.avg.,GunPointMaleVersusFemale,0.9944620253164558
+467,IntegratedGradients 1st-Order r.avg.,GunPointOldVersusYoung,1.0
+468,IntegratedGradients 1st-Order r.avg.,Ham,0.9085714285714286
+469,IntegratedGradients 1st-Order r.avg.,ItalyPowerDemand,0.9604227405247814
+470,IntegratedGradients 1st-Order r.avg.,Lightning7,0.8243150684931506
+471,IntegratedGradients 1st-Order r.avg.,Meat,0.9125
+472,IntegratedGradients 1st-Order r.avg.,MedicalImages,0.4955921052631579
+473,IntegratedGradients 1st-Order r.avg.,MiddlePhalanxOutlineAgeGroup,0.6746753246753247
+474,IntegratedGradients 1st-Order r.avg.,MiddlePhalanxOutlineCorrect,0.8458762886597938
+475,IntegratedGradients 1st-Order r.avg.,MiddlePhalanxTW,0.7482142857142857
+476,IntegratedGradients 1st-Order r.avg.,MoteStrain,0.921964856230032
+477,IntegratedGradients 1st-Order r.avg.,OSULeaf,0.7707644628099174
+478,IntegratedGradients 1st-Order r.avg.,PhalangesOutlinesCorrect,0.7794871794871795
+479,IntegratedGradients 1st-Order r.avg.,Plane,0.9885714285714287
+480,IntegratedGradients 1st-Order r.avg.,PowerCons,0.9648611111111112
+481,IntegratedGradients 1st-Order r.avg.,ProximalPhalanxOutlineAgeGroup,0.8956097560975609
+482,IntegratedGradients 1st-Order r.avg.,ProximalPhalanxOutlineCorrect,0.6985395189003436
+483,IntegratedGradients 1st-Order r.avg.,ProximalPhalanxTW,0.7841463414634147
+484,IntegratedGradients 1st-Order r.avg.,ShapeletSim,0.9884722222222222
+485,IntegratedGradients 1st-Order r.avg.,SmoothSubspace,0.9653333333333334
+486,IntegratedGradients 1st-Order r.avg.,SonyAIBORobotSurface2,0.9212486883525708
+487,IntegratedGradients 1st-Order r.avg.,Strawberry,0.8403378378378379
+488,IntegratedGradients 1st-Order r.avg.,SwedishLeaf,0.87052
+489,IntegratedGradients 1st-Order r.avg.,Symbols,0.8654773869346734
+490,IntegratedGradients 1st-Order r.avg.,SyntheticControl,0.9413333333333334
+491,IntegratedGradients 1st-Order r.avg.,ToeSegmentation1,0.8559210526315789
+492,IntegratedGradients 1st-Order r.avg.,ToeSegmentation2,0.9353846153846154
+493,IntegratedGradients 1st-Order r.avg.,Trace,0.997
+494,IntegratedGradients 1st-Order r.avg.,TwoLeadECG,0.9263827919227392
+495,IntegratedGradients 1st-Order r.avg.,TwoPatterns,0.89824375
+496,IntegratedGradients 1st-Order r.avg.,UMD,0.9831597222222223
+497,IntegratedGradients 1st-Order r.avg.,Wine,0.8439814814814814
+498,IntegratedGradients 1st-Order r.avg.,WordSynonyms,0.48926332288401253
+499,IntegratedGradients 1st-Order r.avg. (old),Adiac,0.290537084398977
+500,IntegratedGradients 1st-Order r.avg. (old),ArrowHead,0.5857142857142857
+501,IntegratedGradients 1st-Order r.avg. (old),BME,0.742
+502,IntegratedGradients 1st-Order r.avg. (old),Beef,0.6333333333333334
+503,IntegratedGradients 1st-Order r.avg. (old),CBF,0.7191111111111111
+504,IntegratedGradients 1st-Order r.avg. (old),Chinatown,0.8419825072886299
+505,IntegratedGradients 1st-Order r.avg. (old),ChlorineConcentration,0.4238020833333333
+506,IntegratedGradients 1st-Order r.avg. (old),Coffee,0.5499999999999999
+507,IntegratedGradients 1st-Order r.avg. (old),CricketY,0.2507692307692307
+508,IntegratedGradients 1st-Order r.avg. (old),DiatomSizeReduction,0.7764705882352941
+509,IntegratedGradients 1st-Order r.avg. (old),DistalPhalanxOutlineAgeGroup,0.6877697841726619
+510,IntegratedGradients 1st-Order r.avg. (old),DistalPhalanxOutlineCorrect,0.7224637681159422
+511,IntegratedGradients 1st-Order r.avg. (old),DistalPhalanxTW,0.5482014388489208
+512,IntegratedGradients 1st-Order r.avg. (old),ECG200,0.641
+513,IntegratedGradients 1st-Order r.avg. (old),ECG5000,0.5380666666666667
+514,IntegratedGradients 1st-Order r.avg. (old),ECGFiveDays,0.6260162601626017
+515,IntegratedGradients 1st-Order r.avg. (old),FaceAll,0.45609467455621305
+516,IntegratedGradients 1st-Order r.avg. (old),FaceFour,0.6397727272727273
+517,IntegratedGradients 1st-Order r.avg. (old),FacesUCR,0.4677073170731707
+518,IntegratedGradients 1st-Order r.avg. (old),FiftyWords,0.2769230769230769
+519,IntegratedGradients 1st-Order r.avg. (old),Fish,0.2628571428571428
+520,IntegratedGradients 1st-Order r.avg. (old),FreezerRegularTrain,0.663438596491228
+521,IntegratedGradients 1st-Order r.avg. (old),GunPoint,0.6773333333333333
+522,IntegratedGradients 1st-Order r.avg. (old),GunPointAgeSpan,0.7601265822784811
+523,IntegratedGradients 1st-Order r.avg. (old),GunPointMaleVersusFemale,0.7636075949367088
+524,IntegratedGradients 1st-Order r.avg. (old),GunPointOldVersusYoung,0.5907936507936508
+525,IntegratedGradients 1st-Order r.avg. (old),Ham,0.6247619047619047
+526,IntegratedGradients 1st-Order r.avg. (old),ItalyPowerDemand,0.8587949465500486
+527,IntegratedGradients 1st-Order r.avg. (old),Lightning7,0.2013698630136986
+528,IntegratedGradients 1st-Order r.avg. (old),Meat,0.5466666666666666
+529,IntegratedGradients 1st-Order r.avg. (old),MedicalImages,0.24355263157894727
+530,IntegratedGradients 1st-Order r.avg. (old),MiddlePhalanxOutlineAgeGroup,0.6766233766233767
+531,IntegratedGradients 1st-Order r.avg. (old),MiddlePhalanxOutlineCorrect,0.7192439862542955
+532,IntegratedGradients 1st-Order r.avg. (old),MiddlePhalanxTW,0.4461038961038961
+533,IntegratedGradients 1st-Order r.avg. (old),MoteStrain,0.8048722044728435
+534,IntegratedGradients 1st-Order r.avg. (old),OSULeaf,0.4553719008264463
+535,IntegratedGradients 1st-Order r.avg. (old),PhalangesOutlinesCorrect,0.6508158508158508
+536,IntegratedGradients 1st-Order r.avg. (old),Plane,0.7533333333333333
+537,IntegratedGradients 1st-Order r.avg. (old),PowerCons,0.7522222222222221
+538,IntegratedGradients 1st-Order r.avg. (old),ProximalPhalanxOutlineAgeGroup,0.6170731707317073
+539,IntegratedGradients 1st-Order r.avg. (old),ProximalPhalanxOutlineCorrect,0.8666666666666666
+540,IntegratedGradients 1st-Order r.avg. (old),ProximalPhalanxTW,0.40829268292682924
+541,IntegratedGradients 1st-Order r.avg. (old),ShapeletSim,0.8005555555555556
+542,IntegratedGradients 1st-Order r.avg. (old),SmoothSubspace,0.8346666666666667
+543,IntegratedGradients 1st-Order r.avg. (old),SonyAIBORobotSurface2,0.8565582371458551
+544,IntegratedGradients 1st-Order r.avg. (old),Strawberry,0.5264864864864865
+545,IntegratedGradients 1st-Order r.avg. (old),SwedishLeaf,0.4465599999999999
+546,IntegratedGradients 1st-Order r.avg. (old),Symbols,0.8301507537688443
+547,IntegratedGradients 1st-Order r.avg. (old),SyntheticControl,0.6623333333333333
+548,IntegratedGradients 1st-Order r.avg. (old),ToeSegmentation1,0.7131578947368421
+549,IntegratedGradients 1st-Order r.avg. (old),ToeSegmentation2,0.6976923076923077
+550,IntegratedGradients 1st-Order r.avg. (old),Trace,0.83
+551,IntegratedGradients 1st-Order r.avg. (old),TwoLeadECG,0.6973661106233537
+552,IntegratedGradients 1st-Order r.avg. (old),TwoPatterns,0.46657499999999996
+553,IntegratedGradients 1st-Order r.avg. (old),UMD,0.807638888888889
+554,IntegratedGradients 1st-Order r.avg. (old),Wine,0.8740740740740741
+555,IntegratedGradients 1st-Order r.avg. (old),WordSynonyms,0.21379310344827576
+556,IntegratedGradients 2nd-Order r.avg.,Adiac,0.7535166240409208
+557,IntegratedGradients 2nd-Order r.avg.,ArrowHead,0.8148571428571428
+558,IntegratedGradients 2nd-Order r.avg.,BME,0.9951666666666666
+559,IntegratedGradients 2nd-Order r.avg.,Beef,0.8841666666666667
+560,IntegratedGradients 2nd-Order r.avg.,CBF,0.9935
+561,IntegratedGradients 2nd-Order r.avg.,Chinatown,0.9800291545189505
+562,IntegratedGradients 2nd-Order r.avg.,ChlorineConcentration,0.57833984375
+563,IntegratedGradients 2nd-Order r.avg.,Coffee,0.9910714285714286
+564,IntegratedGradients 2nd-Order r.avg.,CricketY,0.6791666666666667
+565,IntegratedGradients 2nd-Order r.avg.,DiatomSizeReduction,0.9548202614379084
+566,IntegratedGradients 2nd-Order r.avg.,DistalPhalanxOutlineAgeGroup,0.8766187050359712
+567,IntegratedGradients 2nd-Order r.avg.,DistalPhalanxOutlineCorrect,0.8641304347826088
+568,IntegratedGradients 2nd-Order r.avg.,DistalPhalanxTW,0.7766187050359712
+569,IntegratedGradients 2nd-Order r.avg.,ECG200,0.8545
+570,IntegratedGradients 2nd-Order r.avg.,ECG5000,0.9632499999999999
+571,IntegratedGradients 2nd-Order r.avg.,ECGFiveDays,0.8511614401858304
+572,IntegratedGradients 2nd-Order r.avg.,FaceAll,0.7739644970414201
+573,IntegratedGradients 2nd-Order r.avg.,FaceFour,0.9198863636363637
+574,IntegratedGradients 2nd-Order r.avg.,FacesUCR,0.7157682926829269
+575,IntegratedGradients 2nd-Order r.avg.,FiftyWords,0.545989010989011
+576,IntegratedGradients 2nd-Order r.avg.,Fish,0.8109999999999999
+577,IntegratedGradients 2nd-Order r.avg.,FreezerRegularTrain,0.7581228070175439
+578,IntegratedGradients 2nd-Order r.avg.,GunPoint,0.9601666666666667
+579,IntegratedGradients 2nd-Order r.avg.,GunPointAgeSpan,0.9574367088607595
+580,IntegratedGradients 2nd-Order r.avg.,GunPointMaleVersusFemale,0.9984968354430379
+581,IntegratedGradients 2nd-Order r.avg.,GunPointOldVersusYoung,1.0
+582,IntegratedGradients 2nd-Order r.avg.,Ham,0.9071428571428573
+583,IntegratedGradients 2nd-Order r.avg.,ItalyPowerDemand,0.9593537414965987
+584,IntegratedGradients 2nd-Order r.avg.,Lightning7,0.835958904109589
+585,IntegratedGradients 2nd-Order r.avg.,Meat,0.9233333333333333
+586,IntegratedGradients 2nd-Order r.avg.,MedicalImages,0.6555263157894737
+587,IntegratedGradients 2nd-Order r.avg.,MiddlePhalanxOutlineAgeGroup,0.787012987012987
+588,IntegratedGradients 2nd-Order r.avg.,MiddlePhalanxOutlineCorrect,0.7700171821305842
+589,IntegratedGradients 2nd-Order r.avg.,MiddlePhalanxTW,0.8167207792207792
+590,IntegratedGradients 2nd-Order r.avg.,MoteStrain,0.9156749201277955
+591,IntegratedGradients 2nd-Order r.avg.,OSULeaf,0.8267561983471075
+592,IntegratedGradients 2nd-Order r.avg.,PhalangesOutlinesCorrect,0.7348484848484849
+593,IntegratedGradients 2nd-Order r.avg.,Plane,0.9907142857142858
+594,IntegratedGradients 2nd-Order r.avg.,PowerCons,0.9790277777777778
+595,IntegratedGradients 2nd-Order r.avg.,ProximalPhalanxOutlineAgeGroup,0.9553658536585365
+596,IntegratedGradients 2nd-Order r.avg.,ProximalPhalanxOutlineCorrect,0.7411512027491409
+597,IntegratedGradients 2nd-Order r.avg.,ProximalPhalanxTW,0.8281707317073171
+598,IntegratedGradients 2nd-Order r.avg.,ShapeletSim,0.9894444444444445
+599,IntegratedGradients 2nd-Order r.avg.,SmoothSubspace,0.968
+600,IntegratedGradients 2nd-Order r.avg.,SonyAIBORobotSurface2,0.915713536201469
+601,IntegratedGradients 2nd-Order r.avg.,Strawberry,0.7656081081081081
+602,IntegratedGradients 2nd-Order r.avg.,SwedishLeaf,0.91392
+603,IntegratedGradients 2nd-Order r.avg.,Symbols,0.8956030150753769
+604,IntegratedGradients 2nd-Order r.avg.,SyntheticControl,0.9698333333333333
+605,IntegratedGradients 2nd-Order r.avg.,ToeSegmentation1,0.8692982456140351
+606,IntegratedGradients 2nd-Order r.avg.,ToeSegmentation2,0.938076923076923
+607,IntegratedGradients 2nd-Order r.avg.,Trace,0.99925
+608,IntegratedGradients 2nd-Order r.avg.,TwoLeadECG,0.9237050043898156
+609,IntegratedGradients 2nd-Order r.avg.,TwoPatterns,0.89049375
+610,IntegratedGradients 2nd-Order r.avg.,UMD,0.9826388888888888
+611,IntegratedGradients 2nd-Order r.avg.,Wine,0.8430555555555556
+612,IntegratedGradients 2nd-Order r.avg.,WordSynonyms,0.634717868338558
+613,IntegratedGradients 2nd-Order r.avg. (old),Adiac,0.3601023017902813
+614,IntegratedGradients 2nd-Order r.avg. (old),ArrowHead,0.7022857142857143
+615,IntegratedGradients 2nd-Order r.avg. (old),BME,0.7593333333333333
+616,IntegratedGradients 2nd-Order r.avg. (old),Beef,0.6999999999999998
+617,IntegratedGradients 2nd-Order r.avg. (old),CBF,0.8144444444444444
+618,IntegratedGradients 2nd-Order r.avg. (old),Chinatown,0.8743440233236152
+619,IntegratedGradients 2nd-Order r.avg. (old),ChlorineConcentration,0.46145833333333347
+620,IntegratedGradients 2nd-Order r.avg. (old),Coffee,0.5714285714285714
+621,IntegratedGradients 2nd-Order r.avg. (old),CricketY,0.4661538461538461
+622,IntegratedGradients 2nd-Order r.avg. (old),DiatomSizeReduction,0.8529411764705883
+623,IntegratedGradients 2nd-Order r.avg. (old),DistalPhalanxOutlineAgeGroup,0.7309352517985609
+624,IntegratedGradients 2nd-Order r.avg. (old),DistalPhalanxOutlineCorrect,0.6956521739130435
+625,IntegratedGradients 2nd-Order r.avg. (old),DistalPhalanxTW,0.6215827338129496
+626,IntegratedGradients 2nd-Order r.avg. (old),ECG200,0.733
+627,IntegratedGradients 2nd-Order r.avg. (old),ECG5000,0.7043777777777778
+628,IntegratedGradients 2nd-Order r.avg. (old),ECGFiveDays,0.6752613240418118
+629,IntegratedGradients 2nd-Order r.avg. (old),FaceAll,0.5802366863905325
+630,IntegratedGradients 2nd-Order r.avg. (old),FaceFour,0.7431818181818182
+631,IntegratedGradients 2nd-Order r.avg. (old),FacesUCR,0.6090243902439024
+632,IntegratedGradients 2nd-Order r.avg. (old),FiftyWords,0.4848351648351648
+633,IntegratedGradients 2nd-Order r.avg. (old),Fish,0.3302857142857143
+634,IntegratedGradients 2nd-Order r.avg. (old),FreezerRegularTrain,0.6243508771929824
+635,IntegratedGradients 2nd-Order r.avg. (old),GunPoint,0.7373333333333333
+636,IntegratedGradients 2nd-Order r.avg. (old),GunPointAgeSpan,0.819620253164557
+637,IntegratedGradients 2nd-Order r.avg. (old),GunPointMaleVersusFemale,0.665506329113924
+638,IntegratedGradients 2nd-Order r.avg. (old),GunPointOldVersusYoung,0.6704761904761906
+639,IntegratedGradients 2nd-Order r.avg. (old),Ham,0.6476190476190476
+640,IntegratedGradients 2nd-Order r.avg. (old),ItalyPowerDemand,0.8801749271137026
+641,IntegratedGradients 2nd-Order r.avg. (old),Lightning7,0.2506849315068493
+642,IntegratedGradients 2nd-Order r.avg. (old),Meat,0.6000000000000001
+643,IntegratedGradients 2nd-Order r.avg. (old),MedicalImages,0.3523684210526315
+644,IntegratedGradients 2nd-Order r.avg. (old),MiddlePhalanxOutlineAgeGroup,0.7071428571428572
+645,IntegratedGradients 2nd-Order r.avg. (old),MiddlePhalanxOutlineCorrect,0.7587628865979381
+646,IntegratedGradients 2nd-Order r.avg. (old),MiddlePhalanxTW,0.6136363636363636
+647,IntegratedGradients 2nd-Order r.avg. (old),MoteStrain,0.8293130990415335
+648,IntegratedGradients 2nd-Order r.avg. (old),OSULeaf,0.6504132231404959
+649,IntegratedGradients 2nd-Order r.avg. (old),PhalangesOutlinesCorrect,0.6961538461538462
+650,IntegratedGradients 2nd-Order r.avg. (old),Plane,0.8752380952380951
+651,IntegratedGradients 2nd-Order r.avg. (old),PowerCons,0.6699999999999999
+652,IntegratedGradients 2nd-Order r.avg. (old),ProximalPhalanxOutlineAgeGroup,0.6112195121951219
+653,IntegratedGradients 2nd-Order r.avg. (old),ProximalPhalanxOutlineCorrect,0.8429553264604811
+654,IntegratedGradients 2nd-Order r.avg. (old),ProximalPhalanxTW,0.5243902439024389
+655,IntegratedGradients 2nd-Order r.avg. (old),ShapeletSim,0.7977777777777777
+656,IntegratedGradients 2nd-Order r.avg. (old),SmoothSubspace,0.8353333333333333
+657,IntegratedGradients 2nd-Order r.avg. (old),SonyAIBORobotSurface2,0.8830010493179433
+658,IntegratedGradients 2nd-Order r.avg. (old),Strawberry,0.47918918918918924
+659,IntegratedGradients 2nd-Order r.avg. (old),SwedishLeaf,0.54544
+660,IntegratedGradients 2nd-Order r.avg. (old),Symbols,0.855678391959799
+661,IntegratedGradients 2nd-Order r.avg. (old),SyntheticControl,0.8066666666666666
+662,IntegratedGradients 2nd-Order r.avg. (old),ToeSegmentation1,0.7254385964912281
+663,IntegratedGradients 2nd-Order r.avg. (old),ToeSegmentation2,0.7038461538461537
+664,IntegratedGradients 2nd-Order r.avg. (old),Trace,0.8130000000000001
+665,IntegratedGradients 2nd-Order r.avg. (old),TwoLeadECG,0.7932396839332747
+666,IntegratedGradients 2nd-Order r.avg. (old),TwoPatterns,0.48595000000000005
+667,IntegratedGradients 2nd-Order r.avg. (old),UMD,0.8430555555555556
+668,IntegratedGradients 2nd-Order r.avg. (old),Wine,0.8796296296296297
+669,IntegratedGradients 2nd-Order r.avg. (old),WordSynonyms,0.41379310344827597
+670,Random 1st-Order r.avg.,Adiac,0.07078005115089514
+671,Random 1st-Order r.avg.,ArrowHead,0.38357142857142856
+672,Random 1st-Order r.avg.,BME,0.5735
+673,Random 1st-Order r.avg.,Beef,0.4033333333333333
+674,Random 1st-Order r.avg.,CBF,0.5339166666666666
+675,Random 1st-Order r.avg.,Chinatown,0.5562682215743441
+676,Random 1st-Order r.avg.,ChlorineConcentration,0.3820703125
+677,Random 1st-Order r.avg.,Coffee,0.6803571428571429
+678,Random 1st-Order r.avg.,CricketY,0.039230769230769236
+679,Random 1st-Order r.avg.,DiatomSizeReduction,0.802859477124183
+680,Random 1st-Order r.avg.,DistalPhalanxOutlineAgeGroup,0.06906474820143885
+681,Random 1st-Order r.avg.,DistalPhalanxOutlineCorrect,0.3493659420289855
+682,Random 1st-Order r.avg.,DistalPhalanxTW,0.18794964028776978
+683,Random 1st-Order r.avg.,ECG200,0.363
+684,Random 1st-Order r.avg.,ECG5000,0.030044444444444443
+685,Random 1st-Order r.avg.,ECGFiveDays,0.6113821138211382
+686,Random 1st-Order r.avg.,FaceAll,0.0320414201183432
+687,Random 1st-Order r.avg.,FaceFour,0.45795454545454545
+688,Random 1st-Order r.avg.,FacesUCR,0.07153658536585367
+689,Random 1st-Order r.avg.,FiftyWords,0.03741758241758242
+690,Random 1st-Order r.avg.,Fish,0.08128571428571428
+691,Random 1st-Order r.avg.,FreezerRegularTrain,0.24544736842105264
+692,Random 1st-Order r.avg.,GunPoint,0.357
+693,Random 1st-Order r.avg.,GunPointAgeSpan,0.2960443037974684
+694,Random 1st-Order r.avg.,GunPointMaleVersusFemale,0.21424050632911393
+695,Random 1st-Order r.avg.,GunPointOldVersusYoung,0.48730158730158735
+696,Random 1st-Order r.avg.,Ham,0.4007142857142857
+697,Random 1st-Order r.avg.,ItalyPowerDemand,0.26656948493683186
+698,Random 1st-Order r.avg.,Lightning7,0.21335616438356164
+699,Random 1st-Order r.avg.,Meat,0.5962500000000001
+700,Random 1st-Order r.avg.,MedicalImages,0.171875
+701,Random 1st-Order r.avg.,MiddlePhalanxOutlineAgeGroup,0.058116883116883115
+702,Random 1st-Order r.avg.,MiddlePhalanxOutlineCorrect,0.4720790378006873
+703,Random 1st-Order r.avg.,MiddlePhalanxTW,0.05373376623376623
+704,Random 1st-Order r.avg.,MoteStrain,0.5522963258785942
+705,Random 1st-Order r.avg.,OSULeaf,0.07933884297520662
+706,Random 1st-Order r.avg.,PhalangesOutlinesCorrect,0.3588578088578088
+707,Random 1st-Order r.avg.,Plane,0.32619047619047614
+708,Random 1st-Order r.avg.,PowerCons,0.15444444444444444
+709,Random 1st-Order r.avg.,ProximalPhalanxOutlineAgeGroup,0.031341463414634146
+710,Random 1st-Order r.avg.,ProximalPhalanxOutlineCorrect,0.43350515463917527
+711,Random 1st-Order r.avg.,ProximalPhalanxTW,0.08182926829268293
+712,Random 1st-Order r.avg.,ShapeletSim,0.6288888888888889
+713,Random 1st-Order r.avg.,SmoothSubspace,0.14450000000000002
+714,Random 1st-Order r.avg.,SonyAIBORobotSurface2,0.5357030430220356
+715,Random 1st-Order r.avg.,Strawberry,0.35033783783783784
+716,Random 1st-Order r.avg.,SwedishLeaf,0.02756
+717,Random 1st-Order r.avg.,Symbols,0.7189195979899498
+718,Random 1st-Order r.avg.,SyntheticControl,0.08808333333333333
+719,Random 1st-Order r.avg.,ToeSegmentation1,0.4779605263157895
+720,Random 1st-Order r.avg.,ToeSegmentation2,0.5032692307692308
+721,Random 1st-Order r.avg.,Trace,0.4
+722,Random 1st-Order r.avg.,TwoLeadECG,0.5106014047410009
+723,Random 1st-Order r.avg.,TwoPatterns,0.1159625
+724,Random 1st-Order r.avg.,UMD,0.41875
+725,Random 1st-Order r.avg.,Wine,0.47453703703703703
+726,Random 1st-Order r.avg.,WordSynonyms,0.0752742946708464
+727,Random 1st-Order r.avg. (old),Adiac,0.5595907928388746
+728,Random 1st-Order r.avg. (old),ArrowHead,0.7994285714285714
+729,Random 1st-Order r.avg. (old),BME,0.8233333333333333
+730,Random 1st-Order r.avg. (old),Beef,0.8000000000000002
+731,Random 1st-Order r.avg. (old),CBF,0.8210000000000001
+732,Random 1st-Order r.avg. (old),Chinatown,0.8495626822157435
+733,Random 1st-Order r.avg. (old),ChlorineConcentration,0.76171875
+734,Random 1st-Order r.avg. (old),Coffee,0.8214285714285715
+735,Random 1st-Order r.avg. (old),CricketY,0.3271794871794872
+736,Random 1st-Order r.avg. (old),DiatomSizeReduction,0.9062091503267974
+737,Random 1st-Order r.avg. (old),DistalPhalanxOutlineAgeGroup,0.8287769784172663
+738,Random 1st-Order r.avg. (old),DistalPhalanxOutlineCorrect,0.7315217391304348
+739,Random 1st-Order r.avg. (old),DistalPhalanxTW,0.6884892086330935
+740,Random 1st-Order r.avg. (old),ECG200,0.8250000000000001
+741,Random 1st-Order r.avg. (old),ECG5000,0.6126666666666667
+742,Random 1st-Order r.avg. (old),ECGFiveDays,0.8792102206736353
+743,Random 1st-Order r.avg. (old),FaceAll,0.5179289940828402
+744,Random 1st-Order r.avg. (old),FaceFour,0.7374999999999999
+745,Random 1st-Order r.avg. (old),FacesUCR,0.5389756097560976
+746,Random 1st-Order r.avg. (old),FiftyWords,0.4443956043956044
+747,Random 1st-Order r.avg. (old),Fish,0.5474285714285715
+748,Random 1st-Order r.avg. (old),FreezerRegularTrain,0.9549473684210524
+749,Random 1st-Order r.avg. (old),GunPoint,0.8806666666666668
+750,Random 1st-Order r.avg. (old),GunPointAgeSpan,0.9287974683544302
+751,Random 1st-Order r.avg. (old),GunPointMaleVersusFemale,0.7132911392405065
+752,Random 1st-Order r.avg. (old),GunPointOldVersusYoung,0.7685714285714286
+753,Random 1st-Order r.avg. (old),Ham,0.7733333333333333
+754,Random 1st-Order r.avg. (old),ItalyPowerDemand,0.9003887269193392
+755,Random 1st-Order r.avg. (old),Lightning7,0.647945205479452
+756,Random 1st-Order r.avg. (old),Meat,0.8466666666666667
+757,Random 1st-Order r.avg. (old),MedicalImages,0.5490789473684211
+758,Random 1st-Order r.avg. (old),MiddlePhalanxOutlineAgeGroup,0.6850649350649349
+759,Random 1st-Order r.avg. (old),MiddlePhalanxOutlineCorrect,0.7474226804123711
+760,Random 1st-Order r.avg. (old),MiddlePhalanxTW,0.7155844155844155
+761,Random 1st-Order r.avg. (old),MoteStrain,0.80055910543131
+762,Random 1st-Order r.avg. (old),OSULeaf,0.4082644628099173
+763,Random 1st-Order r.avg. (old),PhalangesOutlinesCorrect,0.8037296037296038
+764,Random 1st-Order r.avg. (old),Plane,0.9533333333333333
+765,Random 1st-Order r.avg. (old),PowerCons,0.6766666666666667
+766,Random 1st-Order r.avg. (old),ProximalPhalanxOutlineAgeGroup,0.5014634146341463
+767,Random 1st-Order r.avg. (old),ProximalPhalanxOutlineCorrect,0.7628865979381443
+768,Random 1st-Order r.avg. (old),ProximalPhalanxTW,0.6058536585365853
+769,Random 1st-Order r.avg. (old),ShapeletSim,0.7788888888888889
+770,Random 1st-Order r.avg. (old),SmoothSubspace,0.9113333333333333
+771,Random 1st-Order r.avg. (old),SonyAIBORobotSurface2,0.8540398740818467
+772,Random 1st-Order r.avg. (old),Strawberry,0.7162162162162162
+773,Random 1st-Order r.avg. (old),SwedishLeaf,0.63824
+774,Random 1st-Order r.avg. (old),Symbols,0.8337688442211055
+775,Random 1st-Order r.avg. (old),SyntheticControl,0.6023333333333333
+776,Random 1st-Order r.avg. (old),ToeSegmentation1,0.7166666666666667
+777,Random 1st-Order r.avg. (old),ToeSegmentation2,0.5123076923076922
+778,Random 1st-Order r.avg. (old),Trace,0.9420000000000001
+779,Random 1st-Order r.avg. (old),TwoLeadECG,0.8472344161545217
+780,Random 1st-Order r.avg. (old),TwoPatterns,0.32825
+781,Random 1st-Order r.avg. (old),UMD,0.7875000000000001
+782,Random 1st-Order r.avg. (old),Wine,0.9592592592592593
+783,Random 1st-Order r.avg. (old),WordSynonyms,0.5247648902821316
+784,Random 2nd-Order r.avg.,Adiac,0.08842710997442456
+785,Random 2nd-Order r.avg.,ArrowHead,0.5575714285714286
+786,Random 2nd-Order r.avg.,BME,0.9756666666666667
+787,Random 2nd-Order r.avg.,Beef,0.6491666666666667
+788,Random 2nd-Order r.avg.,CBF,0.6444444444444445
+789,Random 2nd-Order r.avg.,Chinatown,0.9653790087463556
+790,Random 2nd-Order r.avg.,ChlorineConcentration,0.14319661458333333
+791,Random 2nd-Order r.avg.,Coffee,0.9767857142857144
+792,Random 2nd-Order r.avg.,CricketY,0.11224358974358975
+793,Random 2nd-Order r.avg.,DiatomSizeReduction,0.7333333333333333
+794,Random 2nd-Order r.avg.,DistalPhalanxOutlineAgeGroup,0.23992805755395682
+795,Random 2nd-Order r.avg.,DistalPhalanxOutlineCorrect,0.2864130434782609
+796,Random 2nd-Order r.avg.,DistalPhalanxTW,0.23129496402877697
+797,Random 2nd-Order r.avg.,ECG200,0.67875
+798,Random 2nd-Order r.avg.,ECG5000,0.48518333333333336
+799,Random 2nd-Order r.avg.,ECGFiveDays,0.7220383275261324
+800,Random 2nd-Order r.avg.,FaceAll,0.0836242603550296
+801,Random 2nd-Order r.avg.,FaceFour,0.4840909090909091
+802,Random 2nd-Order r.avg.,FacesUCR,0.1538170731707317
+803,Random 2nd-Order r.avg.,FiftyWords,0.14175824175824175
+804,Random 2nd-Order r.avg.,Fish,0.191
+805,Random 2nd-Order r.avg.,FreezerRegularTrain,0.30942982456140355
+806,Random 2nd-Order r.avg.,GunPoint,0.7981666666666667
+807,Random 2nd-Order r.avg.,GunPointAgeSpan,0.40110759493670883
+808,Random 2nd-Order r.avg.,GunPointMaleVersusFemale,0.6382911392405063
+809,Random 2nd-Order r.avg.,GunPointOldVersusYoung,0.9841269841269842
+810,Random 2nd-Order r.avg.,Ham,0.4611904761904762
+811,Random 2nd-Order r.avg.,ItalyPowerDemand,0.7095966958211856
+812,Random 2nd-Order r.avg.,Lightning7,0.28561643835616435
+813,Random 2nd-Order r.avg.,Meat,0.6808333333333333
+814,Random 2nd-Order r.avg.,MedicalImages,0.45210526315789473
+815,Random 2nd-Order r.avg.,MiddlePhalanxOutlineAgeGroup,0.12288961038961038
+816,Random 2nd-Order r.avg.,MiddlePhalanxOutlineCorrect,0.3987113402061856
+817,Random 2nd-Order r.avg.,MiddlePhalanxTW,0.15324675324675324
+818,Random 2nd-Order r.avg.,MoteStrain,0.8444888178913739
+819,Random 2nd-Order r.avg.,OSULeaf,0.21673553719008265
+820,Random 2nd-Order r.avg.,PhalangesOutlinesCorrect,0.3129662004662005
+821,Random 2nd-Order r.avg.,Plane,0.4061904761904762
+822,Random 2nd-Order r.avg.,PowerCons,0.3586111111111111
+823,Random 2nd-Order r.avg.,ProximalPhalanxOutlineAgeGroup,0.14658536585365856
+824,Random 2nd-Order r.avg.,ProximalPhalanxOutlineCorrect,0.2359106529209622
+825,Random 2nd-Order r.avg.,ProximalPhalanxTW,0.09585365853658537
+826,Random 2nd-Order r.avg.,ShapeletSim,0.9786111111111111
+827,Random 2nd-Order r.avg.,SmoothSubspace,0.3021666666666667
+828,Random 2nd-Order r.avg.,SonyAIBORobotSurface2,0.710598111227702
+829,Random 2nd-Order r.avg.,Strawberry,0.40175675675675676
+830,Random 2nd-Order r.avg.,SwedishLeaf,0.12368
+831,Random 2nd-Order r.avg.,Symbols,0.6153517587939699
+832,Random 2nd-Order r.avg.,SyntheticControl,0.29858333333333337
+833,Random 2nd-Order r.avg.,ToeSegmentation1,0.6893640350877193
+834,Random 2nd-Order r.avg.,ToeSegmentation2,0.8565384615384615
+835,Random 2nd-Order r.avg.,Trace,0.6439999999999999
+836,Random 2nd-Order r.avg.,TwoLeadECG,0.8028753292361721
+837,Random 2nd-Order r.avg.,TwoPatterns,0.1228625
+838,Random 2nd-Order r.avg.,UMD,0.884375
+839,Random 2nd-Order r.avg.,Wine,0.674074074074074
+840,Random 2nd-Order r.avg.,WordSynonyms,0.24020376175548588
+841,Random 2nd-Order r.avg. (old),Adiac,0.0352941176470588
+842,Random 2nd-Order r.avg. (old),ArrowHead,0.7720000000000001
+843,Random 2nd-Order r.avg. (old),BME,0.706
+844,Random 2nd-Order r.avg. (old),Beef,0.10333333333333329
+845,Random 2nd-Order r.avg. (old),CBF,0.6404444444444445
+846,Random 2nd-Order r.avg. (old),Chinatown,0.8690962099125366
+847,Random 2nd-Order r.avg. (old),ChlorineConcentration,0.3357291666666666
+848,Random 2nd-Order r.avg. (old),Coffee,0.5892857142857143
+849,Random 2nd-Order r.avg. (old),CricketY,0.0871794871794871
+850,Random 2nd-Order r.avg. (old),DiatomSizeReduction,0.051307189542483596
+851,Random 2nd-Order r.avg. (old),DistalPhalanxOutlineAgeGroup,0.7043165467625899
+852,Random 2nd-Order r.avg. (old),DistalPhalanxOutlineCorrect,0.6851449275362319
+853,Random 2nd-Order r.avg. (old),DistalPhalanxTW,0.5424460431654676
+854,Random 2nd-Order r.avg. (old),ECG200,0.8489999999999999
+855,Random 2nd-Order r.avg. (old),ECG5000,0.6796888888888888
+856,Random 2nd-Order r.avg. (old),ECGFiveDays,0.8574912891986063
+857,Random 2nd-Order r.avg. (old),FaceAll,0.20964497041420116
+858,Random 2nd-Order r.avg. (old),FaceFour,0.4943181818181818
+859,Random 2nd-Order r.avg. (old),FacesUCR,0.18429268292682924
+860,Random 2nd-Order r.avg. (old),FiftyWords,0.1287912087912088
+861,Random 2nd-Order r.avg. (old),Fish,0.1222857142857142
+862,Random 2nd-Order r.avg. (old),FreezerRegularTrain,0.5111578947368421
+863,Random 2nd-Order r.avg. (old),GunPoint,0.7666666666666666
+864,Random 2nd-Order r.avg. (old),GunPointAgeSpan,0.9278481012658228
+865,Random 2nd-Order r.avg. (old),GunPointMaleVersusFemale,0.7784810126582279
+866,Random 2nd-Order r.avg. (old),GunPointOldVersusYoung,0.7606349206349207
+867,Random 2nd-Order r.avg. (old),Ham,0.4238095238095238
+868,Random 2nd-Order r.avg. (old),ItalyPowerDemand,0.8248785228377065
+869,Random 2nd-Order r.avg. (old),Lightning7,0.07260273972602735
+870,Random 2nd-Order r.avg. (old),Meat,0.49499999999999994
+871,Random 2nd-Order r.avg. (old),MedicalImages,0.2686842105263158
+872,Random 2nd-Order r.avg. (old),MiddlePhalanxOutlineAgeGroup,0.6415584415584416
+873,Random 2nd-Order r.avg. (old),MiddlePhalanxOutlineCorrect,0.6852233676975946
+874,Random 2nd-Order r.avg. (old),MiddlePhalanxTW,0.5928571428571429
+875,Random 2nd-Order r.avg. (old),MoteStrain,0.6747603833865816
+876,Random 2nd-Order r.avg. (old),OSULeaf,0.1297520661157025
+877,Random 2nd-Order r.avg. (old),PhalangesOutlinesCorrect,0.7993006993006992
+878,Random 2nd-Order r.avg. (old),Plane,0.9542857142857142
+879,Random 2nd-Order r.avg. (old),PowerCons,0.8883333333333333
+880,Random 2nd-Order r.avg. (old),ProximalPhalanxOutlineAgeGroup,0.4214634146341463
+881,Random 2nd-Order r.avg. (old),ProximalPhalanxOutlineCorrect,0.809278350515464
+882,Random 2nd-Order r.avg. (old),ProximalPhalanxTW,0.6239024390243902
+883,Random 2nd-Order r.avg. (old),ShapeletSim,0.7305555555555556
+884,Random 2nd-Order r.avg. (old),SmoothSubspace,0.9480000000000001
+885,Random 2nd-Order r.avg. (old),SonyAIBORobotSurface2,0.8871983210912907
+886,Random 2nd-Order r.avg. (old),Strawberry,0.4754054054054054
+887,Random 2nd-Order r.avg. (old),SwedishLeaf,0.43984
+888,Random 2nd-Order r.avg. (old),Symbols,0.40663316582914577
+889,Random 2nd-Order r.avg. (old),SyntheticControl,0.9510000000000001
+890,Random 2nd-Order r.avg. (old),ToeSegmentation1,0.6214912280701753
+891,Random 2nd-Order r.avg. (old),ToeSegmentation2,0.6676923076923078
+892,Random 2nd-Order r.avg. (old),Trace,0.5619999999999999
+893,Random 2nd-Order r.avg. (old),TwoLeadECG,0.7236172080772608
+894,Random 2nd-Order r.avg. (old),TwoPatterns,0.3470249999999999
+895,Random 2nd-Order r.avg. (old),UMD,0.8277777777777778
+896,Random 2nd-Order r.avg. (old),Wine,0.9259259259259259
+897,Random 2nd-Order r.avg. (old),WordSynonyms,0.0263322884012539
+898,Rollout 1st-Order r.avg.,Adiac,0.7079283887468031
+899,Rollout 1st-Order r.avg.,ArrowHead,0.6974285714285715
+900,Rollout 1st-Order r.avg.,BME,0.9963333333333333
+901,Rollout 1st-Order r.avg.,Beef,0.8200000000000001
+902,Rollout 1st-Order r.avg.,CBF,0.9841666666666667
+903,Rollout 1st-Order r.avg.,Chinatown,0.9650145772594753
+904,Rollout 1st-Order r.avg.,ChlorineConcentration,0.36319010416666664
+905,Rollout 1st-Order r.avg.,Coffee,0.9785714285714286
+906,Rollout 1st-Order r.avg.,CricketY,0.4806410256410257
+907,Rollout 1st-Order r.avg.,DiatomSizeReduction,0.8985294117647059
+908,Rollout 1st-Order r.avg.,DistalPhalanxOutlineAgeGroup,0.8043165467625899
+909,Rollout 1st-Order r.avg.,DistalPhalanxOutlineCorrect,0.5152173913043478
+910,Rollout 1st-Order r.avg.,DistalPhalanxTW,0.8384892086330935
+911,Rollout 1st-Order r.avg.,ECG200,0.717
+912,Rollout 1st-Order r.avg.,ECG5000,0.9326666666666666
+913,Rollout 1st-Order r.avg.,ECGFiveDays,0.8612659698025552
+914,Rollout 1st-Order r.avg.,FaceAll,0.6563609467455621
+915,Rollout 1st-Order r.avg.,FaceFour,0.7056818181818181
+916,Rollout 1st-Order r.avg.,FacesUCR,0.4558048780487805
+917,Rollout 1st-Order r.avg.,FiftyWords,0.4662637362637363
+918,Rollout 1st-Order r.avg.,Fish,0.6565714285714286
+919,Rollout 1st-Order r.avg.,FreezerRegularTrain,0.6694736842105262
+920,Rollout 1st-Order r.avg.,GunPoint,0.7613333333333334
+921,Rollout 1st-Order r.avg.,GunPointAgeSpan,0.6939873417721519
+922,Rollout 1st-Order r.avg.,GunPointMaleVersusFemale,0.9626582278481013
+923,Rollout 1st-Order r.avg.,GunPointOldVersusYoung,1.0
+924,Rollout 1st-Order r.avg.,Ham,0.5247619047619048
+925,Rollout 1st-Order r.avg.,ItalyPowerDemand,0.826530612244898
+926,Rollout 1st-Order r.avg.,Lightning7,0.7253424657534246
+927,Rollout 1st-Order r.avg.,Meat,0.9358333333333333
+928,Rollout 1st-Order r.avg.,MedicalImages,0.5634210526315789
+929,Rollout 1st-Order r.avg.,MiddlePhalanxOutlineAgeGroup,0.7383116883116883
+930,Rollout 1st-Order r.avg.,MiddlePhalanxOutlineCorrect,0.5116838487972508
+931,Rollout 1st-Order r.avg.,MiddlePhalanxTW,0.7883116883116883
+932,Rollout 1st-Order r.avg.,MoteStrain,0.9087460063897763
+933,Rollout 1st-Order r.avg.,OSULeaf,0.7698347107438016
+934,Rollout 1st-Order r.avg.,PhalangesOutlinesCorrect,0.5263403263403263
+935,Rollout 1st-Order r.avg.,Plane,0.980952380952381
+936,Rollout 1st-Order r.avg.,PowerCons,0.7655555555555555
+937,Rollout 1st-Order r.avg.,ProximalPhalanxOutlineAgeGroup,0.9285365853658536
+938,Rollout 1st-Order r.avg.,ProximalPhalanxOutlineCorrect,0.6419243986254295
+939,Rollout 1st-Order r.avg.,ProximalPhalanxTW,0.8573170731707318
+940,Rollout 1st-Order r.avg.,ShapeletSim,0.9869444444444445
+941,Rollout 1st-Order r.avg.,SmoothSubspace,0.887
+942,Rollout 1st-Order r.avg.,SonyAIBORobotSurface2,0.9119622245540399
+943,Rollout 1st-Order r.avg.,Strawberry,0.6044594594594594
+944,Rollout 1st-Order r.avg.,SwedishLeaf,0.88304
+945,Rollout 1st-Order r.avg.,Symbols,0.8841206030150753
+946,Rollout 1st-Order r.avg.,SyntheticControl,0.98
+947,Rollout 1st-Order r.avg.,ToeSegmentation1,0.6725877192982456
+948,Rollout 1st-Order r.avg.,ToeSegmentation2,0.9026923076923077
+949,Rollout 1st-Order r.avg.,Trace,0.9975
+950,Rollout 1st-Order r.avg.,TwoLeadECG,0.8605794556628621
+951,Rollout 1st-Order r.avg.,TwoPatterns,0.380275
+952,Rollout 1st-Order r.avg.,UMD,0.9701388888888889
+953,Rollout 1st-Order r.avg.,Wine,0.6611111111111111
+954,Rollout 1st-Order r.avg.,WordSynonyms,0.5075235109717868
+955,Rollout 1st-Order r.avg. (old),ArrowHead,0.9005714285714287
+956,Rollout 1st-Order r.avg. (old),BME,0.8933333333333332
+957,Rollout 1st-Order r.avg. (old),Beef,0.98
+958,Rollout 1st-Order r.avg. (old),CBF,0.8306666666666667
+959,Rollout 1st-Order r.avg. (old),Chinatown,0.8623906705539358
+960,Rollout 1st-Order r.avg. (old),Coffee,0.8785714285714287
+961,Rollout 1st-Order r.avg. (old),DiatomSizeReduction,0.9209150326797385
+962,Rollout 1st-Order r.avg. (old),DistalPhalanxOutlineAgeGroup,0.7942446043165466
+963,Rollout 1st-Order r.avg. (old),DistalPhalanxOutlineCorrect,0.5028985507246377
+964,Rollout 1st-Order r.avg. (old),DistalPhalanxTW,0.6834532374100718
+965,Rollout 1st-Order r.avg. (old),ECG200,0.8939999999999998
+966,Rollout 1st-Order r.avg. (old),ECG5000,0.7511555555555556
+967,Rollout 1st-Order r.avg. (old),ECGFiveDays,0.8943089430894308
+968,Rollout 1st-Order r.avg. (old),FaceAll,0.46899408284023664
+969,Rollout 1st-Order r.avg. (old),FaceFour,0.890909090909091
+970,Rollout 1st-Order r.avg. (old),FacesUCR,0.4664390243902439
+971,Rollout 1st-Order r.avg. (old),FreezerRegularTrain,0.9792982456140352
+972,Rollout 1st-Order r.avg. (old),GunPoint,0.912
+973,Rollout 1st-Order r.avg. (old),GunPointAgeSpan,0.8126582278481015
+974,Rollout 1st-Order r.avg. (old),GunPointMaleVersusFemale,0.7822784810126583
+975,Rollout 1st-Order r.avg. (old),GunPointOldVersusYoung,0.7593650793650794
+976,Rollout 1st-Order r.avg. (old),Ham,0.9047619047619048
+977,Rollout 1st-Order r.avg. (old),ItalyPowerDemand,0.8847424684159378
+978,Rollout 1st-Order r.avg. (old),Lightning7,0.5780821917808219
+979,Rollout 1st-Order r.avg. (old),Meat,0.8366666666666666
+980,Rollout 1st-Order r.avg. (old),MedicalImages,0.5978947368421053
+981,Rollout 1st-Order r.avg. (old),MiddlePhalanxOutlineAgeGroup,0.4857142857142856
+982,Rollout 1st-Order r.avg. (old),MiddlePhalanxOutlineCorrect,0.6934707903780067
+983,Rollout 1st-Order r.avg. (old),MiddlePhalanxTW,0.6922077922077922
+984,Rollout 1st-Order r.avg. (old),MoteStrain,0.85
+985,Rollout 1st-Order r.avg. (old),PhalangesOutlinesCorrect,0.675990675990676
+986,Rollout 1st-Order r.avg. (old),Plane,0.918095238095238
+987,Rollout 1st-Order r.avg. (old),PowerCons,0.5188888888888888
+988,Rollout 1st-Order r.avg. (old),ProximalPhalanxOutlineAgeGroup,0.6497560975609756
+989,Rollout 1st-Order r.avg. (old),ProximalPhalanxOutlineCorrect,0.6893470790378006
+990,Rollout 1st-Order r.avg. (old),ProximalPhalanxTW,0.7453658536585367
+991,Rollout 1st-Order r.avg. (old),ShapeletSim,0.8333333333333334
+992,Rollout 1st-Order r.avg. (old),SmoothSubspace,0.9026666666666668
+993,Rollout 1st-Order r.avg. (old),SonyAIBORobotSurface2,0.8921301154249738
+994,Rollout 1st-Order r.avg. (old),Strawberry,0.7778378378378378
+995,Rollout 1st-Order r.avg. (old),SwedishLeaf,0.5231999999999999
+996,Rollout 1st-Order r.avg. (old),Symbols,0.887035175879397
+997,Rollout 1st-Order r.avg. (old),SyntheticControl,0.516
+998,Rollout 1st-Order r.avg. (old),ToeSegmentation1,0.7421052631578947
+999,Rollout 1st-Order r.avg. (old),ToeSegmentation2,0.6738461538461539
+1000,Rollout 1st-Order r.avg. (old),Trace,0.948
+1001,Rollout 1st-Order r.avg. (old),TwoLeadECG,0.812467076382792
+1002,Rollout 1st-Order r.avg. (old),TwoPatterns,0.2545
+1003,Rollout 1st-Order r.avg. (old),UMD,0.7861111111111111
+1004,Rollout 1st-Order r.avg. (old),Wine,1.0
+1005,Rollout 2nd-Order r.avg.,Adiac,0.7070332480818414
+1006,Rollout 2nd-Order r.avg.,ArrowHead,0.7002857142857143
+1007,Rollout 2nd-Order r.avg.,BME,0.9966666666666666
+1008,Rollout 2nd-Order r.avg.,Beef,0.8183333333333334
+1009,Rollout 2nd-Order r.avg.,CBF,0.9848888888888889
+1010,Rollout 2nd-Order r.avg.,Chinatown,0.9658892128279883
+1011,Rollout 2nd-Order r.avg.,ChlorineConcentration,0.36032552083333336
+1012,Rollout 2nd-Order r.avg.,Coffee,0.9785714285714286
+1013,Rollout 2nd-Order r.avg.,CricketY,0.47923076923076924
+1014,Rollout 2nd-Order r.avg.,DiatomSizeReduction,0.8986928104575164
+1015,Rollout 2nd-Order r.avg.,DistalPhalanxOutlineAgeGroup,0.8327338129496402
+1016,Rollout 2nd-Order r.avg.,DistalPhalanxOutlineCorrect,0.5766304347826087
+1017,Rollout 2nd-Order r.avg.,DistalPhalanxTW,0.8348920863309353
+1018,Rollout 2nd-Order r.avg.,ECG200,0.815
+1019,Rollout 2nd-Order r.avg.,ECG5000,0.9320888888888889
+1020,Rollout 2nd-Order r.avg.,ECGFiveDays,0.8578397212543555
+1021,Rollout 2nd-Order r.avg.,FaceAll,0.6368934911242603
+1022,Rollout 2nd-Order r.avg.,FaceFour,0.7051136363636363
+1023,Rollout 2nd-Order r.avg.,FacesUCR,0.4634878048780488
+1024,Rollout 2nd-Order r.avg.,FiftyWords,0.4708791208791209
+1025,Rollout 2nd-Order r.avg.,Fish,0.6537142857142857
+1026,Rollout 2nd-Order r.avg.,FreezerRegularTrain,0.9332105263157895
+1027,Rollout 2nd-Order r.avg.,GunPoint,0.865
+1028,Rollout 2nd-Order r.avg.,GunPointAgeSpan,0.8875
+1029,Rollout 2nd-Order r.avg.,GunPointMaleVersusFemale,0.9965189873417721
+1030,Rollout 2nd-Order r.avg.,GunPointOldVersusYoung,1.0
+1031,Rollout 2nd-Order r.avg.,Ham,0.5933333333333334
+1032,Rollout 2nd-Order r.avg.,ItalyPowerDemand,0.9450923226433431
+1033,Rollout 2nd-Order r.avg.,Lightning7,0.7294520547945205
+1034,Rollout 2nd-Order r.avg.,Meat,0.9349999999999999
+1035,Rollout 2nd-Order r.avg.,MedicalImages,0.5773026315789473
+1036,Rollout 2nd-Order r.avg.,MiddlePhalanxOutlineAgeGroup,0.7233766233766235
+1037,Rollout 2nd-Order r.avg.,MiddlePhalanxOutlineCorrect,0.5201030927835051
+1038,Rollout 2nd-Order r.avg.,MiddlePhalanxTW,0.7967532467532468
+1039,Rollout 2nd-Order r.avg.,MoteStrain,0.9103035143769967
+1040,Rollout 2nd-Order r.avg.,OSULeaf,0.7603305785123967
+1041,Rollout 2nd-Order r.avg.,PhalangesOutlinesCorrect,0.5313519813519814
+1042,Rollout 2nd-Order r.avg.,Plane,0.980952380952381
+1043,Rollout 2nd-Order r.avg.,PowerCons,0.9730555555555556
+1044,Rollout 2nd-Order r.avg.,ProximalPhalanxOutlineAgeGroup,0.9197560975609756
+1045,Rollout 2nd-Order r.avg.,ProximalPhalanxOutlineCorrect,0.5891752577319588
+1046,Rollout 2nd-Order r.avg.,ProximalPhalanxTW,0.8675609756097561
+1047,Rollout 2nd-Order r.avg.,ShapeletSim,0.9872222222222222
+1048,Rollout 2nd-Order r.avg.,SmoothSubspace,0.9603333333333334
+1049,Rollout 2nd-Order r.avg.,SonyAIBORobotSurface2,0.9104931794333684
+1050,Rollout 2nd-Order r.avg.,Strawberry,0.8356756756756756
+1051,Rollout 2nd-Order r.avg.,SwedishLeaf,0.8786399999999999
+1052,Rollout 2nd-Order r.avg.,Symbols,0.8845226130653265
+1053,Rollout 2nd-Order r.avg.,SyntheticControl,0.9768333333333334
+1054,Rollout 2nd-Order r.avg.,ToeSegmentation1,0.7605263157894737
+1055,Rollout 2nd-Order r.avg.,ToeSegmentation2,0.9069230769230769
+1056,Rollout 2nd-Order r.avg.,Trace,0.998
+1057,Rollout 2nd-Order r.avg.,TwoLeadECG,0.8635645302897278
+1058,Rollout 2nd-Order r.avg.,TwoPatterns,0.7431
+1059,Rollout 2nd-Order r.avg.,UMD,0.9694444444444444
+1060,Rollout 2nd-Order r.avg.,Wine,0.7370370370370369
+1061,Rollout 2nd-Order r.avg.,WordSynonyms,0.5108150470219436
+1062,Rollout 2nd-Order r.avg. (old),ArrowHead,0.8982857142857142
+1063,Rollout 2nd-Order r.avg. (old),BME,0.8933333333333332
+1064,Rollout 2nd-Order r.avg. (old),Beef,0.98
+1065,Rollout 2nd-Order r.avg. (old),CBF,0.8317777777777776
+1066,Rollout 2nd-Order r.avg. (old),Chinatown,0.8588921282798833
+1067,Rollout 2nd-Order r.avg. (old),Coffee,0.8785714285714287
+1068,Rollout 2nd-Order r.avg. (old),DiatomSizeReduction,0.9209150326797385
+1069,Rollout 2nd-Order r.avg. (old),DistalPhalanxOutlineAgeGroup,0.7294964028776979
+1070,Rollout 2nd-Order r.avg. (old),DistalPhalanxOutlineCorrect,0.6659420289855073
+1071,Rollout 2nd-Order r.avg. (old),DistalPhalanxTW,0.7007194244604319
+1072,Rollout 2nd-Order r.avg. (old),ECG200,0.898
+1073,Rollout 2nd-Order r.avg. (old),ECG5000,0.6812888888888887
+1074,Rollout 2nd-Order r.avg. (old),ECGFiveDays,0.8973286875725902
+1075,Rollout 2nd-Order r.avg. (old),FaceAll,0.4505325443786982
+1076,Rollout 2nd-Order r.avg. (old),FaceFour,0.890909090909091
+1077,Rollout 2nd-Order r.avg. (old),FacesUCR,0.4788292682926829
+1078,Rollout 2nd-Order r.avg. (old),FreezerRegularTrain,0.9792982456140352
+1079,Rollout 2nd-Order r.avg. (old),GunPoint,0.9386666666666666
+1080,Rollout 2nd-Order r.avg. (old),GunPointAgeSpan,0.9455696202531644
+1081,Rollout 2nd-Order r.avg. (old),GunPointMaleVersusFemale,0.8063291139240508
+1082,Rollout 2nd-Order r.avg. (old),GunPointOldVersusYoung,0.8368253968253967
+1083,Rollout 2nd-Order r.avg. (old),Ham,0.9161904761904761
+1084,Rollout 2nd-Order r.avg. (old),ItalyPowerDemand,0.8983479105928085
+1085,Rollout 2nd-Order r.avg. (old),Lightning7,0.5780821917808219
+1086,Rollout 2nd-Order r.avg. (old),Meat,0.73
+1087,Rollout 2nd-Order r.avg. (old),MedicalImages,0.5418421052631579
+1088,Rollout 2nd-Order r.avg. (old),MiddlePhalanxOutlineAgeGroup,0.5571428571428572
+1089,Rollout 2nd-Order r.avg. (old),MiddlePhalanxOutlineCorrect,0.6982817869415806
+1090,Rollout 2nd-Order r.avg. (old),MiddlePhalanxTW,0.7272727272727272
+1091,Rollout 2nd-Order r.avg. (old),MoteStrain,0.8504792332268373
+1092,Rollout 2nd-Order r.avg. (old),PhalangesOutlinesCorrect,0.6687645687645688
+1093,Rollout 2nd-Order r.avg. (old),Plane,0.918095238095238
+1094,Rollout 2nd-Order r.avg. (old),PowerCons,0.7333333333333334
+1095,Rollout 2nd-Order r.avg. (old),ProximalPhalanxOutlineAgeGroup,0.7121951219512196
+1096,Rollout 2nd-Order r.avg. (old),ProximalPhalanxOutlineCorrect,0.7024054982817868
+1097,Rollout 2nd-Order r.avg. (old),ProximalPhalanxTW,0.8068292682926831
+1098,Rollout 2nd-Order r.avg. (old),ShapeletSim,0.8333333333333334
+1099,Rollout 2nd-Order r.avg. (old),SmoothSubspace,0.7866666666666666
+1100,Rollout 2nd-Order r.avg. (old),SonyAIBORobotSurface2,0.8977964323189926
+1101,Rollout 2nd-Order r.avg. (old),Strawberry,0.7556756756756758
+1102,Rollout 2nd-Order r.avg. (old),SwedishLeaf,0.56096
+1103,Rollout 2nd-Order r.avg. (old),Symbols,0.8868341708542712
+1104,Rollout 2nd-Order r.avg. (old),SyntheticControl,0.7040000000000001
+1105,Rollout 2nd-Order r.avg. (old),ToeSegmentation1,0.8140350877192984
+1106,Rollout 2nd-Order r.avg. (old),ToeSegmentation2,0.4569230769230768
+1107,Rollout 2nd-Order r.avg. (old),Trace,0.9540000000000001
+1108,Rollout 2nd-Order r.avg. (old),TwoLeadECG,0.8189640035118527
+1109,Rollout 2nd-Order r.avg. (old),TwoPatterns,0.34864999999999996
+1110,Rollout 2nd-Order r.avg. (old),UMD,0.7875
+1111,Rollout 2nd-Order r.avg. (old),Wine,1.0
+1112,SimpleGCR 1st-Order r.avg.,Adiac,0.7182864450127877
+1113,SimpleGCR 1st-Order r.avg.,ArrowHead,0.6928571428571428
+1114,SimpleGCR 1st-Order r.avg.,BME,0.9963333333333333
+1115,SimpleGCR 1st-Order r.avg.,Beef,0.81
+1116,SimpleGCR 1st-Order r.avg.,CBF,0.9824444444444445
+1117,SimpleGCR 1st-Order r.avg.,Chinatown,0.9723032069970845
+1118,SimpleGCR 1st-Order r.avg.,ChlorineConcentration,0.24745442708333332
+1119,SimpleGCR 1st-Order r.avg.,Coffee,0.9875
+1120,SimpleGCR 1st-Order r.avg.,CricketY,0.5026282051282052
+1121,SimpleGCR 1st-Order r.avg.,DiatomSizeReduction,0.9015522875816994
+1122,SimpleGCR 1st-Order r.avg.,DistalPhalanxOutlineAgeGroup,0.8575539568345324
+1123,SimpleGCR 1st-Order r.avg.,DistalPhalanxOutlineCorrect,0.46920289855072467
+1124,SimpleGCR 1st-Order r.avg.,DistalPhalanxTW,0.8329136690647482
+1125,SimpleGCR 1st-Order r.avg.,ECG200,0.799
+1126,SimpleGCR 1st-Order r.avg.,ECG5000,0.9286444444444445
+1127,SimpleGCR 1st-Order r.avg.,ECGFiveDays,0.8294715447154472
+1128,SimpleGCR 1st-Order r.avg.,FaceAll,0.6943491124260355
+1129,SimpleGCR 1st-Order r.avg.,FaceFour,0.7056818181818182
+1130,SimpleGCR 1st-Order r.avg.,FacesUCR,0.4721829268292683
+1131,SimpleGCR 1st-Order r.avg.,FiftyWords,0.46686813186813186
+1132,SimpleGCR 1st-Order r.avg.,Fish,0.6697142857142857
+1133,SimpleGCR 1st-Order r.avg.,FreezerRegularTrain,0.9540701754385965
+1134,SimpleGCR 1st-Order r.avg.,GunPoint,0.8886666666666666
+1135,SimpleGCR 1st-Order r.avg.,GunPointAgeSpan,0.9176424050632912
+1136,SimpleGCR 1st-Order r.avg.,GunPointMaleVersusFemale,0.9965189873417721
+1137,SimpleGCR 1st-Order r.avg.,GunPointOldVersusYoung,1.0
+1138,SimpleGCR 1st-Order r.avg.,Ham,0.6030952380952381
+1139,SimpleGCR 1st-Order r.avg.,ItalyPowerDemand,0.9555636540330418
+1140,SimpleGCR 1st-Order r.avg.,Lightning7,0.7082191780821918
+1141,SimpleGCR 1st-Order r.avg.,Meat,0.9424999999999999
+1142,SimpleGCR 1st-Order r.avg.,MedicalImages,0.5575657894736843
+1143,SimpleGCR 1st-Order r.avg.,MiddlePhalanxOutlineAgeGroup,0.7053571428571429
+1144,SimpleGCR 1st-Order r.avg.,MiddlePhalanxOutlineCorrect,0.4220790378006873
+1145,SimpleGCR 1st-Order r.avg.,MiddlePhalanxTW,0.7842532467532468
+1146,SimpleGCR 1st-Order r.avg.,MoteStrain,0.8957667731629393
+1147,SimpleGCR 1st-Order r.avg.,OSULeaf,0.7434917355371901
+1148,SimpleGCR 1st-Order r.avg.,PhalangesOutlinesCorrect,0.40303030303030307
+1149,SimpleGCR 1st-Order r.avg.,Plane,0.9754761904761905
+1150,SimpleGCR 1st-Order r.avg.,PowerCons,0.9654166666666667
+1151,SimpleGCR 1st-Order r.avg.,ProximalPhalanxOutlineAgeGroup,0.9167073170731707
+1152,SimpleGCR 1st-Order r.avg.,ProximalPhalanxOutlineCorrect,0.4929553264604811
+1153,SimpleGCR 1st-Order r.avg.,ProximalPhalanxTW,0.8291463414634146
+1154,SimpleGCR 1st-Order r.avg.,ShapeletSim,0.9841666666666666
+1155,SimpleGCR 1st-Order r.avg.,SmoothSubspace,0.9651666666666667
+1156,SimpleGCR 1st-Order r.avg.,SonyAIBORobotSurface2,0.9181794333683106
+1157,SimpleGCR 1st-Order r.avg.,Strawberry,0.8960135135135135
+1158,SimpleGCR 1st-Order r.avg.,SwedishLeaf,0.8858
+1159,SimpleGCR 1st-Order r.avg.,Symbols,0.8824120603015075
+1160,SimpleGCR 1st-Order r.avg.,SyntheticControl,0.98075
+1161,SimpleGCR 1st-Order r.avg.,ToeSegmentation1,0.7832236842105263
+1162,SimpleGCR 1st-Order r.avg.,ToeSegmentation2,0.8871153846153846
+1163,SimpleGCR 1st-Order r.avg.,Trace,0.998
+1164,SimpleGCR 1st-Order r.avg.,TwoLeadECG,0.8827480245829675
+1165,SimpleGCR 1st-Order r.avg.,TwoPatterns,0.83113125
+1166,SimpleGCR 1st-Order r.avg.,UMD,0.9635416666666666
+1167,SimpleGCR 1st-Order r.avg.,Wine,0.7208333333333333
+1168,SimpleGCR 1st-Order r.avg.,WordSynonyms,0.4949843260188088
+1169,SimpleGCR 1st-Order r.avg. (old),Adiac,0.4102301790281329
+1170,SimpleGCR 1st-Order r.avg. (old),ArrowHead,0.8091428571428572
+1171,SimpleGCR 1st-Order r.avg. (old),BME,0.8333333333333334
+1172,SimpleGCR 1st-Order r.avg. (old),Beef,0.79
+1173,SimpleGCR 1st-Order r.avg. (old),CBF,0.8222222222222223
+1174,SimpleGCR 1st-Order r.avg. (old),Chinatown,0.8778425655976676
+1175,SimpleGCR 1st-Order r.avg. (old),ChlorineConcentration,0.4170833333333333
+1176,SimpleGCR 1st-Order r.avg. (old),Coffee,0.8071428571428573
+1177,SimpleGCR 1st-Order r.avg. (old),CricketY,0.3456410256410256
+1178,SimpleGCR 1st-Order r.avg. (old),DiatomSizeReduction,0.9062091503267974
+1179,SimpleGCR 1st-Order r.avg. (old),DistalPhalanxOutlineAgeGroup,0.8784172661870503
+1180,SimpleGCR 1st-Order r.avg. (old),DistalPhalanxOutlineCorrect,0.7655797101449275
+1181,SimpleGCR 1st-Order r.avg. (old),DistalPhalanxTW,0.720863309352518
+1182,SimpleGCR 1st-Order r.avg. (old),ECG200,0.823
+1183,SimpleGCR 1st-Order r.avg. (old),ECG5000,0.5751111111111111
+1184,SimpleGCR 1st-Order r.avg. (old),ECGFiveDays,0.8629500580720094
+1185,SimpleGCR 1st-Order r.avg. (old),FaceAll,0.5260355029585798
+1186,SimpleGCR 1st-Order r.avg. (old),FaceFour,0.7181818181818183
+1187,SimpleGCR 1st-Order r.avg. (old),FacesUCR,0.4952682926829268
+1188,SimpleGCR 1st-Order r.avg. (old),FiftyWords,0.43428571428571433
+1189,SimpleGCR 1st-Order r.avg. (old),Fish,0.2914285714285715
+1190,SimpleGCR 1st-Order r.avg. (old),FreezerRegularTrain,0.9732631578947369
+1191,SimpleGCR 1st-Order r.avg. (old),GunPoint,0.8993333333333333
+1192,SimpleGCR 1st-Order r.avg. (old),GunPointAgeSpan,0.9499999999999998
+1193,SimpleGCR 1st-Order r.avg. (old),GunPointMaleVersusFemale,0.8123417721518988
+1194,SimpleGCR 1st-Order r.avg. (old),GunPointOldVersusYoung,0.7879365079365078
+1195,SimpleGCR 1st-Order r.avg. (old),Ham,0.7933333333333333
+1196,SimpleGCR 1st-Order r.avg. (old),ItalyPowerDemand,0.9054421768707482
+1197,SimpleGCR 1st-Order r.avg. (old),Lightning7,0.5438356164383561
+1198,SimpleGCR 1st-Order r.avg. (old),Meat,0.6066666666666666
+1199,SimpleGCR 1st-Order r.avg. (old),MedicalImages,0.5776315789473684
+1200,SimpleGCR 1st-Order r.avg. (old),MiddlePhalanxOutlineAgeGroup,0.5577922077922078
+1201,SimpleGCR 1st-Order r.avg. (old),MiddlePhalanxOutlineCorrect,0.41340206185567013
+1202,SimpleGCR 1st-Order r.avg. (old),MiddlePhalanxTW,0.5993506493506494
+1203,SimpleGCR 1st-Order r.avg. (old),MoteStrain,0.7807507987220448
+1204,SimpleGCR 1st-Order r.avg. (old),OSULeaf,0.42892561983471084
+1205,SimpleGCR 1st-Order r.avg. (old),PhalangesOutlinesCorrect,0.810955710955711
+1206,SimpleGCR 1st-Order r.avg. (old),Plane,0.9514285714285714
+1207,SimpleGCR 1st-Order r.avg. (old),PowerCons,0.8383333333333334
+1208,SimpleGCR 1st-Order r.avg. (old),ProximalPhalanxOutlineAgeGroup,0.4039024390243902
+1209,SimpleGCR 1st-Order r.avg. (old),ProximalPhalanxOutlineCorrect,0.5632302405498281
+1210,SimpleGCR 1st-Order r.avg. (old),ProximalPhalanxTW,0.5258536585365853
+1211,SimpleGCR 1st-Order r.avg. (old),ShapeletSim,0.7811111111111111
+1212,SimpleGCR 1st-Order r.avg. (old),SmoothSubspace,0.8826666666666667
+1213,SimpleGCR 1st-Order r.avg. (old),SonyAIBORobotSurface2,0.855613850996852
+1214,SimpleGCR 1st-Order r.avg. (old),Strawberry,0.7764864864864864
+1215,SimpleGCR 1st-Order r.avg. (old),SwedishLeaf,0.51376
+1216,SimpleGCR 1st-Order r.avg. (old),Symbols,0.8312562814070352
+1217,SimpleGCR 1st-Order r.avg. (old),SyntheticControl,0.8263333333333334
+1218,SimpleGCR 1st-Order r.avg. (old),ToeSegmentation1,0.7254385964912281
+1219,SimpleGCR 1st-Order r.avg. (old),ToeSegmentation2,0.5153846153846153
+1220,SimpleGCR 1st-Order r.avg. (old),Trace,0.879
+1221,SimpleGCR 1st-Order r.avg. (old),TwoLeadECG,0.8337137840210711
+1222,SimpleGCR 1st-Order r.avg. (old),TwoPatterns,0.3570499999999999
+1223,SimpleGCR 1st-Order r.avg. (old),UMD,0.71875
+1224,SimpleGCR 1st-Order r.avg. (old),Wine,0.9592592592592593
+1225,SimpleGCR 1st-Order r.avg. (old),WordSynonyms,0.5420062695924764
+1226,SimpleGCR 2nd-Order r.avg.,Adiac,0.7758312020460358
+1227,SimpleGCR 2nd-Order r.avg.,ArrowHead,0.7951428571428572
+1228,SimpleGCR 2nd-Order r.avg.,BME,0.9963333333333333
+1229,SimpleGCR 2nd-Order r.avg.,Beef,0.8541666666666667
+1230,SimpleGCR 2nd-Order r.avg.,CBF,0.9895277777777778
+1231,SimpleGCR 2nd-Order r.avg.,Chinatown,0.9740524781341108
+1232,SimpleGCR 2nd-Order r.avg.,ChlorineConcentration,0.7083072916666666
+1233,SimpleGCR 2nd-Order r.avg.,Coffee,0.9910714285714286
+1234,SimpleGCR 2nd-Order r.avg.,CricketY,0.6391666666666667
+1235,SimpleGCR 2nd-Order r.avg.,DiatomSizeReduction,0.9291666666666667
+1236,SimpleGCR 2nd-Order r.avg.,DistalPhalanxOutlineAgeGroup,0.8780575539568346
+1237,SimpleGCR 2nd-Order r.avg.,DistalPhalanxOutlineCorrect,0.8814311594202899
+1238,SimpleGCR 2nd-Order r.avg.,DistalPhalanxTW,0.8453237410071943
+1239,SimpleGCR 2nd-Order r.avg.,ECG200,0.84975
+1240,SimpleGCR 2nd-Order r.avg.,ECG5000,0.9583055555555555
+1241,SimpleGCR 2nd-Order r.avg.,ECGFiveDays,0.8731707317073171
+1242,SimpleGCR 2nd-Order r.avg.,FaceAll,0.7627958579881657
+1243,SimpleGCR 2nd-Order r.avg.,FaceFour,0.8340909090909091
+1244,SimpleGCR 2nd-Order r.avg.,FacesUCR,0.5614146341463415
+1245,SimpleGCR 2nd-Order r.avg.,FiftyWords,0.48620879120879124
+1246,SimpleGCR 2nd-Order r.avg.,Fish,0.8021428571428572
+1247,SimpleGCR 2nd-Order r.avg.,FreezerRegularTrain,0.9536754385964913
+1248,SimpleGCR 2nd-Order r.avg.,GunPoint,0.9366666666666668
+1249,SimpleGCR 2nd-Order r.avg.,GunPointAgeSpan,0.9621835443037975
+1250,SimpleGCR 2nd-Order r.avg.,GunPointMaleVersusFemale,0.9993670886075949
+1251,SimpleGCR 2nd-Order r.avg.,GunPointOldVersusYoung,1.0
+1252,SimpleGCR 2nd-Order r.avg.,Ham,0.8285714285714285
+1253,SimpleGCR 2nd-Order r.avg.,ItalyPowerDemand,0.963508260447036
+1254,SimpleGCR 2nd-Order r.avg.,Lightning7,0.7743150684931507
+1255,SimpleGCR 2nd-Order r.avg.,Meat,0.93625
+1256,SimpleGCR 2nd-Order r.avg.,MedicalImages,0.6371710526315789
+1257,SimpleGCR 2nd-Order r.avg.,MiddlePhalanxOutlineAgeGroup,0.8056818181818182
+1258,SimpleGCR 2nd-Order r.avg.,MiddlePhalanxOutlineCorrect,0.7256013745704467
+1259,SimpleGCR 2nd-Order r.avg.,MiddlePhalanxTW,0.8081168831168831
+1260,SimpleGCR 2nd-Order r.avg.,MoteStrain,0.8999600638977636
+1261,SimpleGCR 2nd-Order r.avg.,OSULeaf,0.7068181818181818
+1262,SimpleGCR 2nd-Order r.avg.,PhalangesOutlinesCorrect,0.7775641025641026
+1263,SimpleGCR 2nd-Order r.avg.,Plane,0.9926190476190476
+1264,SimpleGCR 2nd-Order r.avg.,PowerCons,0.9681944444444444
+1265,SimpleGCR 2nd-Order r.avg.,ProximalPhalanxOutlineAgeGroup,0.9557317073170731
+1266,SimpleGCR 2nd-Order r.avg.,ProximalPhalanxOutlineCorrect,0.8664089347079038
+1267,SimpleGCR 2nd-Order r.avg.,ProximalPhalanxTW,0.886219512195122
+1268,SimpleGCR 2nd-Order r.avg.,ShapeletSim,0.9869444444444444
+1269,SimpleGCR 2nd-Order r.avg.,SmoothSubspace,0.9576666666666667
+1270,SimpleGCR 2nd-Order r.avg.,SonyAIBORobotSurface2,0.9181269674711438
+1271,SimpleGCR 2nd-Order r.avg.,Strawberry,0.9312162162162163
+1272,SimpleGCR 2nd-Order r.avg.,SwedishLeaf,0.927
+1273,SimpleGCR 2nd-Order r.avg.,Symbols,0.9025125628140703
+1274,SimpleGCR 2nd-Order r.avg.,SyntheticControl,0.9873333333333334
+1275,SimpleGCR 2nd-Order r.avg.,ToeSegmentation1,0.8270833333333334
+1276,SimpleGCR 2nd-Order r.avg.,ToeSegmentation2,0.9107692307692308
+1277,SimpleGCR 2nd-Order r.avg.,Trace,0.998
+1278,SimpleGCR 2nd-Order r.avg.,TwoLeadECG,0.8900351185250219
+1279,SimpleGCR 2nd-Order r.avg.,TwoPatterns,0.9656375
+1280,SimpleGCR 2nd-Order r.avg.,UMD,0.9723958333333333
+1281,SimpleGCR 2nd-Order r.avg.,Wine,0.7851851851851852
+1282,SimpleGCR 2nd-Order r.avg.,WordSynonyms,0.525705329153605
+1283,SimpleGCR 2nd-Order r.avg. (old),Adiac,0.6061381074168798
+1284,SimpleGCR 2nd-Order r.avg. (old),ArrowHead,0.8285714285714286
+1285,SimpleGCR 2nd-Order r.avg. (old),BME,0.8373333333333332
+1286,SimpleGCR 2nd-Order r.avg. (old),Beef,0.7966666666666665
+1287,SimpleGCR 2nd-Order r.avg. (old),CBF,0.8361111111111112
+1288,SimpleGCR 2nd-Order r.avg. (old),Chinatown,0.9236151603498542
+1289,SimpleGCR 2nd-Order r.avg. (old),ChlorineConcentration,0.8078125000000002
+1290,SimpleGCR 2nd-Order r.avg. (old),Coffee,0.875
+1291,SimpleGCR 2nd-Order r.avg. (old),CricketY,0.47692307692307684
+1292,SimpleGCR 2nd-Order r.avg. (old),DiatomSizeReduction,0.9065359477124183
+1293,SimpleGCR 2nd-Order r.avg. (old),DistalPhalanxOutlineAgeGroup,0.8884892086330934
+1294,SimpleGCR 2nd-Order r.avg. (old),DistalPhalanxOutlineCorrect,0.6326086956521739
+1295,SimpleGCR 2nd-Order r.avg. (old),DistalPhalanxTW,0.8388489208633093
+1296,SimpleGCR 2nd-Order r.avg. (old),ECG200,0.892
+1297,SimpleGCR 2nd-Order r.avg. (old),ECG5000,0.9632222222222221
+1298,SimpleGCR 2nd-Order r.avg. (old),ECGFiveDays,0.8921022067363532
+1299,SimpleGCR 2nd-Order r.avg. (old),FaceAll,0.6561538461538462
+1300,SimpleGCR 2nd-Order r.avg. (old),FaceFour,0.8000000000000002
+1301,SimpleGCR 2nd-Order r.avg. (old),FacesUCR,0.6201463414634146
+1302,SimpleGCR 2nd-Order r.avg. (old),FiftyWords,0.5846153846153845
+1303,SimpleGCR 2nd-Order r.avg. (old),Fish,0.590857142857143
+1304,SimpleGCR 2nd-Order r.avg. (old),FreezerRegularTrain,0.9879298245614034
+1305,SimpleGCR 2nd-Order r.avg. (old),GunPoint,0.9113333333333333
+1306,SimpleGCR 2nd-Order r.avg. (old),GunPointAgeSpan,0.9579113924050633
+1307,SimpleGCR 2nd-Order r.avg. (old),GunPointMaleVersusFemale,0.9500000000000001
+1308,SimpleGCR 2nd-Order r.avg. (old),GunPointOldVersusYoung,0.9333333333333335
+1309,SimpleGCR 2nd-Order r.avg. (old),Ham,0.821904761904762
+1310,SimpleGCR 2nd-Order r.avg. (old),ItalyPowerDemand,0.9304178814382894
+1311,SimpleGCR 2nd-Order r.avg. (old),Lightning7,0.5383561643835616
+1312,SimpleGCR 2nd-Order r.avg. (old),Meat,0.8483333333333333
+1313,SimpleGCR 2nd-Order r.avg. (old),MedicalImages,0.7339473684210526
+1314,SimpleGCR 2nd-Order r.avg. (old),MiddlePhalanxOutlineAgeGroup,0.7545454545454545
+1315,SimpleGCR 2nd-Order r.avg. (old),MiddlePhalanxOutlineCorrect,0.6989690721649483
+1316,SimpleGCR 2nd-Order r.avg. (old),MiddlePhalanxTW,0.7954545454545454
+1317,SimpleGCR 2nd-Order r.avg. (old),MoteStrain,0.8369808306709264
+1318,SimpleGCR 2nd-Order r.avg. (old),OSULeaf,0.5388429752066115
+1319,SimpleGCR 2nd-Order r.avg. (old),PhalangesOutlinesCorrect,0.4637529137529138
+1320,SimpleGCR 2nd-Order r.avg. (old),Plane,0.9628571428571427
+1321,SimpleGCR 2nd-Order r.avg. (old),PowerCons,0.9255555555555556
+1322,SimpleGCR 2nd-Order r.avg. (old),ProximalPhalanxOutlineAgeGroup,0.8517073170731706
+1323,SimpleGCR 2nd-Order r.avg. (old),ProximalPhalanxOutlineCorrect,0.9079037800687285
+1324,SimpleGCR 2nd-Order r.avg. (old),ProximalPhalanxTW,0.8663414634146344
+1325,SimpleGCR 2nd-Order r.avg. (old),ShapeletSim,0.7816666666666667
+1326,SimpleGCR 2nd-Order r.avg. (old),SmoothSubspace,0.9666666666666667
+1327,SimpleGCR 2nd-Order r.avg. (old),SonyAIBORobotSurface2,0.8816369359916054
+1328,SimpleGCR 2nd-Order r.avg. (old),Strawberry,0.8818918918918919
+1329,SimpleGCR 2nd-Order r.avg. (old),SwedishLeaf,0.7200000000000001
+1330,SimpleGCR 2nd-Order r.avg. (old),Symbols,0.8431155778894471
+1331,SimpleGCR 2nd-Order r.avg. (old),SyntheticControl,0.922
+1332,SimpleGCR 2nd-Order r.avg. (old),ToeSegmentation1,0.7390350877192983
+1333,SimpleGCR 2nd-Order r.avg. (old),ToeSegmentation2,0.736153846153846
+1334,SimpleGCR 2nd-Order r.avg. (old),Trace,0.9289999999999999
+1335,SimpleGCR 2nd-Order r.avg. (old),TwoLeadECG,0.8666374012291485
+1336,SimpleGCR 2nd-Order r.avg. (old),TwoPatterns,0.8075000000000001
+1337,SimpleGCR 2nd-Order r.avg. (old),UMD,0.8902777777777778
+1338,SimpleGCR 2nd-Order r.avg. (old),Wine,0.9666666666666667
+1339,SimpleGCR 2nd-Order r.avg. (old),WordSynonyms,0.5915360501567398

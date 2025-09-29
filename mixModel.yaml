@@ -1,0 +1,80 @@
+seml:
+  executable: symbolicFeaturesExperiments.py  
+  name:  symbolicFeaturesExperiments
+  output_dir: logs
+  project_root_dir: .
+
+
+slurm:
+  experiments_per_job: 8
+  max_simultaneous_jobs: 6  # Restrict number of simultaneously running jobs per job array
+  sbatch_options:
+    gres: gpu:1       # num GPUs
+    mem: 450G          # memory
+    cpus-per-task: 120  # num cores
+    time: 7-08:00     # max time, D-HH:MM
+
+fixed:
+  init.nrFolds: 5
+  init.patience: 150
+  init.seed_value: 42
+
+
+  model.stride: 1
+  model.kernal_size: 3
+  model.nc: 1
+  init.useSaves: False
+
+  model.methods: {'CNN': {'captum': ['IntegratedGradients','FeaturePermutation'], 'Random':{'Random'}}, 'Transformer': {'LRP': [rollout], 'captum': ['IntegratedGradients','FeaturePermutation'], 'Attention':['.'], 'Random':{'Random'}}, 'Tree': {SHAP: ['.']}}
+
+  model.thresholdSteps: 20
+
+  data.symbolicStrategy: MCB
+
+  data.dataset: UCR
+
+  model.batch_size: 50
+
+  data.doSymbolify: True
+
+  data.doFeatureExtraction: True
+
+
+grid:
+  
+  model.hypers:
+    type: choice
+    options:
+      - ['Transformer', 500, 64, 0.5, True, True, 4 ,  3, 0 , 0, False] 
+      - ['Transformer', 500, 32, 0.5, True, True, 4 ,  2, 0 , 0, False]
+      - ['CNN', 500, 16, 1, True , True , 0 ,  3, 0 , 0, False]
+      - ['CNN', 500, 16, 1, True , True , 0 ,  2, 0 , 0, False]
+
+  #TODO combis? -> oder weglassen weil Quantile für Features und Uniform für SAX sind bereits bekannt!? -> nur MCB oder auch SAX hinten ranhängen? -> oder nur quantile quantile und quantile uniform? 
+  #Uniform sax und quantile mcb?
+  data.symbolificationStrategy:
+    type: choice
+    options:
+      - 'uniform'
+      #- 'quantile'
+  
+  init.symbolCount:
+    type: choice
+    options:
+      - 5
+      - 9
+  
+  data.numberFeatures:
+    type: choice
+    options:
+      - 200
+      #-400
+
+
+  data.dsNumber:
+    type: range
+    min: 0 
+    max: 112
+    step: 1
+
+

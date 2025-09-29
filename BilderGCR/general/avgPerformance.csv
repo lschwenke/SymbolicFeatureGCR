@@ -1,0 +1,22 @@
+,method,Test Accuracy
+0,AdaBoost,0.6514739605367015
+1,"Assembly symbols 5, features 200, CNN l2",0.8185421019822692
+2,"Assembly symbols 5, features 200, CNN l3",0.8194320367182218
+3,"Assembly symbols 5, features 200, Transformer l2",0.8065344400801914
+4,"Assembly symbols 5, features 200, Transformer l3",0.8072461519179762
+5,"Assembly symbols 9, features 200, CNN l2",0.8197735713891379
+6,"Assembly symbols 9, features 200, CNN l3",0.8190427680937227
+7,"Assembly symbols 9, features 200, Transformer l2",0.8055139507792131
+8,"Assembly symbols 9, features 200, Transformer l3",0.8100774914346736
+9,Full Assembly,0.8230233967015166
+10,H-InceptionTime,0.855311278749273
+11,"Our Model symbols 5, features 200, CNN l2",0.7907793619740097
+12,"Our Model symbols 5, features 200, CNN l3",0.7891536100105458
+13,"Our Model symbols 5, features 200, Transformer l2",0.7745450975827195
+14,"Our Model symbols 5, features 200, Transformer l3",0.7777625018585507
+15,"Our Model symbols 9, features 200, CNN l2",0.7931580188201534
+16,"Our Model symbols 9, features 200, CNN l3",0.7954527006815295
+17,"Our Model symbols 9, features 200, Transformer l2",0.7735345103477128
+18,"Our Model symbols 9, features 200, Transformer l3",0.779545197031225
+19,Random Forest,0.7973053500711057
+20,Rotational Forest,0.80974439396398

@@ -1,0 +1,58 @@
+seml:
+  executable: symbolicFeaturesPreprocessing.py  
+  name:  symbolicFeaturesPreprocessing
+  output_dir: logs
+  project_root_dir: .
+
+
+slurm:
+  experiments_per_job: 1
+  max_simultaneous_jobs: 6  # Restrict number of simultaneously running jobs per job array
+  sbatch_options:
+    gres: gpu:1       # num GPUs
+    mem: 300G          # memory
+    cpus-per-task: 120  # num cores
+    time: 7-08:00     # max time, D-HH:MM
+
+fixed:
+  init.nrFolds: 5
+  init.seed_value: 42
+
+  data.symbolicStrategy: MCB
+
+  data.dataset: UCR
+
+  data.doSymbolify: True
+
+  data.doFeatureExtraction: True
+  init.useSaves: False
+
+
+grid:
+  
+  data.symbolificationStrategy:
+    type: choice
+    options:
+      - 'uniform'
+      - 'quantile'
+  
+  init.symbolCount:
+    type: choice
+    options:
+      - 5
+      - 9
+  
+  data.numberFeatures:
+    type: choice
+    options:
+      - 200
+      - 400
+
+
+  data.dsNumber:
+    type: range
+    min: 0 
+    max: 112
+    step: 1
+
+
