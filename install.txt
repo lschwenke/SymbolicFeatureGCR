@@ -1,0 +1,8 @@
+python=3.9.19
+
+mamba install pytorch==2.2.1 torchvision==0.17.1 torchaudio==2.2.1 pytorch-cuda=11.8 -c pytorch -c nvidia
+pip install seml==0.3.7 captum==0.8.0 tslearn==0.6.3 scikit-learn==1.6.1 pandas==2.2.3 sktime==0.37.0 matplotlib==3.9.4 shap==0.47.2 grad-cam==1.5.5 joblib==1.4.2 dill==0.4.0 pycatch22==0.4.5 tsfel==0.1.9 tsfresh==0.21.0 pyts==0.13.0 transformer_encoder==0.0.3 imbalanced-learn==0.11.0 psutil==7.1.0 einops==0.6.1 numpy==1.23.5 
+
+
+
+Note, sometimes a cv2 package is missing. In that case use: pip install opencv-python-headless 

@@ -14431,6 +14431,36 @@ CricketZ
 acc MixedClasses sum Attention mode:0 fold: 3
 CricketZ
 --------------------
+acc MixedClasses sum Attention mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 4
+Crop
+--------------------
 acc MixedClasses sum Attention mode:0 fold: 4
 DiatomSizeReduction
 --------------------
@@ -16164,6 +16194,36 @@ CricketZ
 --------------------
 acc MixedClasses sum IntegratedGradients mode:0 fold: 4
 CricketZ
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 4
+Crop
 --------------------
 acc MixedClasses sum IntegratedGradients mode:0 fold: 0
 DiatomSizeReduction
@@ -18251,6 +18311,12 @@ acc MixedClasses sum FeaturePermutation mode:0 fold: 4
 CricketZ
 --------------------
 acc MixedClasses sum FeaturePermutation mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 1
 DiatomSizeReduction
 --------------------
 acc MixedClasses sum FeaturePermutation mode:0 fold: 0
@@ -19861,6 +19927,9 @@ Computers
 acc MixedClasses sum Random mode:0 fold: 4
 CricketY
 --------------------
+acc MixedClasses sum Random mode:0 fold: 3
+Crop
+--------------------
 acc MixedClasses sum Random mode:0 fold: 0
 DiatomSizeReduction
 --------------------
@@ -21136,6 +21205,21 @@ CricketZ
 acc MixedClasses sum Attention mode:0 fold: 4
 CricketZ
 --------------------
+acc MixedClasses sum Attention mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 4
+Crop
+--------------------
 acc MixedClasses sum Attention mode:0 fold: 2
 DiatomSizeReduction
 --------------------
@@ -22791,6 +22875,21 @@ CricketZ
 --------------------
 acc MixedClasses sum IntegratedGradients mode:0 fold: 4
 CricketZ
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 4
+Crop
 --------------------
 acc MixedClasses sum IntegratedGradients mode:0 fold: 0
 DiatomSizeReduction
@@ -24925,6 +25024,12 @@ CricketZ
 acc MixedClasses sum FeaturePermutation mode:0 fold: 4
 CricketZ
 --------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 1
+Crop
+--------------------
 acc MixedClasses sum FeaturePermutation mode:0 fold: 1
 DiatomSizeReduction
 --------------------
@@ -27159,6 +27264,36 @@ CricketZ
 --------------------
 acc MixedClasses sum IntegratedGradients mode:0 fold: 4
 CricketZ
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 4
+Crop
 --------------------
 acc MixedClasses sum IntegratedGradients mode:0 fold: 0
 DiatomSizeReduction
@@ -29429,6 +29564,36 @@ acc MixedClasses sum FeaturePermutation mode:0 fold: 4
 CricketZ
 --------------------
 acc MixedClasses sum FeaturePermutation mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 0
 DiatomSizeReduction
 --------------------
 acc MixedClasses sum FeaturePermutation mode:0 fold: 3
@@ -31772,6 +31937,36 @@ acc MixedClasses sum IntegratedGradients mode:0 fold: 4
 CricketZ
 --------------------
 acc MixedClasses sum IntegratedGradients mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 0
 DiatomSizeReduction
 --------------------
 acc MixedClasses sum IntegratedGradients mode:0 fold: 1
@@ -34123,6 +34318,18 @@ CricketZ
 acc MixedClasses sum FeaturePermutation mode:0 fold: 4
 CricketZ
 --------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 4
+Crop
+--------------------
 acc MixedClasses sum FeaturePermutation mode:0 fold: 0
 DiatomSizeReduction
 --------------------
@@ -35916,6 +36123,9 @@ Computers
 --------------------
 acc MixedClasses sum Random mode:0 fold: 4
 Computers
+--------------------
+acc MixedClasses sum Random mode:0 fold: 0
+Crop
 --------------------
 acc MixedClasses sum Random mode:0 fold: 0
 DistalPhalanxTW
@@ -38276,6 +38486,12 @@ acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 4
 CricketZ
 --------------------
 acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 0
 DiatomSizeReduction
 --------------------
 acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 1
@@ -39912,6 +40128,9 @@ CricketZ
 --------------------
 acc MixedClasses r.avg. FeaturePermutation mode:0 fold: 4
 CricketZ
+--------------------
+acc MixedClasses r.avg. FeaturePermutation mode:0 fold: 1
+Crop
 --------------------
 acc MixedClasses r.avg. FeaturePermutation mode:0 fold: 0
 DiatomSizeReduction
@@ -45794,6 +46013,27 @@ acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 4
 CricketZ
 --------------------
 acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 0
 DiatomSizeReduction
 --------------------
 acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 1
@@ -47800,6 +48040,9 @@ CricketZ
 acc MixedClasses r.avg. FeaturePermutation mode:0 fold: 4
 CricketZ
 --------------------
+acc MixedClasses r.avg. FeaturePermutation mode:0 fold: 4
+Crop
+--------------------
 acc MixedClasses r.avg. FeaturePermutation mode:0 fold: 0
 DiatomSizeReduction
 --------------------
@@ -49297,6 +49540,18 @@ CricketZ
 acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 4
 CricketZ
 --------------------
+acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 0
+Crop
+--------------------
 acc MixedClasses r.avg. IntegratedGradients mode:0 fold: 0
 DiatomSizeReduction
 --------------------
@@ -52486,6 +52741,12 @@ CricketX
 acc MixedClasses sum Rollout mode:0 fold: 0
 CricketY
 --------------------
+acc MixedClasses sum Rollout mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum Rollout mode:0 fold: 4
+Crop
+--------------------
 acc MixedClasses sum Rollout mode:0 fold: 0
 DistalPhalanxOutlineCorrect
 --------------------
@@ -52932,6 +53193,30 @@ CricketZ
 --------------------
 acc MixedClasses sum Attention mode:0 fold: 2
 CricketZ
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 4
+Crop
 --------------------
 acc MixedClasses sum Attention mode:0 fold: 4
 DiatomSizeReduction
@@ -54557,6 +54842,36 @@ acc MixedClasses sum IntegratedGradients mode:0 fold: 3
 CricketZ
 --------------------
 acc MixedClasses sum IntegratedGradients mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 0
 DiatomSizeReduction
 --------------------
 acc MixedClasses sum IntegratedGradients mode:0 fold: 1
@@ -56595,6 +56910,15 @@ CricketZ
 --------------------
 acc MixedClasses sum FeaturePermutation mode:0 fold: 4
 CricketZ
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 2
+Crop
 --------------------
 acc MixedClasses sum FeaturePermutation mode:0 fold: 0
 DiatomSizeReduction
@@ -58911,6 +59235,12 @@ CricketZ
 --------------------
 acc MixedClasses sum Attention mode:0 fold: 4
 CricketZ
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum Attention mode:0 fold: 4
+Crop
 --------------------
 acc MixedClasses sum Attention mode:0 fold: 3
 DiatomSizeReduction
@@ -60377,6 +60707,21 @@ acc MixedClasses sum IntegratedGradients mode:0 fold: 4
 CricketZ
 --------------------
 acc MixedClasses sum IntegratedGradients mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 0
 DiatomSizeReduction
 --------------------
 acc MixedClasses sum IntegratedGradients mode:0 fold: 1
@@ -62406,6 +62751,15 @@ CricketZ
 --------------------
 acc MixedClasses sum FeaturePermutation mode:0 fold: 4
 CricketZ
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 2
+Crop
 --------------------
 acc MixedClasses sum FeaturePermutation mode:0 fold: 0
 DiatomSizeReduction
@@ -64592,6 +64946,36 @@ acc MixedClasses sum IntegratedGradients mode:0 fold: 4
 CricketZ
 --------------------
 acc MixedClasses sum IntegratedGradients mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 0
 DiatomSizeReduction
 --------------------
 acc MixedClasses sum IntegratedGradients mode:0 fold: 1
@@ -66654,6 +67038,36 @@ CricketZ
 --------------------
 acc MixedClasses sum FeaturePermutation mode:0 fold: 4
 CricketZ
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 4
+Crop
 --------------------
 acc MixedClasses sum FeaturePermutation mode:0 fold: 0
 DiatomSizeReduction
@@ -68834,6 +69248,33 @@ acc MixedClasses sum IntegratedGradients mode:0 fold: 4
 CricketZ
 --------------------
 acc MixedClasses sum IntegratedGradients mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 3
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 4
+Crop
+--------------------
+acc MixedClasses sum IntegratedGradients mode:0 fold: 0
 DiatomSizeReduction
 --------------------
 acc MixedClasses sum IntegratedGradients mode:0 fold: 1
@@ -70977,6 +71418,21 @@ CricketZ
 --------------------
 acc MixedClasses sum FeaturePermutation mode:0 fold: 4
 CricketZ
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 2
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 0
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 1
+Crop
+--------------------
+acc MixedClasses sum FeaturePermutation mode:0 fold: 4
+Crop
 --------------------
 acc MixedClasses sum FeaturePermutation mode:0 fold: 0
 DiatomSizeReduction

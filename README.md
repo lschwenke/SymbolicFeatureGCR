@@ -12,6 +12,7 @@ The experiments show the advantage of symbolic higher-level features over featur
 - mixModel.yaml: Seml configuration for the main experiments
 - BilderGCR contains the summarised results in the form of images and tables
 - gcrResultResultProcessing.py: Evaluation script to generate all files in BilderGCR
+- BilderGCR\general\fullPerformance.csv: Full list of our numeric performance results
 
 ## Dependencies and installation guide
 

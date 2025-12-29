@@ -1,10 +1,10 @@
 ,method,Test Accuracy
-0,AdaBoostClassifier,0.7000075115921628
-1,Attention selective,0.834604418936389
-2,FeaturePermutation selective,0.8689788858053883
-3,IntegratedGradients selective,0.8741675140914619
-4,Random selective,0.7911461220585
-5,RandomForestClassifier,0.8702220585622176
-6,Rollout selective,0.8140646536348322
-7,RotationForest,0.8792959876329292
-8,SimpleGCR selective,0.8625729694028069
+0,AdaBoostClassifier,0.6963574262394601
+1,Attention selective,0.8331342051618719
+2,FeaturePermutation selective,0.8675780326583163
+3,IntegratedGradients selective,0.8727568985319719
+4,Random selective,0.7898294474993043
+5,RandomForestClassifier,0.8697983744649234
+6,Rollout selective,0.8124864828328204
+7,RotationForest,0.8788711267559915
+8,SimpleGCR selective,0.8616964675501458
